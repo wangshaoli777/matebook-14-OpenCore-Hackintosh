@@ -1,4 +1,4 @@
-# matebook-13-2019-oc-efi 黑苹果 hackintosh
+# matebook-13-2019-OpebCore-EFI 黑苹果 hackintosh
   
   如果你不会安装，需要安装服务，联系微信ske1996
 可提供收费安装服务，并且保修1个月
