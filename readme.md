@@ -11,7 +11,7 @@
 2.添加了保险文件（WRCOVERY.BIN）  
 用法：放入esr分区，与EFI文件夹并列即可
 
-下一个版本更新更新bigsur的EFI
+下一个版本可能更新bigsur的EFI
 
 ## 正常可用的部件：
   
