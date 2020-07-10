@@ -5,6 +5,9 @@
 
 
 ## 更新日志  
+20200710:
+添加了配置好的clover的efi文件用于安装，虽然也可以用这个clover文件复制到esr分区用于引导 
+但是强烈建议使用oc的efi引导你的hackintosh  
 
 20200709:  
 1.更改了三码  
@@ -78,9 +81,11 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 
 1.安装使用的镜像推荐使用我给的链接下载的那个，不要用他给的，以内有点旧了
 
-2. 视频的【14:37】开始他开始吧u盘的clover efi复制进ESR（EFI）分区，这一步复制我的efi进去
+2. 视频的【03:57】他说把配置好的clover文件解压到这个文件夹下时，将我的库中的【安装用clover的EFI】放进去  
 
-3. 视频的【16:44】开始是使用easyuefi创建efi引导，这一步前面都跟他视频一样，他怎么点你就怎么点，只不过，选择引导文件为：EFI/BOOT/BOOTx64.efi
+3.视频的【14:37】开始他开始吧u盘的clover efi复制进ESR（EFI）分区，这一步复制我的oc的efi进去。注意：这一步的efi跟第二步不一样，这一步用oc的
+
+4. 视频的【16:44】开始是使用easyuefi创建efi引导，这一步前面都跟他视频一样，他怎么点你就怎么点，只不过，选择引导文件为：EFI/BOOT/BOOTx64.efi
   
   
 
