@@ -5,7 +5,7 @@ please create a issues and send info of your device like year,cpu,matebook 13 or
 for helping more people who useing matebook to build their hackintosh.
 
 
-## Update log  
+## Update log:  
 20200712:  
 this efi cloud be used in matebook 13/14 2019  
 and under 2020 version likes:  
@@ -69,7 +69,7 @@ macos：10.15.5.
 
 matebook2019 i7-8565u mx250 sn720
 
-## how to install：  
+## How to install：  
 
 A perfect guide in:  
 
@@ -143,7 +143,8 @@ And use ↑and↓ in your keyboard to find "cpusetup"
 And press enter in keyboard to enert "cpusetup"  
 
 
-You will see this
+You will see this.  
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/IMAGE%200002-07-12%2023:20:39.jpg?raw=true)
 
   
 0030-0E in your computer must be 01  
