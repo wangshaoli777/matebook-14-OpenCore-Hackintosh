@@ -109,9 +109,9 @@ https://github.com/hackintosh-stuff/ComboJack
 
 
 终端运行下面路径的脚本
-
+```bash
 ComboJack_Installer/install.sh
-  
+```
   
 
 
