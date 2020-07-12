@@ -8,7 +8,7 @@ for helping more people who useing matebook to build their hackintosh.
 
 ## Update log:  
 20200712:  
-this efi cloud be used in matebook 13/14 2019  
+this efi could be used in matebook 13/14 2019  
 and under 2020 version likes:  
 except wifi couldnt be load,everything is as same as 2019 version,works fine.  
 the reason might be the 2020 version use 2gen ac9560,maybe can be fixed in future.
@@ -16,7 +16,7 @@ the reason might be the 2020 version use 2gen ac9560,maybe can be fixed in futur
 
 20200710:  
 add a clover efi be used to install macos,  
-this clover efi cloud be used to boot your hackintosh,too  
+this clover efi could be used to boot your hackintosh,too  
 But I strongly recommand to use opencore(oc) efi to boot your device.  
 
 
@@ -43,7 +43,7 @@ Next update maybe support Bigsur
 
 5.TrackPad
 
-6.Cloud get perfect powermanagement after disable cfg lock  
+6.Could get perfect powermanagement after disable cfg lock  
 
 7. done the FB,igpu(uhd620) works well
 
