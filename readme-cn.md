@@ -1,12 +1,17 @@
-# matebook-13-2019-OpenCore-EFI 黑苹果 hackintosh
+# matebook-13/14-2019-OpenCore-EFI 黑苹果 hackintosh
   
   如果你不会安装，需要安装服务，联系微信ske1996
 可提供收费安装服务，并且保修1个月
 
 
 ## 更新日志  
-20200710:
-添加了配置好的clover的efi文件用于安装，虽然也可以用这个clover文件复制到esr分区用于引导 
+20200712:  
+已知本efi可同时用于matebook 13/14 2019  
+与2020版本测试情况如下：  
+除了wifi不能驱动一切同2019版本，原因可能是2020版本采用了第二代9560
+
+20200710:  
+添加了配置好的clover的efi文件用于安装，虽然也可以用这个clover文件复制到esr分区用于引导   
 但是强烈建议使用oc的efi引导你的hackintosh  
 
 20200709:  
