@@ -169,11 +169,11 @@ https://zhuanlan.zhihu.com/p/121655468
 
 - @apple 感谢创造出macos
 
-- [@zxystd] 感谢创造出wifi以及蓝牙的驱动
+- [@zxystd](https://github.com/OpenIntelWireless/itlwm) 感谢创造出wifi以及蓝牙的驱动
 
-- [@MoZyo] 教会了我很多东西
+- [@MoZyo](https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh) 教会了我很多东西
 
-- [@Edoardo001] 我做黑苹果的入门引路人 感谢他在matebook13的clover版efi上的杰出贡献
+- [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh) 我做黑苹果的入门引路人 感谢他在matebook13的clover版efi上的杰出贡献
 
-- [@Zero-zer0] 参考了他的热键修复方法 十分感谢
+- [@Zero-zer0] (https://github.com/Zero-zer0) 参考了他的热键修复方法 十分感谢
 
