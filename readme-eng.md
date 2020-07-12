@@ -22,7 +22,7 @@ But I strongly recommand to use opencore(oc) efi to boot your device.
 
 20200709:  
 1.changed MLE,ROM,Serial number   
-2.add a insure file which can save your device（WRCOVERY.BIN）  
+2.add a insure file which can save your device from extremely mistake likes cant boot to any OS（WRCOVERY.BIN）  
 how to use:copy it to ESR
 
 Next update maybe support Bigsur
