@@ -165,15 +165,15 @@ https://zhuanlan.zhihu.com/p/121655468
 
 ## 感谢：
 
-@intel 感谢10年一管牙膏
+- @intel 感谢10年一管牙膏
 
-@apple 感谢创造出macos
+- @apple 感谢创造出macos
 
-@zxystd 感谢创造出wifi以及蓝牙的驱动
+- [@zxystd] 感谢创造出wifi以及蓝牙的驱动
 
-@MoZyo 教会了我很多东西
+- [@MoZyo] 教会了我很多东西
 
-@Edoardo001 我做黑苹果的入门引路人 感谢他在matebook13的clover版efi上的杰出贡献
+- [@Edoardo001] 我做黑苹果的入门引路人 感谢他在matebook13的clover版efi上的杰出贡献
 
-@Zero-zer0 参考了他的热键修复方法 十分感谢
+- [@Zero-zer0] 参考了他的热键修复方法 十分感谢
 
