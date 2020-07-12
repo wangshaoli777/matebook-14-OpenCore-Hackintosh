@@ -125,7 +125,7 @@ My selection：
 ## How to disable CFG lock：
 
 
-upgrade your bios to 1.27,cloud be download in HUAWEI's official page  
+upgrade your bios to 1.27,could be download in HUAWEI's official page  
 
 1. Format a usb memory to fat32  
 
