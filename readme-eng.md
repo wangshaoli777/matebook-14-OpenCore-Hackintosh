@@ -103,7 +103,9 @@ https://github.com/hackintosh-stuff/ComboJack
 
 run this .sh in terminal:  
 
+```bash
 ComboJack_Installer/install.sh
+```
   
   
 
