@@ -43,7 +43,7 @@ Next update maybe support Bigsur
 
 5.TrackPad
 
-6.Cloud get perfect powermanagement after unlock cfg   
+6.Cloud get perfect powermanagement after disable cfg lock  
 
 7. done the FB,igpu(uhd620) works well
 
@@ -122,7 +122,7 @@ My selection：
 4. input  1600x1066 1343x895 2160x1440  
   
   
-## Unlock CFG：
+## How to disable CFG lock：
 
 
 upgrade your bios to 1.27,cloud be download in HUAWEI's official page  
