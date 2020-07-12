@@ -24,6 +24,8 @@
 2.添加了保险文件（WRCOVERY.BIN）  
 用法：放入esr分区，与EFI文件夹并列即可
 
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%88%AA%E5%B1%8F0002-07-12%2023.29.34.png?raw=true)
+
 下一个版本可能更新bigsur的EFI
 
 ## 正常可用的部件：
