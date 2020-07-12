@@ -1,6 +1,6 @@
-# matebook-13/14-2019-OpenCore-EFI  hackintosh
+# matebook-13/14-2019-OpenCore-EFI  hackintosh
   
-If this EFI could run in your laptop well,  
+If this EFI could run in your laptop well,  
 please create a issues and send info of your device like year,cpu,matebook 13 or 14.  
 for helping more people who useing matebook to build their hackintosh.
 
