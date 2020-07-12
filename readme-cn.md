@@ -1,7 +1,10 @@
 # matebook-13/14-2019-OpenCore-EFI 黑苹果 hackintosh
   
   如果你不会安装，需要安装服务，联系微信ske1996
-可提供收费安装服务，并且保修1个月
+可提供收费安装服务，并且保修1个月  
+
+如果可用请在issues中提交你的机器信息（年份，cpu，matebook13还是14）  
+用于构建更好的efi
 
 
 ## 更新日志  
@@ -151,6 +154,10 @@ https://zhuanlan.zhihu.com/p/121655468
   
     
     
+  
+  
+如果可用请在issues中提交你的机器信息（年份，cpu，matebook13还是14）  
+用于构建更好的efi
 
 ## 感谢：
 
