@@ -175,16 +175,16 @@ If this EFI could run in your laptop well,
 please create a issues and send info of your device like year,cpu,matebook 13 or 14.  
 for helping more people who useing matebook to build their hackintosh.
 
-## 感谢：
+## Thanks：
 
-@intel 感谢10年一管牙膏
+- @intel to make cpu for us
 
-@apple 感谢创造出macos
+- @apple create macos for us
+ 
+- [@zxystd](https://github.com/OpenIntelWireless/itlwm) create kext of wifi and bluetooth  
 
-@zxystd 感谢创造出wifi以及蓝牙的驱动
+- [@MoZyo](https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh) teached me alot
 
-@MoZyo 教会了我很多东西
+- [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)  thanks him done a remarkable job in clover version hackintosh in matebook 13
 
-@Edoardo001 我做黑苹果的入门引路人 感谢他在matebook13的clover版efi上的杰出贡献
-
-@Zero-zer0 参考了他的热键修复方法 十分感谢
+- [@Zero-zer0](https://github.com/Zero-zer0) learned how to fix brightness key from him
