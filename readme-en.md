@@ -21,7 +21,7 @@ But I strongly recommand to use opencore(oc) efi to boot your device.
 
 
 20200709:  
-1.changed MLE,ROM,Serial number   
+1.changed MLB,ROM,Serial number   
 2.add a insure file which can save your device from extremely mistake likes cant boot to any OS（WRCOVERY.BIN）  
 how to use:copy it to ESR
 
@@ -84,7 +84,7 @@ https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.
 Download image from:  
 https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html  
  
-Strongly recommand to use chrome translate,if you dont speak Chinese.
+Strongly recommand to use chrome translate,if you dont understand Chinese.
 
 Serch this text in your chrome:  
 
@@ -135,7 +135,7 @@ upgrade your bios to 1.27,could be download in HUAWEI's official page
 
 4.download cfgunlock.zip  
 
-5.copy bootx64.efi from cfgunlock.zip to EFI/BOOT  
+5.copy bootx64.efi from cfgunlock.zip to EFI/BOOT in your usb 
 
 Restart and boot with this usb  
 
@@ -146,7 +146,7 @@ Press alt and "+" in same time
 And use ↑and↓ in your keyboard to find "cpusetup"  
 
 
-And press enter in keyboard to enert "cpusetup"  
+And press enter in keyboard to enter "cpusetup"  
 
 
 You will see this.  
@@ -179,7 +179,7 @@ for helping more people who useing matebook to build their hackintosh.
 
 ## Thanks：
 
-- @intel to make cpu for us
+- @intel make cpu for us
 
 - @apple create macos for us
  
