@@ -98,7 +98,7 @@ Serch this text in your chrome:
 
 From Heporis:  
 
-https://github.com/hackintosh-stuff/ComboJack  
+https://github.com/randomprofilename/ComboJack
 
 
 run this .sh in terminal:  
