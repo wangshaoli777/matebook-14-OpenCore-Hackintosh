@@ -6,7 +6,7 @@
 如果可用请在issues中提交你的机器信息（年份，cpu，matebook13还是14）  
 用于构建更好的efi
 
-[English](readme-en.md) | [中文](readme.md)    
+[中文](readme.md) | [日本語](readme-jp.md) | [English](readme-en.md)     
 
 
 ## 更新日志  
