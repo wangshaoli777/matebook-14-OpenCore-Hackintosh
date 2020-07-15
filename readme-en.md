@@ -28,7 +28,7 @@ But I strongly recommand to use opencore(oc) efi to boot your device.
 2.add a insure file which can save your device from extremely mistake likes cant boot to any OS（WRCOVERY.BIN）  
 how to use:copy it to ESR
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%88%AA%E5%B1%8F0002-07-12%2023.29.34.png?raw=true)   
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)   
 
 
 Next update maybe support Bigsur
@@ -153,7 +153,7 @@ And press enter in keyboard to enter "cpusetup"
 
 
 You will see this.  
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/IMAGE%200002-07-12%2023:20:39.jpg?raw=true)
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/RU.jpg?raw=true)
 
   
 0030-0E in your computer must be 01  
