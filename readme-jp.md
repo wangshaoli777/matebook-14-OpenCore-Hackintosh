@@ -54,7 +54,8 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 9. usb（ssdtを用いて修復）
 
-10.ホットキー(brightness and sound)
+10.ホットキー(brightness and sound)  
+11.audio jack(書いてある「ComboJackを用いてaudio jackを修復する方法」従う必要があります)
 
   
   
@@ -106,11 +107,9 @@ From Heporis:  　　
 https://github.com/randomprofilename/ComboJack
 
 
-上記のリングで記載している.shファイルをterminalで実行させるためのコード:  
-
-```bash
-ComboJack_Installer/install.sh
-```
+1.私の倉庫からComboJack-master.zipをダウンロード  
+2.ターミナルでComboJack_Installer/install.shを実行します
+3.再起動します
   
   
 
