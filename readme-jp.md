@@ -76,7 +76,8 @@ matebook13 2019 i7-8565u mx250 sn720
 ## インストールの手順：  
 
 下の外部ページを参考して下さい：  
-（このガイドは最高のものですが、一定の英語能力が必要です）
+（このガイドは最高のものですが、一定の英語能力が必要です）　　
+
 https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.html  
 
 ## もし手元にはマックOSのデイバスを持っていない場合：  
