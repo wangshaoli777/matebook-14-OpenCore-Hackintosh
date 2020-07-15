@@ -21,29 +21,29 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 
 20200709:  
-1.changed MLB,ROM,Serial number   
-2.add a insure file which can save your device from extremely mistake likes cant boot to any OS（WRCOVERY.BIN）  
-how to use:copy it to ESR
+1.新しい　MLB,ROM,Serial numberをアップデートしました   
+2.緊急修復に使うWRCOVERY.BINを添付しました、このファィルはrecoveryから抽出したものです  
+使い方:SSDのESRにコピーして下さい
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%88%AA%E5%B1%8F0002-07-12%2023.29.34.png?raw=true)   
 
 
-Next update maybe support Bigsur
+今後のアップデートには macos 11 Bigsurにサポートするかもしれません。
 
-## Works fine：
+## 正常に動作できるもの：
   
   
-1.bluetooth（could be used like original）From IntelBluetoothFirmware @zxystd
+1.bluetooth（完璧に動作できる）From IntelBluetoothFirmware @zxystd
 
-2.wifi （need to use propertree injeck your own ssid and password） From itlwm @zxystd
+2.wifi （propertreeを使ってssidとpasswordを設定する必要がある） From itlwm @zxystd
 
-3.sleep-wakeup works well
+3.sleep-wakeup 問題なし
 
-4.hdmi（audio of hdmi,too）
+4.hdmi（HDMIの音声も問題なし）
 
 5.TrackPad
 
-6.Could get perfect powermanagement after disable cfg lock  
+6.cfg lockをアンロックすることで、パワーマネジメントが完璧に動作できる  
 
 7. done the FB,igpu(uhd620) works well
 
