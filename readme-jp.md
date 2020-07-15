@@ -4,7 +4,7 @@
 件名は：matebook 13か14か、どのyearのバージョンか、CPUは何か。例：matebook 14 2019 I7 8565u  
 自分のデバイスでハッキングトッシュをインストールしたい他のユーザに対し、いい参考になりますので、ご協力を御願いします。
 
-[English](readme-en.md) | [中文](readme.md) | [日本語](readme-jp.md)
+[中文](readme.md) | [日本語](readme-jp.md) | [English](readme-en.md) 
 
 ## Update log:  
 20200712:  
