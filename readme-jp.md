@@ -102,7 +102,7 @@ From Heporis:
 https://github.com/hackintosh-stuff/ComboJack  
 
 
-この.shファイルをterminalで実行させるためのコード:  
+上記のリングで記載している.shファイルをterminalで実行させるためのコード:  
 
 ```bash
 ComboJack_Installer/install.sh
