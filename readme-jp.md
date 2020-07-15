@@ -79,7 +79,7 @@ matebook13 2019 i7-8565u mx250 sn720
 （このガイドは最高のものですが、一定の英語能力が必要です）
 https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.html  
 
-## もし手元にはマックOSのデイバスの場合：  
+## もし手元にはマックOSのデイバスを持っていない場合：  
 （上のガイドにはマックOSのデイバスでOSをインストールするに使うimgをダウンロードすることなります）
 下のリンクからOSをインストールするに使うimgをダウンロード可能:  
 https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html  
