@@ -108,7 +108,7 @@ https://github.com/randomprofilename/ComboJack
 
 
 1.私の倉庫からComboJack-master.zipをダウンロード  
-2.ターミナルでComboJack_Installer/install.shを実行します
+2.ターミナルでComboJack_Installer/install.shを実行します  
 3.再起動します
   
   
