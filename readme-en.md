@@ -7,6 +7,9 @@ for helping more people who useing matebook to build their hackintosh.
 [中文](readme.md) | [日本語](readme-jp.md) | [English](readme-en.md) 
 
 ## Update log:  
+- 20200715:  
+audio jack fixed,thanks randomprofilename  
+
 - 20200712:  
 this efi could be used in matebook 13/14 2019  
 and under 2020 version likes:  
@@ -51,7 +54,10 @@ Next update maybe support Bigsur
 
 9. usb（by using ssdt）
 
-10.FN key(brightness and sound)
+10.FN key(brightness and sound)  
+
+11.audio jack (need to use 【Install ComboJack to fix audio jack】under this page) 
+
 
   
   
@@ -60,10 +66,7 @@ Next update maybe support Bigsur
 
 1.Camera（5% in 1480 type could works fine,hope you luck） 
 
-2.audio jack works not perfectly（like Camera,hope you luck）  
-there is guide to fix audio jack under this guide
-
-3.mx250/150/350（hopeless）
+2.mx250/150/350（hopeless）
 
   
 ## Info of my device     
