@@ -7,20 +7,20 @@
 [中文](readme.md) | [日本語](readme-jp.md) | [English](readme-en.md) 
 
 ## アップデート履歴:  
-20200712:  
+- 20200712:  
 このEFIファイルは matebook 13/14 2019で動作できるのを判明しました。  
 そして、2020 versionでの動作状況は以下となります:  
 wifiのkextはload不能,他の部分は 2019 version,と同じでうまう動作できる.  
 原因は2020 versionには第二世代のac9560を使用しているらしいです、今後には、修復を期待できると考えています。
 
 
-20200710:  
+- 20200710:  
 マックOSをインストールするためのclover EFIを添付しました、    
 このclover EFIファイルはマックOSをbootすることにも使えるのですが、  
 opencore(oc) efiを使ってマックOSをbootすることをお勧めします.  
 
 
-20200709:  
+- 20200709:  
 1.新しい　MLB,ROM,Serial numberをアップデートしました   
 2.緊急修復に使うWRCOVERY.BINを添付しました、このファィルはrecoveryから抽出したものです  
 使い方:SSDのESRにコピーして下さい
