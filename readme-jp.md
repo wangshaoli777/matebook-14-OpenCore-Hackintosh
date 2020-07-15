@@ -118,7 +118,7 @@ https://github.com/xzhih/one-key-hidpi
  
 
 自分の例：  
-1. enable HiDPi (with patch/inject EDID)     一つ目には"2"を選んで下さい
+1. enable HiDPi (with patch/inject EDID)           一番目のステップで"2"を選んで下さい
 2. macbook pro   
 3. input 6    
 4. input  1600x1066 1343x895 2160x1440  
