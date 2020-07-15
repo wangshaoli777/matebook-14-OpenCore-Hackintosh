@@ -27,7 +27,7 @@
 2.添加了保险文件（WRCOVERY.BIN）  
 用法：放入esr分区，与EFI文件夹并列即可
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%88%AA%E5%B1%8F0002-07-12%2023.29.34.png?raw=true)
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)
 
 下一个版本可能更新bigsur的EFI
 
@@ -149,13 +149,13 @@ https://zhuanlan.zhihu.com/p/121655468
 
 微信收款码链接：
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E5%BE%AE%E4%BF%A1.jpg?raw=true). 
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E5%BE%AE%E4%BF%A1.jpg?raw=true). 
   
   
 
 支付宝收款码链接：
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?raw=true)
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?raw=true)
 
   
   
