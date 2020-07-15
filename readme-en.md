@@ -7,20 +7,20 @@ for helping more people who useing matebook to build their hackintosh.
 [中文](readme.md) | [日本語](readme-jp.md) | [English](readme-en.md) 
 
 ## Update log:  
-20200712:  
+- 20200712:  
 this efi could be used in matebook 13/14 2019  
 and under 2020 version likes:  
 except wifi couldnt be load,everything is as same as 2019 version,works fine.  
 the reason might be the 2020 version use 2gen ac9560,maybe can be fixed in future.
 
 
-20200710:  
+- 20200710:  
 add a clover efi be used to install macos,  
 this clover efi could be used to boot your hackintosh,too  
 But I strongly recommand to use opencore(oc) efi to boot your device.  
 
 
-20200709:  
+- 20200709:  
 1.changed MLB,ROM,Serial number   
 2.add a insure file which can save your device from extremely mistake likes cant boot to any OS（WRCOVERY.BIN）  
 how to use:copy it to ESR
@@ -116,7 +116,7 @@ https://github.com/xzhih/one-key-hidpi
  
 
 My selection：  
-1. enable HiDPi (with patch)     selete "2" at frist step
+1. enable HiDPi (with patch/)     selete "2" at frist step
 2. macbook pro   
 3. input 6    
 4. input  1600x1066 1343x895 2160x1440  
