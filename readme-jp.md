@@ -28,7 +28,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 2.緊急修復に使うWRCOVERY.BINを添付しました、このファィルはrecoveryから抽出したものです  
 使い方:SSDのESRにコピーして下さい
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%88%AA%E5%B1%8F0002-07-12%2023.29.34.png?raw=true)   
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)   
 
 
 今後のアップデートには macos 11 Bigsurにサポートするかもしれません。
@@ -154,7 +154,7 @@ And press enter in keyboard to enter "cpusetup"
 
 
 You will see this.  
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/IMAGE%200002-07-12%2023:20:39.jpg?raw=true)
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/RU.jpg?raw=true)
 
   
 0030-0E in your computer must be 01  
