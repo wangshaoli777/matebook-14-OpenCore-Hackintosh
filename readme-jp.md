@@ -101,6 +101,7 @@ https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clo
   
 
 ## ComboJackを用いてaudio jackを修復する方法
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)  
 
 From Heporis:  　　
 
