@@ -98,9 +98,9 @@ https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clo
 
 ## ComboJackを用いてaudio jackを修復する方法
 
-From Heporis:  
+From Heporis:  　　
 
-https://github.com/hackintosh-stuff/ComboJack  
+https://github.com/randomprofilename/ComboJack
 
 
 上記のリングで記載している.shファイルをterminalで実行させるためのコード:  
