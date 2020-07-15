@@ -6,7 +6,7 @@
 
 [中文](readme.md) | [日本語](readme-jp.md) | [English](readme-en.md) 
 
-## Update log:  
+## アップデート履歴:  
 20200712:  
 このEFIファイルは matebook 13/14 2019で動作できるのを判明しました。  
 そして、2020 versionでの動作状況は以下となります:  
