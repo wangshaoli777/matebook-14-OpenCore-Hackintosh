@@ -1,6 +1,6 @@
 # matebook-13/14-2019-OpenCore-EFI  ハッキングトッシュ  
 
-もしこのEFI　ファイルはあなたのデバイスでうまく動作できるなら、このプロジェクトでissuesを提出して下さい  
+もし、このEFIファイルはあなたのデバイスでうまく動作できるなら、このプロジェクトでissuesを提出して下さい  
 件名は：matebook 13か14か、どのyearのバージョンか、CPUは何か。例：matebook 14 2019 I7 8565u  
 自分のデバイスでハッキングトッシュをインストールしたい他のユーザに対し、いい参考になりますので、ご協力を御願いします。
 
@@ -41,52 +41,52 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 4.hdmi（HDMIの音声も問題なし）
 
-5.TrackPad
+5.TrackPad 問題なし  
 
-6.cfg lockをアンロックすることで、パワーマネジメントが完璧に動作できる  
+6.cfg lockを無効することで、パワーマネジメントが完璧に動作できる  
 
-7. done the FB,igpu(uhd620) works well
+7. uhd620 問題なし  
 
-8.cpu boost（cpufriend set in：1800mhz，maximum）
+8.cpu boost（cpufriend.kextに1800mhz，maximumを設定しました）  
 
-9. usb（by using ssdt）
+9. usb（ssdtを用いて修復）
 
-10.FN key(brightness and sound)
-
-  
-  
-## Doesnt work：  
-
-
-1.Camera（5% in 1480 type could works fine,hope you luck） 
-
-2.audio jack works not perfectly（like Camera,hope you luck）  
-there is guide to fix audio jack under this guide
-
-3.mx250/150/350（hopeless）
+10.ホットキー(brightness and sound)
 
   
-## Info of my device     
+  
+## 動作するのには問題のあるもの：  
+
+
+1.一部の付属カメラ（1480 typeが動作できる（全体の5%ぐらい）,幸運をお祈りします） 
+
+2.一部のaudio jack（カメラと同じような状況,幸運をお祈りします）  
+このページの下の部分にはaudio jackを修復するガイドがあるのですが、必ず修復できると保証できません。
+
+3.mx250/150/350（どうしても無理です）
+
+  
+## 自分のデバイス情報     
 oc version:0.5.8
 
-macos：10.15.5. 
+macos：10.15.5 
 
-matebook2019 i7-8565u mx250 sn720
+matebook13 2019 i7-8565u mx250 sn720
 
-## How to install：  
+## インストールの手順：  
 
-A perfect guide in:  
-
+下の外部ページを参考して下さい：  
+（このガイドは最高のものですが、一定の英語能力が必要です）
 https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.html  
 
-## If you dont have any macos device：  
-
-Download image from:  
+## もし手元にはマックOSのデイバスの場合：  
+（上のガイドにはマックOSのデイバスでOSをインストールするに使うimgをダウンロードすることなります）
+下のリンクからOSをインストールするに使うimgをダウンロード可能:  
 https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html  
  
-Strongly recommand to use chrome translate,if you dont understand Chinese.
+上記の外部ページは中国語で記載されていますので、chromeの翻訳機能をお勧めします.
 
-Serch this text in your chrome:  
+上記のページでimgをダウンロードするリンクを速く見つかるために以下の文字をサーチして下さい:  
 
 10.15.5 19F101 双EFI分区版
     
@@ -94,14 +94,14 @@ Serch this text in your chrome:
   
   
 
-## Install ComboJack to fix audio jack
+## ComboJackを用いてaudio jackを修復する方法
 
 From Heporis:  
 
 https://github.com/hackintosh-stuff/ComboJack  
 
 
-run this .sh in terminal:  
+この.shファイルをterminalで実行させるためのコード:  
 
 ```bash
 ComboJack_Installer/install.sh
@@ -110,19 +110,19 @@ ComboJack_Installer/install.sh
   
 
 
-## How to enable HIDPI：
+## HIDPIを有効にする方法：
 
 https://github.com/xzhih/one-key-hidpi
  
 
-My selection：  
-1. enable HiDPi (with patch)     selete "2" at frist step
+自分の選んだ例：  
+1. enable HiDPi (with patch/inject EDID)     一つ目には"2"を選んで下さい
 2. macbook pro   
 3. input 6    
 4. input  1600x1066 1343x895 2160x1440  
   
   
-## How to disable CFG lock：
+## CFG lockを無効にする方法：
 
 
 upgrade your bios to 1.27,could be download in HUAWEI's official page  
@@ -173,9 +173,9 @@ And you will get a perfect power management
       
       
 
-If this EFI could run in your laptop well,  
-please create a issues and send info of your device like year,cpu,matebook 13 or 14.  
-for helping more people who useing matebook to build their hackintosh.
+もし、このEFIファイルはあなたのデバイスでうまく動作できるなら、このプロジェクトでissuesを提出して下さい  
+件名は：matebook 13か14か、どのyearのバージョンか、CPUは何か。例：matebook 14 2019 I7 8565u  
+自分のデバイスでハッキングトッシュをインストールしたい他のユーザに対し、いい参考になりますので、ご協力を御願いします。
 
 ## Thanks：
 
