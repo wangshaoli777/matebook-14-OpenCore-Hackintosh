@@ -99,6 +99,9 @@ Serch this text in your chrome:
 
 ## Install ComboJack to fix audio jack
 
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)  
+
+
 From Heporis:  
 
 https://github.com/randomprofilename/ComboJack
