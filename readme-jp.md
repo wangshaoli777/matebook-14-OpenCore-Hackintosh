@@ -115,7 +115,7 @@ ComboJack_Installer/install.sh
 https://github.com/xzhih/one-key-hidpi
  
 
-自分の選んだ例：  
+自分の例：  
 1. enable HiDPi (with patch/inject EDID)     一つ目には"2"を選んで下さい
 2. macbook pro   
 3. input 6    
