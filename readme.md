@@ -12,6 +12,7 @@
 
 
 ## 更新日志  
+<details>
 - 20200715:  
 耳机接口修复成功，已更新耳机接口修复教程，在下面就可以找到  
 
@@ -30,7 +31,7 @@
 用法：放入esr分区，与EFI文件夹并列即可
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)
-
+</details>
 下一个版本可能更新bigsur的EFI
 
 ## 正常可用的部件：
