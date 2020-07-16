@@ -139,7 +139,7 @@ upgrade your bios to 1.27,could be download in HUAWEI's official page
 
 3.create a new floder named "BOOT" At /EFI  
 
-4.download cfgunlock.zip  
+4.download [cfgunlock.zip(click)](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/cfgunlock.zip)  
 
 5.copy bootx64.efi from cfgunlock.zip to EFI/BOOT in your usb 
 
