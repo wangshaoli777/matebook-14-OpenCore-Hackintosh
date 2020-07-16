@@ -187,7 +187,19 @@ https://zhuanlan.zhihu.com/p/121655468
   
 如果你不会安装，需要安装服务，联系微信ske1996，可提供收费安装服务，并且保修1个月
       
-      
+## 解决window与macos时间不同步/显示不正确
+<details>  
+<summary>点击以查看详细信息</summary>  
+  
+WIN+x 选择管理员模式进入CMD  
+  
+  执行以下命令：  
+  
+```bash
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+```  
+</details>   
+
 ## 最近在努力解决摄像头问题，要是想打赏小的，请选择一个你喜欢的方式，谢谢！
 
 
