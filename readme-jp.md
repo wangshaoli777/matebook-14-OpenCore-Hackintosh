@@ -55,7 +55,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 9. usb（ssdtを用いて修復）
 
 10.ホットキー(brightness and sound)  
-11.audio jack(書いてある「ComboJackを用いてaudio jackを修復する方法」従う必要があります)
+11.audio jack(下に書いてある「ComboJackを用いてaudio jackを修復する方法」従う必要があります)
 
   
   
