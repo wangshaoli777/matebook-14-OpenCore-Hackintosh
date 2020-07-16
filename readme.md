@@ -148,7 +148,7 @@ https://zhuanlan.zhihu.com/p/121655468
 
 然后找偏移地址就不用做了，我告诉你，就是0x3E  
 
-U盘准备阶段：  
+- U盘准备阶段：  
 （大小无所谓）  
 
 1.先准备一个u盘，格式化为fat32  
@@ -157,7 +157,7 @@ U盘准备阶段：
 4.复制[cfgunlock.zip(点击下载)](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/cfgunlock.zip)里面的bootx64.efi进U盘的EFI/BOOT下  
 5.关机后开机按F12使用这个U盘去引导，然后进入修改bios底层阶段  
 
-以下为修改bios底层阶段：  
+- 以下为修改bios底层阶段：  
 1. 进入后 ‘alt’ + ’=‘ 切换进 ACPI Variable  
 2. 用pageup/pagedown/上下方向键找到 CPUSetup  
 3. 回车进入然后用上下左右方向键找到对应的地址（也就是0x3e，那么就是纵坐标03，横坐标0e的位置）  
