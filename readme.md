@@ -13,6 +13,7 @@
 
 ## 更新日志  
 <details>  
+<summary>点击以查看详细信息</summary>  
 - 20200715:  
 耳机接口修复成功，已更新耳机接口修复教程，在下面就可以找到  
 
@@ -53,7 +54,7 @@
 
 8.cpu变频正常（补充：此efi内涵cpufriend，设置为：1800mhz，最高性能）
 
-9. usb已定制（通过ssdt定制）
+9.usb已定制（通过ssdt定制）
 
 10.键盘快捷键正常  
 
@@ -70,12 +71,14 @@
 
   
 ## 个人使用版本信息等   
+<details>  
+<summary>点击以查看详细信息</summary>  
 oc版本0.5.8
 
 自用macos版本：10.15.5. 
 
 matebook2019 i7-8565u mx250 sn720
-
+</details>
 ## 安装方法：  
 
 
@@ -98,20 +101,22 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 有问题只在github免费答疑，不在微信进行答疑，想白嫖请在github提交issue，微信勿扰  
 
 ## 安装注意点：  
-
+<details>  
+<summary>点击以查看详细信息</summary>  
 
 1.安装使用的镜像推荐使用我给的链接下载的那个，不要用他给的，以内有点旧了
 
-2. 视频的【03:57】他说把配置好的clover文件解压到这个文件夹下时，将我的库中的【安装用clover的EFI】放进去  
+2.视频的【03:57】他说把配置好的clover文件解压到这个文件夹下时，将我的库中的【安装用clover的EFI】放进去  
 
 3.视频的【14:37】开始他开始吧u盘的clover efi复制进ESR（EFI）分区，这一步复制我的oc的efi进去。注意：这一步的efi跟第二步不一样，这一步用oc的
 
 4. 视频的【16:44】开始是使用easyuefi创建efi引导，这一步前面都跟他视频一样，他怎么点你就怎么点，只不过，选择引导文件为：EFI/BOOT/BOOTx64.efi
   
-  
+</details>
 
 ## 安装ComboJack实现耳机耳麦切换，改进电流声。
-
+<details>  
+<summary>点击以查看详细信息</summary>  
 参考：
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)
 
@@ -127,10 +132,11 @@ https://github.com/randomprofilename/ComboJack
 ComboJack_Installer/install.sh
 ```
   
-
+</details>
 
 ## 开启HIDPI：
-
+<details>  
+<summary>点击以查看详细信息</summary>  
 https://github.com/xzhih/one-key-hidpi
  
 
@@ -140,8 +146,11 @@ https://github.com/xzhih/one-key-hidpi
 第三步选择 手动输入分辨率  
 分辨率输入的是 1600x1066 1343x895 2160x1440  
   
-  
+</details> 
+
 ## 解锁CFG：
+<details>  
+<summary>点击以查看详细信息</summary>  
 以下教程来自：  
 https://zhuanlan.zhihu.com/p/121655468
 
@@ -167,7 +176,7 @@ https://zhuanlan.zhihu.com/p/121655468
 5. 使用'crtl' + 'w' 来保存 保存的时候屏幕上会直接显示update written 的，这说明已经写入了  
 6. 使用'alt' + 'q' 来退出，然后即可回到引导进入系统了，CFG已经解锁  
 
-
+</details> 
 
   
 如果你不会安装，需要安装服务，联系微信ske1996，可提供收费安装服务，并且保修1个月
