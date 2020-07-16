@@ -191,7 +191,9 @@ https://zhuanlan.zhihu.com/p/121655468
 <details>  
 <summary>点击以查看详细信息</summary>  
   
-WIN+x 选择管理员模式进入CMD  
+  
+  
+在windows下面WIN+x 选择管理员模式进入CMD  
   
   执行以下命令：  
   
