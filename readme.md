@@ -118,8 +118,10 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 
 ## 安装ComboJack实现耳机耳麦切换，改进电流声。
 <details>  
-<summary>点击以查看详细信息</summary>  
+<summary>点击以查看详细信息</summary>   
+  
 参考： 
+
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)
 
 
