@@ -107,7 +107,7 @@ From Heporis:
 https://github.com/randomprofilename/ComboJack
 
 
-run this .sh in terminal:  
+run install.sh in terminal:  
 
 ```bash
 ComboJack_Installer/install.sh
