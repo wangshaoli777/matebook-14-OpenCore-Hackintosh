@@ -64,7 +64,7 @@ Next update maybe support Bigsur
 ## Doesnt work：  
 
 
-1.Camera（5% in 1480 type could works fine,hope you luck） 
+1.Camera（UVC Camera VendorID_1480 ProductID_975 is available） 
 
 2.mx250/150/350（hopeless）
 
