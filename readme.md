@@ -40,7 +40,7 @@
   
   
 1.蓝牙（无需热启动）From IntelBluetoothFirmware @zxystd  
-【华为的蓝牙鼠标不可用！！！去买一个苹果的就行了】  
+【华为的蓝牙鼠标不可用！！！去买一个罗技的或是苹果的就行了】  
 
 
 2.wifi （需要用propertree注入你自己的ssid跟password）可以做到无违和感使用 From itlwm @zxystd
