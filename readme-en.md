@@ -177,7 +177,7 @@ That is all of how to unlock cfg in matebook13 2019
 
 And you will get a perfect power management  
       
-## fix time issue beween windows and macos 
+## fix time issue between windows and macos 
 
    
   
