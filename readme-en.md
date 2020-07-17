@@ -177,7 +177,19 @@ That is all of how to unlock cfg in matebook13 2019
 
 And you will get a perfect power management  
       
-      
+## fix time issue beween windows and macos 
+
+   
+  
+in windows press WIN+x run CMD with administrator  
+  
+  input：  
+  
+```bash
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+```  
+  
+  
 
 If this EFI could run in your laptop well,  
 please create a issues and send info of your device like year,cpu,matebook 13 or 14.  
