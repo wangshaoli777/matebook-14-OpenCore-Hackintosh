@@ -218,7 +218,7 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 ```  
 </details>   
 
-## 最近在努力解决摄像头问题，要是想打赏小的，请选择一个你喜欢的方式，谢谢！
+## 如果你用了我的efi觉得好用，要是想打赏小的，请选择一个你喜欢的方式打赏五块钱，谢谢！
 
 
 微信收款码链接：
