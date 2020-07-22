@@ -123,7 +123,7 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
   
 </details>
 
-## 安装ComboJack实现耳机耳麦切换，改进电流声。
+## 安装ComboJack实现耳机耳麦切换，改进电流声。（修复耳机接口）
 <details>  
 <summary>点击以查看详细信息</summary>   
   
