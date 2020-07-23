@@ -48,7 +48,7 @@
 【华为的蓝牙鼠标不可用！！！去买一个罗技的或是苹果的就行了】  
 
 
-2.wifi可用 （需要用propertree注入你自己的ssid跟password）[@zxystd](https://github.com/OpenIntelWireless/itlwm)
+2.wifi可用 （需要用propertree注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）[@zxystd](https://github.com/OpenIntelWireless/itlwm)
 
 3.睡眠正常
 
