@@ -5,7 +5,7 @@
 
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
-一定要先看下面的更新日志  
+⚠️一定要先看下面的更新日志  
 
 有问题只在github免费答疑，不在微信进行答疑，想白嫖请在github提交issue，微信勿扰  
 
@@ -49,7 +49,7 @@
 【华为的蓝牙鼠标不可用！！！去买一个罗技的或是苹果的就行了】  
 
 
-2.wifi可用 （需要用propertree注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）[@zxystd](https://github.com/OpenIntelWireless/itlwm)
+2.wifi可用 （⚠️需要用propertree注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）[@zxystd](https://github.com/OpenIntelWireless/itlwm)
 
 3.睡眠正常
 
@@ -185,7 +185,7 @@ https://zhuanlan.zhihu.com/p/121655468
 
 然后找偏移地址就不用做了，我告诉你，就是0x3E  
 
-【千万不要用oc去引导ru！！】懂得人自然懂，收起那个想法，老老实实按我下面写的来  
+【⚠️千万不要用oc去引导ru！！】懂得人自然懂，收起那个想法，老老实实按我下面写的来  
 
 - U盘准备阶段：  
 （大小无所谓）  
