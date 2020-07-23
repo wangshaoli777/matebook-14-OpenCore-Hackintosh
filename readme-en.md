@@ -4,7 +4,7 @@
 please create a issues and send info of your device like year,cpu,matebook 13 or 14.  
 for helping more people who useing matebook to build their hackintosh.
 
-[中文](readme.md) | [日本語](readme-jp.md) | [English](readme-en.md) 
+[中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
 ## Update log:  
 - 20200715:  
