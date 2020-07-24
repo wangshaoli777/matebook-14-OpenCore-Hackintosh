@@ -7,6 +7,10 @@ for helping more people who useing matebook to build their hackintosh.
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
 ## Update log:  
+
+- 20200725:  
+Support Macos 10.15.6  
+
 - 20200724:  
 upgrade opencore to 0.5.9  
 
@@ -74,9 +78,9 @@ Next update maybe support Bigsur
 
   
 ## Info of my device     
-oc version:0.5.8
+oc version:0.5.9
 
-macos：10.15.5. 
+macos：10.15.6 
 
 matebook2019 i7-8565u mx250 sn720
 
