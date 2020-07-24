@@ -8,6 +8,10 @@
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
 ## アップデート履歴:  
+
+- 20200724:  
+opencoreを0.5.9にアップグレードしました。  
+
 - 20200715:  
 audio jackを修復しました。方法は下の「ComboJackを用いてaudio jackを修復する方法」に書いてあります。  
 
@@ -128,7 +132,7 @@ https://github.com/xzhih/one-key-hidpi
 ## CFG lockを無効にする方法：
 
 
-upgrade your bios to 1.27,could be download in HUAWEI's official page  
+upgrade your bios to 1.28,could be download in HUAWEI's official page  
 
 1. Format a usb memory to fat32  
 
