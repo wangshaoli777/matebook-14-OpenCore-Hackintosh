@@ -1,7 +1,7 @@
 # matebook-13/14-2019-OpenCore 黑苹果 hackintosh 
   
 如果你不会安装，需要安装服务，联系微信ske1996
-可提供收费安装服务，并且保修1个月  
+可提供收费安装服务，帮你弄好一切可以弄好的驱动，并且保修1个月，收费200，非诚勿扰  
 
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
