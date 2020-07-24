@@ -7,6 +7,10 @@ for helping more people who useing matebook to build their hackintosh.
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
 ## Update log:  
+- 20200724:  
+upgrade opencore to 0.5.9  
+
+
 - 20200715:  
 audio jack fixed,thanks randomprofilename  
 
@@ -131,7 +135,7 @@ My selection：
 ## How to disable CFG lock：
 
 
-upgrade your bios to 1.27,could be download in HUAWEI's official page  
+upgrade your bios to 1.28,could be download in HUAWEI's official page  
 
 1. Format a usb memory to fat32  
 
