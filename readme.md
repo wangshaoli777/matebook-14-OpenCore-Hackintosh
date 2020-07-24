@@ -24,10 +24,12 @@
 <details>  
 <summary>点击以查看详细信息</summary>  
   
-  
+ 
 - 20200724:  
 1.重新拆包分析了最新的1.28的bios，cfglock的偏移地址依旧是0x3E，因此教程依旧可用  
 2.更新了关于HIDPI的注意事项  
+3.更新oc至0.5.9  
+
 
 
 - 20200715:  
@@ -58,7 +60,7 @@
 【华为的蓝牙鼠标不可用！！！去买一个罗技的或是苹果的就行了】  
 
 
-2.wifi可用 （⚠️需要用propertree注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）[@zxystd](https://github.com/OpenIntelWireless/itlwm)
+2.wifi可用 （⚠️需要用propertree([点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip))注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）[@zxystd](https://github.com/OpenIntelWireless/itlwm)
 
 3.睡眠正常
 
