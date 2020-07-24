@@ -18,7 +18,8 @@
 我希望有问题的人都可以在issue里面提交，我会回答你，这个答案会一直保存下来，这样可以帮助很多小白的朋友，这些都是经验  
 
      
-扫码进微信群
+- 扫码进微信群  
+
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg?raw=true)
 
 ## 更新日志  
