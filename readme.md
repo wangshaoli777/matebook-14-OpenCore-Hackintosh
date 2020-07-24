@@ -7,7 +7,7 @@
 
 ⚠️一定要先看下面的更新日志  
 
-有问题只在github免费答疑，不在微信进行答疑，想白嫖请在github提交issue，微信勿扰  
+有问题只在github免费答疑，不在微信进行答疑，想白嫖请在github提交issue，微信答疑一问50，【想白嫖请在github提交issue】  
 
 如果可用请在issues中提交你的机器信息（年份，cpu，matebook13还是14）  
 用于构建更好的efi。 
