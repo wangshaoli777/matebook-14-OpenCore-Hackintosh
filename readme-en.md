@@ -4,6 +4,11 @@
 please create a issues and send info of your device like year,cpu,matebook 13 or 14.  
 for helping more people who useing matebook to build their hackintosh.
 
+
+very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)on test bigsur(beta),and i am so sorry for wasted his time,because of i did a totally wrong EFI ofr testing bigsur,my apology.  
+
+
+
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
 ## Update log:  
