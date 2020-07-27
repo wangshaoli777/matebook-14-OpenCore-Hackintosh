@@ -34,7 +34,7 @@ windows：设备管理器→网络配适器→AC9560 160MHz/右键属性→详�
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E4%BA%8C%E4%BB%A3ac9560.jpeg?raw=true)  
 
-感谢[@jiaogger](https://github.com/jiaogger)提供帮助，一起测试  
+感谢[@jiaogger](https://github.com/jiaogger)提供帮助以及方案，一起测试  
 
 </details>
 
