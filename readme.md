@@ -191,7 +191,7 @@ https://github.com/xzhih/one-key-hidpi
 <details>  
 <summary>点击以查看详细信息</summary>  
 
-关于解锁cfg后能做到什么？  
+⚠️关于解锁cfg后能做到什么？  
 完美的电源管理  
 CPU完美变频  
 完美睡眠（我个人经验：睡眠6H只掉了1%的电） 
