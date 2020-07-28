@@ -22,21 +22,7 @@
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg?raw=true)
 
-## wifi无法使用的说明：  
-<details>  
-<summary>点击以查看详细信息</summary>  
-  
-⚠️二代的ac9560目前无法驱动  
-鉴别办法：  
-windows：设备管理器→网络配适器→AC9560 160MHz/右键属性→详细信息→属性的位置选设备ID  
-二代的设备ID：PCI\VEN_8086&DEV_02F0&SUBSYS_20348086&REV_00  
-图例：  
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E4%BA%8C%E4%BB%A3ac9560.jpeg?raw=true)  
-
-感谢[@jiaogger](https://github.com/jiaogger)提供帮助以及方案，一起测试  
-
-</details>
 
 ## 更新日志  
 <details>  
@@ -259,6 +245,24 @@ https://zhuanlan.zhihu.com/p/121655468
 Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
 ```  
 </details>   
+
+## wifi无法使用的说明：  
+<details>  
+<summary>点击以查看详细信息</summary>  
+  
+⚠️二代的ac9560目前无法驱动  
+鉴别办法：  
+windows：设备管理器→网络配适器→AC9560 160MHz/右键属性→详细信息→属性的位置选设备ID  
+二代的设备ID：PCI\VEN_8086&DEV_02F0&SUBSYS_20348086&REV_00  
+图例：  
+
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E4%BA%8C%E4%BB%A3ac9560.jpeg?raw=true)  
+
+感谢[@jiaogger](https://github.com/jiaogger)提供帮助以及方案，一起测试  
+
+</details>  
+
+
 
 ## 如果你用了我的efi觉得好用，要是想打赏小的，请选择一个你喜欢的方式打赏五块钱，谢谢！
 
