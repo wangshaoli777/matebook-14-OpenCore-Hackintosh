@@ -138,7 +138,7 @@ https://github.com/xzhih/one-key-hidpi
  
 
 My selection：  
-1. enable HiDPi (with patch/)ーーーーーーーselete "2" at frist step
+1. enable HiDPi (with patch/inject EDID)ーーーーーーーselete "2" at frist step
 2. macbook pro   
 3. input 6    
 4. input  1600x1066 1343x895 2160x1440  
