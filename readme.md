@@ -29,7 +29,11 @@
 <details>  
 <summary>点击以查看详细信息</summary>  
   
- 
+
+- 20200728:  
+添加了public beta的itlwm.kext和HeliPort.dmg  
+在macOS下双击安装HeliPort.dmg  
+
 - 20200725:  
 已知本EFI可用于ota直升macos10.15.6，工作状况良好，因此本EFI可用于10.15.6
 
