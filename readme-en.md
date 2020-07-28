@@ -54,7 +54,7 @@ Next update maybe support Bigsur
   
 1.bluetooth（could be used like original）From IntelBluetoothFirmware @zxystd
 
-2.wifi （need to use propertree injeck your own ssid and password） From itlwm @zxystd
+2.wifi （need to use propertree([click to download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip) ) to inject your own ssid and password） From itlwm @zxystd
 
 3.sleep-wakeup works well
 
