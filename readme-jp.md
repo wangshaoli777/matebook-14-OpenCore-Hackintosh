@@ -10,7 +10,7 @@
 ## アップデート履歴:  
 
 - 20200728:  
-public betaのitlwm.kextとHeliPort.dmgに更新しました  
+itlwm.kextとHeliPort.dmgをpublic betaバージョンに更新しました  
 HeliPort.dmgの使い方：macOSでダブルクリックでインストールする  
 
 
