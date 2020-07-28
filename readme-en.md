@@ -13,6 +13,9 @@ very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hack
 
 ## Update log:  
 
+- 20200728:  
+added public beta of itlwm.kext and heliport  
+
 - 20200725:  
 Support Macos 10.15.6  
 
@@ -61,11 +64,11 @@ Next update maybe support Bigsur
 
 6.Could get perfect powermanagement after disable cfg lock  
 
-7. done the FB,igpu(uhd620) works well
+7.about FB part:igpu(uhd620) works well
 
 8.cpu boost（cpufriend set in：1800mhz，maximum）
 
-9. usb（by using ssdt）
+9.usb（by using ssdt）
 
 10.FN key(brightness and sound)  
 
@@ -146,7 +149,7 @@ My selection：
 
 upgrade your bios to 1.28,could be download in HUAWEI's official page  
 
-1. Format a usb memory to fat32  
+1.Format a usb memory to fat32  
 
 2.create a new floder named "EFI" at root  
 
