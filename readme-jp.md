@@ -9,6 +9,11 @@
 
 ## アップデート履歴:  
 
+- 20200728:  
+public betaのitlwm.kextとHeliPort.dmgに更新しました  
+HeliPort.dmgの使い方：macOSでダブルクリックでインストールする  
+
+
 - 20200725:  
 Macos 10.15.6までに対応できることを判明した   
 
@@ -56,11 +61,11 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 6.cfg lockを無効することで、パワーマネジメントが完璧に動作できる  
 
-7. uhd620 問題なし  
+7.uhd620 問題なし  
 
 8.cpu boost（cpufriend.kextに1800mhz，maximumを設定しました）  
 
-9. usb（ssdtを用いて修復）
+9.usb（ssdtを用いて修復）
 
 10.ホットキー(brightness and sound)  
 11.audio jack(下に書いてある「ComboJackを用いてaudio jackを修復する方法」従う必要があります)
@@ -135,9 +140,10 @@ https://github.com/xzhih/one-key-hidpi
 ## CFG lockを無効にする方法：
 
 
-upgrade your bios to 1.28,could be download in HUAWEI's official page  
+upgrade your bios to 1.28,could be downloaded in HUAWEI's official page    
 
-1. Format a usb memory to fat32  
+
+1.Format a usb memory to fat32  
 
 2.create a new floder named "EFI" at root  
 
