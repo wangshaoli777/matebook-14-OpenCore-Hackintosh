@@ -20,11 +20,13 @@
 
      
 - 扫码进微信群  
-
+<details>  
+<summary>点击以查看二维码</summary>  
 ⚠️但是！如果进群问与"安装"有关的问题，估计没人理你，因为下面的教程写的清清楚楚，你安装出问题只能说明你没有好好看，所以你需要自己重新读下面教程的每一个字，然后重新来  
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg?raw=true)
 
+</details>   
 
 
 ## 更新日志  
