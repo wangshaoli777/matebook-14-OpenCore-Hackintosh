@@ -11,6 +11,9 @@
 
 ## アップデート履歴:  
 
+- 20200731: 
+  macOS　11　BigSurをインストールするためのEFIをアップロードした。  
+    [クリックしてダウンロード](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/EFI%20for%20installing%20bigsur.zip)  
 - 20200728:  
 itlwm.kextとHeliPort.dmgをpublic betaバージョンに更新しました  
 HeliPort.dmgの使い方：macOSでダブルクリックでインストールする  
