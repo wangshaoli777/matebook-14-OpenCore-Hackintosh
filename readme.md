@@ -70,7 +70,7 @@
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)
 </details>
-下一个版本可能更新bigsur的EFI
+bigsur的EFI在更新于日志中的20200731中
 
 ## 正常可用的部件：
   
