@@ -33,7 +33,7 @@
 <summary>点击以查看详细信息</summary>  
   
   
-- 20200731: 
+- 20200731:  
   更新了一个安装用的bigsur的efi  
     [点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/EFI%20for%20installing%20bigsur.zip)  
     
