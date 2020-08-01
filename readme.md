@@ -18,7 +18,7 @@
 我希望有问题的人都可以在issue里面提交，我会回答你，这个答案会一直保存下来，这样可以帮助很多小白的朋友，这些都是经验  
 
 <details>  
-<summary>点击查看使用效果</summary>  
+<summary>⭐️点击查看使用效果</summary>  
   
 ![image](https://i0.hdslb.com/bfs/article/0d73e23780c4a4a5b80b1e956dc8957bb95f3372.jpg@1320w_880h.webp)  
 ![image](https://i0.hdslb.com/bfs/article/3c89fd7615510c1b2e9efa1c6024348b4b635abc.jpg@1320w_1760h.webp)  
@@ -27,7 +27,7 @@
 
        
 <details>  
-<summary>扫码进微信群(点击以查看二维码)</summary>  
+<summary>⭐️扫码进微信群(点击以查看二维码)</summary>  
 ⚠️但是！如果进群问与"安装"有关的问题，估计没人理你，因为下面的教程写的清清楚楚，你安装出问题只能说明你没有好好看，所以你需要自己重新读下面教程的每一个字，然后重新来  
 
 ![image](http://a1.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5hMDfa2DjbPFgR4DZMoIyLXTaEXmSs8xAoZouMlIH5k9yZI.Oh7MfFcV5p6JlyZOponUaYx61azastXP2F3RgHA!/b&ek=1&kp=1&pt=0&bo=NAISAwAAAAABFxc!&tl=3&vuin=1819129968&tm=1596283200&sce=60-2-2&rf=viewer_4)
