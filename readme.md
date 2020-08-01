@@ -288,7 +288,7 @@ windows：设备管理器→网络配适器→AC9560 160MHz/右键属性→详�
 
 支付宝收款码链接：
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?raw=true)
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5o7n9u3VZFAlitOu6wbSqKEOd5rvIrEcqFYhJ1dRc.eoGAliOFfjETf0NLSjFzm7JGZFIp*ZG77uSHI4*40Y8ps!/b&bo=WAKEA1gChAMBByA!&rf=viewer_4)
 
   
   
