@@ -282,7 +282,7 @@ windows：设备管理器→网络配适器→AC9560 160MHz/右键属性→详�
 
 微信收款码链接：
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E5%BE%AE%E4%BF%A1.jpg?raw=true). 
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5o7n9u3VZFAlitOu6wbSqKFuAcjlS8QEilUALko3mMFcdLjiz*q2Dte376tycJGE4OAjfVwxmntwQFkPtU7kX38!/b&bo=OAS6BdoElgYBB.0!&rf=viewer_4). 
   
   
 
