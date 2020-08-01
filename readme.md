@@ -164,7 +164,7 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
   
 参考： 
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5q01OKCJFpwjG8DeWk34ZAk2FSNjwQUoIN0*GZw*WPuJGXoFx6QKbikJBN0lMTsBAB*.2jRAK8HeEs9KtxTHRjs!/b&bo=SAdMAgAAAAADByM!&rf=viewer_4)
 
 
 
@@ -196,7 +196,7 @@ https://github.com/xzhih/one-key-hidpi
 
 *注意⚠️你的1343x895这个分辨率的设置位置不一定是在【更大空间】  
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/HIDPI.png?raw=true)  
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5q01OKCJFpwjG8DeWk34ZAlT4PiIkTwV7VOQNDBpBB7OkqG1Id2.r35y0gnRAtugvhPBj1i6J0*cx1bGL996lhQ!/b&bo=NAV8AwAAAAADB2w!&rf=viewer_4)  
 
 *注意⚠️你的1343x895这个分辨率的设置位置不一定是在【更大空间】
 
@@ -234,7 +234,7 @@ https://zhuanlan.zhihu.com/p/121655468
 1. 进入后 ‘alt’ + ’=‘ 切换进 ACPI Variable  
 2. 用pageup/pagedown/上下方向键找到 CPUSetup  
 3. 回车进入然后用上下左右方向键找到对应的地址（也就是0x3e，那么就是纵坐标03，横坐标0e的位置）  
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/RU.jpg?raw=true)  
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5q01OKCJFpwjG8DeWk34ZAl40wvQBwENCvcC8AXw3U9pLndZFaQGhnrwveoEM7FzByVHyIsV*u1nI.1JoXvOXOA!/b&bo=0AIQAgAAAAABB.A!&rf=viewer_4)  
 4. 一看，确实是0x01，那么回车，输入0 就可以看到它变成了0  
 5. 使用'crtl' + 'w' 来保存 保存的时候屏幕上会直接显示update written 的，这说明已经写入了  
 6. 使用'alt' + 'q' 来退出，然后即可回到引导进入系统了，CFG已经解锁  
@@ -269,7 +269,7 @@ windows：设备管理器→网络配适器→AC9560 160MHz/右键属性→详�
 二代的设备ID：PCI\VEN_8086&DEV_02F0&SUBSYS_20348086&REV_00  
 图例：  
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E4%BA%8C%E4%BB%A3ac9560.jpeg?raw=true)  
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5q01OKCJFpwjG8DeWk34ZAkS9wKXRMVr2APWcRvSl3ZJFDJrh42ZPmO14dgxnvqPXC8iwlZP4DAlh3rMUtNpBqk!/b&bo=gAd3AwAAAAABB9M!&rf=viewer_4)  
 
 感谢[@jiaogger](https://github.com/jiaogger)提供帮助以及方案，一起测试  
 
