@@ -87,7 +87,7 @@ bigsur的EFI在更新于日志中的20200731中
 
 5.触摸板正常
 
-6.解锁cfg lock后可完美原生电源管理
+6.[解锁cfg lock](https://github.com/ske1996/matebook-13-2019-oc-efi#%E8%A7%A3%E9%94%81cfg)后可完美原生电源管理
 
 7.已注入缓冲帧 核显正常
 
