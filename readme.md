@@ -76,7 +76,7 @@ bigsur的EFI在更新于日志中的20200731中
   
   
 1.蓝牙（无需热启动）[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
-【华为的蓝牙鼠标不可用！！！去买一个苹果的，但是我也不保证一定能行】  
+【华为的蓝牙鼠标不可用！！！我们群里有个可爱的小哥哥@Baiyu0124发现了一款可用的[淘宝链接](https://m.tb.cn/h.VtTxb0H?sm=bfed64) 】  
 
 
 2.wifi可用 （⚠️需要用propertree([点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip))注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）[@zxystd](https://github.com/OpenIntelWireless/itlwm)
