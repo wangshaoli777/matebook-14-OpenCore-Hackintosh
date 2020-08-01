@@ -5,7 +5,8 @@
 
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
-
+<details>  
+<summary>点击查看使用效果</summary>  
 [点击查看使用效果](https://www.bilibili.com/read/cv6518683?from=search)  
 
 ⚠️一定要先看下面的更新日志  
@@ -20,6 +21,14 @@
 用于构建更好的efi。 
 
 我希望有问题的人都可以在issue里面提交，我会回答你，这个答案会一直保存下来，这样可以帮助很多小白的朋友，这些都是经验  
+
+<details>  
+<summary>点击查看使用效果</summary>  
+  
+![image](https://i0.hdslb.com/bfs/article/0d73e23780c4a4a5b80b1e956dc8957bb95f3372.jpg@1320w_880h.webp)  
+![image](https://i0.hdslb.com/bfs/article/3c89fd7615510c1b2e9efa1c6024348b4b635abc.jpg@1320w_1760h.webp)  
+
+</details>   
 
        
 <details>  
