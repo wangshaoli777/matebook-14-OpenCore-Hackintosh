@@ -31,7 +31,7 @@
 <summary>扫码进微信群(点击以查看二维码)</summary>  
 ⚠️但是！如果进群问与"安装"有关的问题，估计没人理你，因为下面的教程写的清清楚楚，你安装出问题只能说明你没有好好看，所以你需要自己重新读下面教程的每一个字，然后重新来  
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg?raw=true)
+![image](http://a1.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5hMDfa2DjbPFgR4DZMoIyLXTaEXmSs8xAoZouMlIH5k9yZI.Oh7MfFcV5p6JlyZOponUaYx61azastXP2F3RgHA!/b&ek=1&kp=1&pt=0&bo=NAISAwAAAAABFxc!&tl=3&vuin=1819129968&tm=1596283200&sce=60-2-2&rf=viewer_4)
 
 </details>   
 
