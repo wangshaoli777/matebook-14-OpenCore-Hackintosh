@@ -98,7 +98,8 @@ bigsur的EFI在更新于日志中的20200731中
 <summary>2.wifi可用 *点击查看详细说明</summary>  
   
 （⚠️需要用propertree([点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip))注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
-2020款
+⚠️2020款的电脑需要使用这个驱动[点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx_0802_beta1.zip)  
+
 
 </details>   
 
