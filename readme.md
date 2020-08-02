@@ -281,11 +281,11 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 ```  
 </details>   
 
-## wifi无法使用的说明：  
+## 2020款电脑的Wi-Fi说明：  
 <details>  
 <summary>点击以查看详细信息</summary>  
   
-⚠️二代的ac9560目前无法驱动  
+⚠️二代的ac9560可以驱动了，在上面的“正常可用的部件”中wifi的那一栏点击详细进去，有地方下载你的专用驱动  
 鉴别办法：  
 windows：设备管理器→网络配适器→AC9560 160MHz/右键属性→详细信息→属性的位置选设备ID  
 二代的设备ID：PCI\VEN_8086&DEV_02F0&SUBSYS_20348086&REV_00  
