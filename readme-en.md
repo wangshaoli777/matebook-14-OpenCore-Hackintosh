@@ -15,6 +15,11 @@ very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hack
 
 ## Update log:  
 
+
+- 20200802:  
+updated itlwm.kext for 2020ver laptop,[click for download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx_0802_beta1.zip)  
+
+
 - 20200731:  
   EFI for installing BigSur    
     [click to download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/EFI%20for%20installing%20bigsur.zip)  
