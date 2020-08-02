@@ -46,7 +46,7 @@
 
 
 - 20200802:  
-添加了2020款的wifi驱动itlwmx.kext [点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx_0802_beta1.zip)  
+添加了2020款的wifi驱动itlwmx.kext [点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx%20beta0802.zip)  
 
 - 20200731:  
   更新了一个安装用的bigsur的efi  
