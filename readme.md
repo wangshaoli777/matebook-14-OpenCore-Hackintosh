@@ -43,7 +43,11 @@
 <details>  
 <summary>点击以查看详细信息</summary>  
   
-  
+
+
+- 20200802:  
+添加了2020款的wifi驱动itlwmx.kext [点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx_0802_beta1.zip)  
+
 - 20200731:  
   更新了一个安装用的bigsur的efi  
     [点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/EFI%20for%20installing%20bigsur.zip)  
