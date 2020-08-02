@@ -1,4 +1,4 @@
-# matebook-13/14-2019-OpenCore-EFI  ハッキントッシュ  
+# matebook-13/14-2019/2020-OpenCore-EFI  ハッキントッシュ  
 
 もし、このEFIファイルはあなたのデバイスでうまく動作できるなら、このプロジェクトでissuesを提出して下さい  
 件名は：matebook 13か14か、どのyearのバージョンか、CPUは何か。例：matebook 14 2019 I7 8565u  
