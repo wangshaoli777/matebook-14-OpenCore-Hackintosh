@@ -7,7 +7,9 @@ for helping more people who useing matebook to build their hackintosh.
 Feel free to report issue here,whatever you used English or Japanese.  
 
 
-very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)on test bigsur(beta),and i am so sorry for wasted his time,because of i did a totally wrong EFI ofr testing bigsur,my apology.  
+very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)on test bigsur(beta),and i am so sorry for wasted his time,because of i did a totally wrong EFI for testing bigsur,my apology.  
+
+BTW,the BigSur efi for installing I uploaded is available now,I've tested it by myself already.  
 
 
 
