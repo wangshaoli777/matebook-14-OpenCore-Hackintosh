@@ -16,6 +16,10 @@ BTW,the BigSur efi for installing I uploaded is available now,I've tested it by 
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
 ## Update log:  
+  
+  
+- 20200806:  
+Upgrade OpenCore to official 0.6.0  
 
 
 - 20200802:  
