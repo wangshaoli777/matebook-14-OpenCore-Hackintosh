@@ -10,6 +10,11 @@
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
 ## アップデート履歴:  
+  
+  
+- 20200806:  
+OpenCoreをオフィシャルの0.6.0にアップグレードしました。  
+
 
 - 20200802:  
 updated itlwmx.kext for 2020ver laptop,[click for download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx%20beta0802.zip) 
