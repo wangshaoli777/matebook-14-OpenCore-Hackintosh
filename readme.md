@@ -102,7 +102,10 @@ bigsur的EFI在更新于日志中的20200731中
 <summary>1.蓝牙（无需热启动）*点击查看详细说明</summary>   
   
 [@zxystd](https://github.com/OpenIntelWireless/itlwm)  
-【华为的蓝牙鼠标不可用！！！我们群里有个可爱的小哥哥@Baiyu0124发现了一款可用的[淘宝链接](https://m.tb.cn/h.VtTxb0H?sm=bfed64) 】  
+【1.华为的蓝牙鼠标不可用！！！  
+2.苹果的妙控2可用  
+3.有个可爱的小哥哥@Baiyu0124发现了一款可用的没什么牌子的鼠标[淘宝链接](https://m.tb.cn/h.VtTxb0H?sm=bfed64)   
+4.微软设计师鼠标[淘宝链接](https://detail.tmall.com/item.htm?id=575557854943&spm=a1z09.2.0.0.119c2e8dUqx3iI&_u=bkg3nm2911&sku_properties=5919063:6536025)】  
 </details>   
 
   
