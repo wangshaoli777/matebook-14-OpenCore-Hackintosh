@@ -11,7 +11,9 @@
 
 ## アップデート履歴:  
   
-  
+- 20200814:  
+V0814のEFIはcatalinaとbigsurで両方にも使えるようにしました、一部のssdtを作り直しました。  
+
 - 20200806:  
 OpenCoreをオフィシャルの0.6.0にアップグレードしました。  
 
@@ -57,7 +59,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)   
 
 
-今後のアップデートには macos 11 Bigsurにサポートするかもしれません。
+すでにmacos 11 Bigsurにサポートしました  
 
 ## 正常に動作できるもの：
   
@@ -94,11 +96,11 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
   
 ## 自分のデバイス情報     
-oc version:0.5.9
+oc version:0.6.0  
 
-macos：10.15.6 
+macos：11.0 BigSur    
 
-matebook13 2019 i7-8565u mx250 sn720
+matebook13 2019 i7-8565u mx250 sn720  
 
 ## インストールの手順：  
 
