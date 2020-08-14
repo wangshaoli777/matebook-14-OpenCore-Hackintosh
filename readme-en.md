@@ -17,7 +17,7 @@ BTW,the BigSur efi for installing I uploaded is available now,I've tested it by 
 
 ## Update log:  
   
-- 20200806:  
+- 20200814:  
 Rebuild some ssdt make it more compact.  
 and you can use this efi boot both catalina and bigsur now.it is steadily and worked well.  
 
