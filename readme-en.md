@@ -17,7 +17,10 @@ BTW,the BigSur efi for installing I uploaded is available now,I've tested it by 
 
 ## Update log:  
   
-  
+- 20200806:  
+Rebuild some ssdt make it more compact.  
+and you can use this efi boot both catalina and bigsur now.it is steadily and worked well.  
+
 - 20200806:  
 Upgrade OpenCore to official 0.6.0  
 
@@ -64,7 +67,7 @@ how to use:copy it to ESR
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)   
 
 
-Next update maybe support Bigsur
+supported BigSur
 
 ## Works fine：
   
@@ -103,11 +106,11 @@ Next update maybe support Bigsur
 
   
 ## Info of my device     
-oc version:0.5.9
+oc version:0.6.0  
 
-macos：10.15.6 
+macos：11.0 BigSur. 
 
-matebook2019 i7-8565u mx250 sn720
+matebook2019 i7-8565u mx250 sn720  
 
 ## How to install：  
 
