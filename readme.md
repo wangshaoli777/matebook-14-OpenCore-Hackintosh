@@ -49,6 +49,8 @@
 <summary>点击以查看详细信息</summary>  
   
     
+- 20200814:  
+重做了一些ssdt，升级了一些驱动，然后对bigsur做了配适，0814的efi可以同时稳定引导bigsur跟catalina  
 
 - 20200811:  
 修复了0806的触摸板跟alc的问题  
@@ -98,7 +100,7 @@
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)
 </details>
-bigsur的EFI在更新于日志中的20200731中
+
 
 ## 正常可用的部件：
   
@@ -157,9 +159,9 @@ bigsur的EFI在更新于日志中的20200731中
 ## 个人使用版本信息等   
 <details>  
 <summary>点击以查看详细信息</summary>  
-oc版本0.5.9
+oc版本0.6.0
 
-自用macos版本：10.15.6  
+自用macos版本：11。0 BigSur    
 
 matebook2019 i7-8565u mx250 sn720
 </details>  
