@@ -37,9 +37,12 @@
        
 <details>  
 <summary>⭐️扫码进微信群(点击以查看二维码)</summary>  
-⚠️但是！如果进群问与"安装"有关的问题，估计没人理你，因为下面的教程写的清清楚楚，你安装出问题只能说明你没有好好看，所以你需要自己重新读下面教程的每一个字，然后重新来  
+⚠️点击以下链接，两个小问题全答对即可获得入群二维码  
+注意:在国内的可能需要挂vpn才能访问  
 
-![image](http://a1.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5hMDfa2DjbPFgR4DZMoIyLXTaEXmSs8xAoZouMlIH5k9yZI.Oh7MfFcV5p6JlyZOponUaYx61azastXP2F3RgHA!/b&ek=1&kp=1&pt=0&bo=NAISAwAAAAABFxc!&tl=3&vuin=1819129968&tm=1596283200&sce=60-2-2&rf=viewer_4)
+
+[点击进入小问答](https://docs.google.com/forms/d/e/1FAIpQLSfNI8Zy9pfb6cASnH7yUk4QVuKxZWVobU9C_p7Vas2EXjVfEQ/viewform?usp=sf_link)  
+
 
 </details>   
 
