@@ -166,7 +166,7 @@
 <summary>点击以查看详细信息</summary>  
 oc版本0.6.0
 
-自用macos版本：11。0 BigSur    
+自用macos版本：11.0 BigSur    
 
 matebook2019 i7-8565u mx250 sn720
 </details>  
