@@ -10,7 +10,15 @@ Feel free to report issue here,whatever you used English or Japanese.
 very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)on test bigsur(beta),and i am so sorry for wasted his time,because of i did a totally wrong EFI for testing bigsur,my apology.  
 
 Now:you can use this efi boot both catalina and bigsur now.it is steadily and worked well.  
+  
+<details>  
+<summary>⭐️click to check how macos going on matebook 13</summary>  
+  
+![image](https://i0.hdslb.com/bfs/article/0d73e23780c4a4a5b80b1e956dc8957bb95f3372.jpg@1320w_880h.webp)  
+![image](https://i0.hdslb.com/bfs/article/3c89fd7615510c1b2e9efa1c6024348b4b635abc.jpg@1320w_1760h.webp)  
 
+</details>   
+  
 EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
 
@@ -18,6 +26,9 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
 ## Update log:  
+
+<details>  
+<summary>click for details</summary>  
   
 - 20200814:  
 Rebuild some ssdt make it more compact.  
@@ -64,6 +75,7 @@ how to use:copy it to ESR
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)   
 
+</details>  
 
 supported BigSur
 
@@ -104,11 +116,17 @@ supported BigSur
 
   
 ## Info of my device     
+
+<details>  
+<summary>click for details</summary>  
+
 oc version:0.6.0  
 
 macos：11.0 BigSur. 
 
 matebook2019 i7-8565u mx250 sn720  
+
+</details>  
 
 ## How to install：  
 
@@ -117,6 +135,9 @@ A perfect guide in:
 https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.html  
 
 ## If you dont have any macos device：  
+
+<details>  
+<summary>click for details</summary>  
 
 Download image from:  
 https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html  
@@ -127,12 +148,15 @@ Serch this text in your chrome:
 
 10.15.5 19F101 双EFI分区版
     
-      
+</details>        
   
   
 
-## Install ComboJack to fix audio jack
+## Install ComboJack to fix audio jack  
 
+<details>  
+<summary>click for details</summary>  
+  
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)  
 
 
@@ -147,10 +171,13 @@ run install.sh in terminal:
 ComboJack_Installer/install.sh
 ```
   
-  
+</details>     
 
 
-## How to enable HIDPI：
+## How to enable HIDPI：  
+
+<details>  
+<summary>click for details</summary>  
 
 https://github.com/xzhih/one-key-hidpi
  
@@ -160,11 +187,14 @@ My selection：
 2. macbook pro   
 3. input 6    
 4. input  1600x1066 1343x895 2160x1440  
-  
+
+</details>     
   
 ## How to disable CFG lock：
 
-
+<details>  
+<summary>click for details</summary>  
+  
 upgrade your bios to 1.28,could be download in HUAWEI's official page  
 
 1.Format a usb memory to fat32  
@@ -210,10 +240,13 @@ Btw.DO NOT use opencore to boot what i uploaded
 That is all of how to unlock cfg in matebook13 2019  
 
 And you will get a perfect power management  
+
+</details>     
       
 ## fix time issue between windows and macos 
 
-   
+<details>  
+<summary>click for details</summary>     
   
 in windows press WIN+x run CMD with administrator  
   
@@ -222,7 +255,9 @@ in windows press WIN+x run CMD with administrator
 ```bash
 Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
 ```  
-  
+
+
+</details>       
   
 
 If this EFI could run in your laptop well,  
