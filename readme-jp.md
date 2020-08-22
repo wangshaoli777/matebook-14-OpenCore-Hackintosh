@@ -6,6 +6,8 @@
 
 日本語でokay!  
 
+このEFIはcatalinaとbigsur両方をbootできます。  
+
 EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
 
@@ -14,7 +16,7 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 ## アップデート履歴:  
   
 - 20200814:  
-V0814のEFIはcatalinaとbigsurで両方にも使えるようにしました、一部のssdtを作り直しました。  
+V0814のEFIはcatalinaとbigsur両方をbootできるようにしました、一部のssdtを作り直しました。  
 
 - 20200806:  
 OpenCoreをオフィシャルの0.6.0にアップグレードしました。  
@@ -23,9 +25,6 @@ OpenCoreをオフィシャルの0.6.0にアップグレードしました。
 - 20200802:  
 updated itlwmx.kext for 2020ver laptop,[click for download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx%20beta0802.zip) 
 
-- 20200731:  
-  macOS　11　BigSurをインストールするためのEFIをアップロードした。  
-    [クリックしてダウンロード](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/EFI%20for%20installing%20bigsur.zip)  
 - 20200728:  
 itlwm.kextとHeliPort.dmgをpublic betaバージョンに更新しました  
 HeliPort.dmgの使い方：macOSでダブルクリックでインストールする  
