@@ -6,6 +6,8 @@
 
 日本語でokay!  
 
+EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
+
 
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
