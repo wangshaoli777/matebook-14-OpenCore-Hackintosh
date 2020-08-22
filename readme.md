@@ -61,7 +61,10 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 <details>  
 <summary>点击以查看详细信息</summary>  
   
-    
+- 20200822:     
+删除了一些没用的ssdt，精简了一下efi  
+  
+  
 - 20200814:  
 重做了一些ssdt，升级了一些驱动，然后对bigsur做了配适，0814的efi可以同时稳定引导bigsur跟catalina  
 
