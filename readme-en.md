@@ -31,6 +31,9 @@ If you Star my repo (click star⭐️ at upper right of this page), I will so ha
 <details>  
 <summary>click for details</summary>  
   
+- 20200822:    
+Deleted some useless ssdt.  
+
 - 20200814:  
 Rebuild some ssdt make it more compact.  
 and you can use this efi boot both catalina and bigsur now.it is steadily and worked well.  
