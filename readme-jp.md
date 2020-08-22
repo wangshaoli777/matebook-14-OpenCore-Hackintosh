@@ -31,6 +31,10 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 <details>  
 <summary>クリック</summary>  
   
+- 20200822:  
+一部の無意味のssdtを削除しました。  
+
+  
 - 20200814:  
 V0814のEFIはcatalinaとbigsur両方をbootできるようにしました、一部のssdtを作り直しました。  
 
