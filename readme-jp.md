@@ -13,6 +13,8 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
+右上のStar⭐️をクリックしてくれれば嬉しいです。  
+
 
 <details>  
 <summary>⭐️クリックしてハッキントッシュの稼働状況を確認</summary>  
