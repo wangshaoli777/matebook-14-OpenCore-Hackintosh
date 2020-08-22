@@ -25,6 +25,8 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
        
 
 ## アップデート履歴:  
+<details>  
+<summary>クリックして詳しい情報をチェック</summary>  
   
 - 20200814:  
 V0814のEFIはcatalinaとbigsur両方をbootできるようにしました、一部のssdtを作り直しました。  
@@ -70,11 +72,12 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)   
 
-
+</details>  
 すでにmacos 11 Bigsurにサポートしました  
 
 ## 正常に動作できるもの：
-  
+<details>  
+<summary>クリックして詳しい情報をチェック</summary>   
   
 1.bluetooth（完璧に動作できる）From IntelBluetoothFirmware @zxystd
 
@@ -97,33 +100,48 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 10.ホットキー(brightness and sound)  
 11.audio jack(下に書いてある「ComboJackを用いてaudio jackを修復する方法」従う必要があります)
 
-  
+</details>  
   
 ## 正常に動作できないもの：  
-
+<details>  
+<summary>クリックして詳しい情報をチェック</summary>   
 
 1.一部の付属カメラ（UVC Camera VendorID_1480 ProductID_975 は稼働できる） 
 
-2.mx250/150/350（どうしても無理です）
+2.mx250/150/350（どうしても無理です)  
+  
+3.指紋認証  
 
+</details>  
   
 ## 自分のデバイス情報     
+<details>  
+<summary>クリックして詳しい情報をチェック</summary>   
 oc version:0.6.0  
 
 macos：11.0 BigSur    
 
 matebook13 2019 i7-8565u mx250 sn720  
 
-## インストールの手順：  
+</details>  
 
+## インストールの手順：  
+<details>  
+<summary>クリックして詳しい情報をチェック</summary>   
+    
+    
 下の外部ページを参考して下さい：  
 （このガイドは最高のものですが、一定の英語能力が必要です）　　
 
 https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.html  
+</details>   
 
 ## もし手元にはマックOSのデイバスを持っていない場合：  
 （上のガイドでは、インストールimgをダウンロードすることにマックOSのデバイス(Hackintosh可)が必要です）  
 
+<details>  
+<summary>クリックして詳しい情報をチェック</summary>   
+  
 下のリンクからOSをインストールするに使うimgをダウンロード可能:  
 https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html  
  
@@ -135,9 +153,13 @@ https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clo
     
       
   
-  
+</details>   
 
-## ComboJackを用いてaudio jackを修復する方法
+## ComboJackを用いてaudio jackを修復する方法  
+
+<details>  
+<summary>クリックして詳しい情報をチェック</summary>   
+
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)  
 
 From Heporis:  　　
@@ -150,10 +172,14 @@ https://github.com/randomprofilename/ComboJack
 3.再起動します
   
   
-
+</details>   
 
 ## HIDPIを有効にする方法：
-
+<details>  
+<summary>クリックして詳しい情報をチェック</summary>   
+    
+  
+  
 https://github.com/xzhih/one-key-hidpi
  
 
@@ -162,11 +188,16 @@ https://github.com/xzhih/one-key-hidpi
 2. macbook pro   
 3. input 6    
 4. input  1600x1066 1343x895 2160x1440  
+
+</details>   
   
   
 ## CFG lockを無効にする方法：
 
-
+<details>  
+<summary>クリックして詳しい情報をチェック</summary>   
+    
+    
 upgrade your bios to 1.28,could be downloaded in HUAWEI's official page    
 
 
@@ -213,6 +244,9 @@ Btw.DO NOT use opencore to boot what i uploaded
 That is all of how to unlock cfg in matebook13 2019  
 
 And you will get a perfect power management  
+
+</details>   
+
       
       
 
