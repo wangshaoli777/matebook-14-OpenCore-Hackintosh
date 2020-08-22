@@ -26,7 +26,7 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 
 ## アップデート履歴:  
 <details>  
-<summary>クリックして詳しい情報をチェック</summary>  
+<summary>クリック</summary>  
   
 - 20200814:  
 V0814のEFIはcatalinaとbigsur両方をbootできるようにしました、一部のssdtを作り直しました。  
@@ -77,7 +77,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 ## 正常に動作できるもの：
 <details>  
-<summary>クリックして詳しい情報をチェック</summary>   
+<summary>クリック</summary>   
   
 1.bluetooth（完璧に動作できる）From IntelBluetoothFirmware @zxystd
 
@@ -104,7 +104,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
   
 ## 正常に動作できないもの：  
 <details>  
-<summary>クリックして詳しい情報をチェック</summary>   
+<summary>クリック</summary>   
 
 1.一部の付属カメラ（UVC Camera VendorID_1480 ProductID_975 は稼働できる） 
 
@@ -116,7 +116,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
   
 ## 自分のデバイス情報     
 <details>  
-<summary>クリックして詳しい情報をチェック</summary>   
+<summary>クリック</summary>   
 oc version:0.6.0  
 
 macos：11.0 BigSur    
@@ -127,7 +127,7 @@ matebook13 2019 i7-8565u mx250 sn720
 
 ## インストールの手順：  
 <details>  
-<summary>クリックして詳しい情報をチェック</summary>   
+<summary>クリック</summary>   
     
     
 下の外部ページを参考して下さい：  
@@ -140,7 +140,7 @@ https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.
 （上のガイドでは、インストールimgをダウンロードすることにマックOSのデバイス(Hackintosh可)が必要です）  
 
 <details>  
-<summary>クリックして詳しい情報をチェック</summary>   
+<summary>クリック</summary>   
   
 下のリンクからOSをインストールするに使うimgをダウンロード可能:  
 https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html  
@@ -158,7 +158,7 @@ https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clo
 ## ComboJackを用いてaudio jackを修復する方法  
 
 <details>  
-<summary>クリックして詳しい情報をチェック</summary>   
+<summary>クリック</summary>   
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)  
 
@@ -176,7 +176,7 @@ https://github.com/randomprofilename/ComboJack
 
 ## HIDPIを有効にする方法：
 <details>  
-<summary>クリックして詳しい情報をチェック</summary>   
+<summary>クリック</summary>   
     
   
   
@@ -195,7 +195,7 @@ https://github.com/xzhih/one-key-hidpi
 ## CFG lockを無効にする方法：
 
 <details>  
-<summary>クリックして詳しい情報をチェック</summary>   
+<summary>クリック</summary>   
     
     
 upgrade your bios to 1.28,could be downloaded in HUAWEI's official page    
