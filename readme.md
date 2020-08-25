@@ -61,7 +61,13 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 <details>  
 <summary>⭐️在黑苹果下玩所有3A大作（matebook13/14的黑苹果🉑️）</summary>  
     
-      
+  
+  
+  
+ ⚠️在注册的时候填写邀请码：DBZNT3EC  
+！！可以白嫖6小时！！
+  
+       
       
 我自己用的一个云电脑服务  
 挺好用的能玩游戏（包括3A） 
