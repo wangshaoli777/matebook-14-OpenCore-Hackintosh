@@ -55,6 +55,37 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 
 
 </details>   
+  
+    
+      
+<details>  
+<summary>⭐️在黑苹果下玩所有3A大作（matebook13/14的黑苹果🉑️）</summary>  
+    
+      
+      
+我自己用的一个云电脑服务  
+挺好用的能玩游戏（包括3A） 
+也就是说在matebook13/14的黑苹果上也可以无硬件限制的玩任何游戏了  
+直接4K全画质的开  
+没啥延迟，就跟在本地玩一样  
+我自己用的，推荐使用这个，这样在mac玩游戏也解决了  
+  
+⚠️在注册的时候填写邀请码：DBZNT3EC  
+！！可以白嫖6小时！！
+  
+  
+  
+[点击进入它的官网](https://www.haixingcloud.com/#/Home)  
+  
+
+
+</details>   
+      
+
+
+
+
+
 
 
 ## 更新日志  
