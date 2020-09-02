@@ -148,7 +148,7 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 <details>  
 <summary>1.蓝牙（无需热启动）*点击查看详细说明</summary>   
   
-[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
+驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
 1. 华为的蓝牙鼠标不可用！！！  
 2. 苹果的妙控2可用  
 3. 有个可爱的小哥哥@Baiyu0124发现了一款可用的没什么牌子的鼠标[淘宝链接](https://m.tb.cn/h.VtTxb0H?sm=bfed64)   
@@ -159,9 +159,11 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 <details>  
 <summary>2.wifi可用 *点击查看详细说明</summary>  
   
-（⚠️需要用propertree([点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip))注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
-⚠️2020款的电脑需要使用这个驱动[点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx%20beta0802.zip)  
+1. 需要用propertree([点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）  
 
+2. 2020款的电脑需要使用这个驱动[点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx%20beta0802.zip)  
+
+3. 驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
 
 </details>   
 
