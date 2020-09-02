@@ -415,15 +415,9 @@ windows：设备管理器→网络配适器→AC9560 160MHz/右键属性→详�
   ⭐️打赏附言请留下自己的github的ID，用于公示感谢  
   
 
-微信收款码链接：
 
-![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5o7n9u3VZFAlitOu6wbSqKFuAcjlS8QEilUALko3mMFcdLjiz*q2Dte376tycJGE4OAjfVwxmntwQFkPtU7kX38!/b&bo=OAS6BdoElgYBB.0!&rf=viewer_4). 
-  
-  
 
-支付宝收款码链接：
-
-![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5o7n9u3VZFAlitOu6wbSqKEOd5rvIrEcqFYhJ1dRc.eoGAliOFfjETf0NLSjFzm7JGZFIp*ZG77uSHI4*40Y8ps!/b&bo=WAKEA1gChAMBByA!&rf=viewer_4)
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5vhyua0NyktT47EDwPAfhtuBceWLK5.5V40I*6lQE5rORR7qbWTf9Eovur4ifsHKECewZxvEqi.ZfhaQ4ObpAl8!/b&bo=DQWcAw0FnAMBCS4!&rf=viewer_4)
 
   
   
