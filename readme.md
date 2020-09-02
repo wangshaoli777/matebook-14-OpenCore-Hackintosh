@@ -227,7 +227,7 @@ matebook2019 i7-8565u mx250 sn720
 
 https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
   
-如果你不会安装，需要安装服务，联系微信ske1996
+⭐️如果你不会安装，需要安装服务，联系微信ske1996
 可提供收费安装服务，并且保修1个月  
 
 有问题只在github免费答疑，不在微信进行答疑，想白嫖请在github提交issue，微信勿扰  
