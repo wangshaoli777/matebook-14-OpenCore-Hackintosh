@@ -245,11 +245,15 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 
 4.视频的【16:44】开始是使用easyuefi创建efi引导，这一步前面都跟他视频一样，他怎么点你就怎么点，只不过，选择引导文件为：EFI/BOOT/BOOTx64.efi
   
+⭐️如果你不会安装，需要安装服务，联系微信ske1996  
+可提供收费安装服务，帮你弄好一切可以弄好的驱动，并且保修1个月，收费200，非诚勿扰    
 </details>
 
-## 安装ComboJack实现耳机耳麦切换，改进电流声。（修复耳机接口）
+## 安装后：  
+
+
 <details>  
-<summary>点击以查看详细信息</summary>   
+<summary>安装ComboJack实现耳机耳麦切换，改进电流声。（修复耳机接口</summary>   
   
 参考： 
 
@@ -269,9 +273,10 @@ ComboJack_Installer/install.sh
   
 </details>
 
-## 开启HIDPI：
+  
+  
 <details>  
-<summary>点击以查看详细信息</summary>  
+<summary>开启HIDPI</summary>  
 https://github.com/xzhih/one-key-hidpi
  
 
@@ -291,9 +296,10 @@ https://github.com/xzhih/one-key-hidpi
 
 </details> 
 
-## 解锁CFG：
+  
+  
 <details>  
-<summary>点击以查看详细信息</summary>  
+<summary>解锁CFG</summary>  
 
 ⚠️关于解锁cfg后能做到什么？  
 完美的电源管理  
@@ -336,12 +342,10 @@ https://zhuanlan.zhihu.com/p/121655468
 
 </details> 
 
-  
-如果你不会安装，需要安装服务，联系微信ske1996，可提供收费安装服务，并且保修1个月
       
-## 解决window与macos时间不同步/显示不正确
+
 <details>  
-<summary>点击以查看详细信息</summary>  
+<summary>解决window与macos时间不同步/显示不正确</summary>  
   
   
   
@@ -353,10 +357,10 @@ https://zhuanlan.zhihu.com/p/121655468
 Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
 ```  
 </details>   
-
-## 2020款电脑的Wi-Fi说明：  
+  
+  
 <details>  
-<summary>点击以查看详细信息</summary>  
+<summary>2020款电脑的Wi-Fi说明</summary>  
   
 ⚠️二代的ac9560可以驱动了，在上面的“正常可用的部件”中wifi的那一栏点击详细进去，有地方下载你的专用驱动  
 鉴别办法：  
@@ -369,11 +373,11 @@ windows：设备管理器→网络配适器→AC9560 160MHz/右键属性→详�
 感谢[@jiaogger](https://github.com/jiaogger)提供帮助以及方案，一起测试  
 
 </details>  
-
-## 关于如何在黑苹果下玩游戏（打破平台/硬件限制，黑苹果也能玩所有PC游戏）  
+  
+  
 
 <details>  
-<summary>点击查看详情</summary>  
+<summary>关于如何在黑苹果下玩游戏（打破平台/硬件限制，黑苹果也能玩所有PC游戏）</summary>  
     
   
   
