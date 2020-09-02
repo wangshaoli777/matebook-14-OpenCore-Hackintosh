@@ -206,9 +206,10 @@ oc版本0.6.0
 matebook2019 i7-8565u mx250 sn720
 </details>  
 
-## 安装方法：  
+## 安装方法&镜像下载&视频教程：  
 
-
+<details>  
+<summary>点击查看镜像下载</summary>  
 先于此blog下载：10.15.5 19F101 双EFI分区版
 
 这个文章很长，使劲往下翻，或使用网页搜索功能
@@ -216,9 +217,11 @@ matebook2019 i7-8565u mx250 sn720
 下载链接
 ：https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html
   
-    
+</details>  
+
       
-## 安装视频教程：
+<details>  
+<summary>点击查看安装视频教程</summary>
 
 https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
   
@@ -226,10 +229,12 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 可提供收费安装服务，并且保修1个月  
 
 有问题只在github免费答疑，不在微信进行答疑，想白嫖请在github提交issue，微信勿扰  
+</details>  
+  
+  
 
-## 安装注意点：  
 <details>  
-<summary>点击以查看详细信息</summary>  
+<summary>安装注意点</summary>  
 ⚠️事前准备：f2进bios，调成中文，然后关闭一切带有“安全”的东西，保存，退出  
   
 1.安装使用的镜像推荐使用我给的链接下载的那个，不要用他给的，因为有点旧了  
