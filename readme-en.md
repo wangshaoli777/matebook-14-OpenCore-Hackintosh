@@ -6,6 +6,8 @@ for helping more people who useing matebook to build their hackintosh.
 
 Feel free to report issue here,whatever you used English or Japanese.  
 
+Sister project:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
+
 
 very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)on test bigsur(beta),and i am so sorry for wasted his time,because of i did a totally wrong EFI for testing bigsur,my apology.  
 
@@ -25,6 +27,8 @@ If you Star my repo (click star⭐️ at upper right of this page), I will so ha
 
 
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
+
+
 
 ## Update log:  
 
