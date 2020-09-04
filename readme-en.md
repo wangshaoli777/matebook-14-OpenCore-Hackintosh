@@ -36,6 +36,12 @@ If you Star my repo (click star⭐️ at upper right of this page), I will so ha
 <summary>click for details</summary>  
   
 - 20200822:    
+added something interesting+SMCLightSensor.kext  
+
+
+  
+  
+- 20200822:    
 Deleted some useless ssdt.  
 
 - 20200814:  
