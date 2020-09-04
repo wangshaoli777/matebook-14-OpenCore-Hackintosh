@@ -31,7 +31,12 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 ## アップデート履歴:  
 <details>  
 <summary>クリック</summary>  
-  
+ 
+- 20200905:   
+面白いものを加えました+SMCLightSensor.kext  
+
+ 
+ 
 - 20200822:  
 一部の無意味のssdtを削除しました。  
 
