@@ -14,7 +14,7 @@
 
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
-
+姐妹项目:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
   
 EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
