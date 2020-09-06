@@ -108,9 +108,6 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 - 20200806:  
 更新oc至官方稳定版0.6.0  
 
-
-- 20200802:  
-添加了2020款的wifi驱动itlwmx.kext [点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx%20beta0802.zip)  
     
 - 20200728:  
 添加了public beta的itlwm.kext和HeliPort.dmg  
@@ -166,9 +163,10 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
   
 1. 需要用propertree([点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）  
 
-2. 2020款的电脑需要使用这个驱动[点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/itlwmx%20beta0802.zip)  
+或者使用压缩包里的heliport  
 
-3. 驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
+
+2. 驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
 
 </details>   
 
@@ -365,23 +363,7 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 ```  
 </details>   
   
-  
-<details>  
-<summary>2020款电脑的Wi-Fi说明</summary>  
-  
-⚠️二代的ac9560可以驱动了，在上面的“正常可用的部件”中wifi的那一栏点击详细进去，有地方下载你的专用驱动  
-鉴别办法：  
-windows：设备管理器→网络配适器→AC9560 160MHz/右键属性→详细信息→属性的位置选设备ID  
-二代的设备ID：PCI\VEN_8086&DEV_02F0&SUBSYS_20348086&REV_00  
-图例：  
-
-![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5q01OKCJFpwjG8DeWk34ZAkS9wKXRMVr2APWcRvSl3ZJFDJrh42ZPmO14dgxnvqPXC8iwlZP4DAlh3rMUtNpBqk!/b&bo=gAd3AwAAAAABB9M!&rf=viewer_4)  
-
-感谢[@jiaogger](https://github.com/jiaogger)提供帮助以及方案，一起测试  
-
-</details>  
-  
-  
+   
 
 <details>  
 <summary>关于如何在黑苹果下玩游戏（打破平台/硬件限制，黑苹果也能玩所有PC游戏）</summary>  
