@@ -1,10 +1,9 @@
 # matebook-13/14-2019/2020-OpenCore-EFI  hackintosh
-  
-If this EFI could run in your laptop and works well,  
-please create a issues and send info of your device like year,cpu,matebook 13 or 14 and how it runs on your device.  
-for helping more people who useing matebook to build their hackintosh.
+ 
+```
+the EFi folder of this project can works on 2018-2020version's Matebook 13&14
+```
 
-Feel free to report issue here,whatever you used English or Japanese.  
 
 Sister project:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
 
