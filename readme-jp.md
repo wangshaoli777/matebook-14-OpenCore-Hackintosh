@@ -37,7 +37,7 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 <summary>クリック(⚠️これを先に読んでください)</summary>  
  
 - 20200905:   
-面白いものを加えました+SMCLightSensor.kext  
+イースター・エッグが含まれています+SMCLightSensor.kext  
 
  
  
