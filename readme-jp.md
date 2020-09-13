@@ -6,6 +6,10 @@
 
 日本語でokay!  
 
+```
+このEFIは2018-2020バージョンのMatebook 13&14に対応しています。（intelのみ）
+```
+
 このページ右上のStar⭐️をクリックしてくれれば嬉しいです。  
 
 このEFIはcatalinaとbigsur両方をbootできます。  
@@ -30,7 +34,7 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 
 ## アップデート履歴:  
 <details>  
-<summary>クリック</summary>  
+<summary>クリック(⚠️これを先に読んでください)</summary>  
  
 - 20200905:   
 面白いものを加えました+SMCLightSensor.kext  
@@ -89,9 +93,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 すでにmacos 11 Bigsurにサポートしました  
 
 ## 正常に動作できるもの：
-<details>  
-<summary>クリック</summary>   
-  
+
 1.bluetooth（完璧に動作できる）From IntelBluetoothFirmware @zxystd
 
 2.wifi （propertreeを使ってssidとpasswordを設定する必要がある） From itlwm @zxystd
@@ -111,13 +113,13 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 9.usb（ssdtを用いて修復）
 
 10.ホットキー(brightness and sound)  
+
 11.audio jack(下に書いてある「ComboJackを用いてaudio jackを修復する方法」従う必要があります)
 
-</details>  
+
   
 ## 正常に動作できないもの：  
-<details>  
-<summary>クリック</summary>   
+
 
 1.一部の付属カメラ（UVC Camera VendorID_1480 ProductID_975 は稼働できる） 
 
@@ -125,22 +127,21 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
   
 3.指紋認証  
 
-</details>  
+
   
 ## 自分のデバイス情報     
-<details>  
-<summary>クリック</summary>   
+
 oc version:0.6.0  
 
 macos：11.0 BigSur    
 
 matebook13 2019 i7-8565u mx250 sn720  
 
-</details>  
 
-## インストールの手順：  
+
+## インストールの手順について：  
 <details>  
-<summary>クリック</summary>   
+<summary>インストールガイド</summary>   
     
     
 下の外部ページを参考して下さい：  
@@ -148,12 +149,16 @@ matebook13 2019 i7-8565u mx250 sn720
 
 https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.html  
 </details>   
-
-## もし手元にはマックOSのデイバスを持っていない場合：  
-（上のガイドでは、インストールimgをダウンロードすることにマックOSのデバイス(Hackintosh可)が必要です）  
+ 
 
 <details>  
-<summary>クリック</summary>   
+<summary>DMG ダウンロード</summary>   
+  
+（上のガイドでは、インストールimgをダウンロードすることにマックOSのデバイス(Hackintosh可)が必要です）    
+
+もし手元にはマックOSのデイバスを持っていない場合：  
+
+
   
 下のリンクからOSをインストールするに使うimgをダウンロード可能:  
 https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html  
@@ -168,10 +173,12 @@ https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clo
   
 </details>   
 
-## ComboJackを用いてaudio jackを修復する方法  
+
+## インストール後
+
 
 <details>  
-<summary>クリック</summary>   
+<summary>ComboJackを用いてaudio jackを修復する方法</summary>   
 
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)  
 
@@ -187,9 +194,9 @@ https://github.com/randomprofilename/ComboJack
   
 </details>   
 
-## HIDPIを有効にする方法：
+
 <details>  
-<summary>クリック</summary>   
+<summary>HIDPIを有効にする方法：</summary>   
     
   
   
@@ -205,10 +212,9 @@ https://github.com/xzhih/one-key-hidpi
 </details>   
   
   
-## CFG lockを無効にする方法：
 
 <details>  
-<summary>クリック</summary>   
+<summary>CFG lockを無効にする方法：</summary>   
     
     
 upgrade your bios to 1.28,could be downloaded in HUAWEI's official page    
