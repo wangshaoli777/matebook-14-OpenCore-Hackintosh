@@ -170,9 +170,7 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 <details>  
 <summary>2.wifi可用 *点击查看详细说明</summary>  
   
-1. 需要用propertree([点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)注入你自己的ssid跟password➡️[教程链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1848662)）  
-
-或者使用压缩包里的heliport  
+1. 使用了Z大的最新AirportItlwm，丢掉heliport啦  
 
 
 2. 驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
