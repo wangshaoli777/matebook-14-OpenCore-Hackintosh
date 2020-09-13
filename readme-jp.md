@@ -35,6 +35,10 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 ## アップデート履歴:  
 <details>  
 <summary>クリック(⚠️これを先に読んでください)</summary>  
+  
+- 20200913:  
+最新のAirportItlwmを使用していますので、これからheliportは必要なし、さらにOCを0.6.1にアップグレードしました  
+
  
 - 20200905:   
 イースター・エッグが含まれています+SMCLightSensor.kext  
@@ -96,7 +100,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 1.bluetooth（完璧に動作できる）From IntelBluetoothFirmware @zxystd
 
-2.wifi （propertreeを使ってssidとpasswordを設定する必要がある） From itlwm @zxystd
+2.wifi  From @zxystd
 
 3.sleep-wakeup 問題なし
 
