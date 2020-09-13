@@ -33,8 +33,13 @@ If you Star my repo (click star⭐️ at upper right of this page), I will so ha
 
 <details>  
 <summary>click for details</summary>  
-  
-- 20200822:    
+ 
+ 
+- 20200913:
+upgrade oc to 0.6.1,and removed itlwm.kext,added AirportItlwm.kext,heliport is not necessary now  
+
+ 
+- 20200905:    
 added something interesting+SMCLightSensor.kext  
 
 
@@ -97,7 +102,8 @@ supported BigSur
   
 1.bluetooth（could be used like original）From IntelBluetoothFirmware @zxystd
 
-2.wifi （use heliport which in EFI for boot to connect/swith wifi)  
+2.wifi (AirportItlwm.kext inside,heliport is not necessary now)  
+
 
 3.sleep-wakeup works well
 
