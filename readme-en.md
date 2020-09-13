@@ -1,6 +1,6 @@
 # matebook-13/14-2019/2020-OpenCore-EFI  hackintosh
   
-If this EFI could run in your laptop well,  
+If this EFI could run in your laptop and works well,  
 please create a issues and send info of your device like year,cpu,matebook 13 or 14 and how it runs on your device.  
 for helping more people who useing matebook to build their hackintosh.
 
@@ -98,7 +98,7 @@ supported BigSur
   
 1.bluetooth（could be used like original）From IntelBluetoothFirmware @zxystd
 
-2.wifi （need to use propertree([click to download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip) ) to inject your own ssid and password） From itlwm @zxystd
+2.wifi （use heliport which in EFI for boot to connect/swith wifi)  
 
 3.sleep-wakeup works well
 
@@ -131,8 +131,6 @@ supported BigSur
   
 ## Info of my device     
 
-<details>  
-<summary>click for details</summary>  
 
 oc version:0.6.0  
 
@@ -140,18 +138,20 @@ macos：11.0 BigSur.
 
 matebook2019 i7-8565u mx250 sn720  
 
-</details>  
 
-## How to install：  
+## About installation
+
+<details>  
+<summary> How to install：</summary> 
 
 A perfect guide in:  
 
 https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.html  
 
-## If you dont have any macos device：  
+</details>  
 
 <details>  
-<summary>click for details</summary>  
+<summary>If you dont have any macos device,and want to download macos dmg</summary>  
 
 Download image from:  
 https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html  
@@ -165,11 +165,10 @@ Serch this text in your chrome:
 </details>        
   
   
-
-## Install ComboJack to fix audio jack  
+## After installation
 
 <details>  
-<summary>click for details</summary>  
+<summary>Install ComboJack to fix audio jack  </summary>  
   
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)  
 
@@ -188,10 +187,9 @@ ComboJack_Installer/install.sh
 </details>     
 
 
-## How to enable HIDPI：  
 
 <details>  
-<summary>click for details</summary>  
+<summary>How to enable HIDPI：</summary>  
 
 https://github.com/xzhih/one-key-hidpi
  
@@ -204,10 +202,9 @@ My selection：
 
 </details>     
   
-## How to disable CFG lock：
 
 <details>  
-<summary>click for details</summary>  
+<summary>How to disable CFG lock：</summary>  
   
 upgrade your bios to 1.28,could be download in HUAWEI's official page  
 
@@ -257,10 +254,9 @@ And you will get a perfect power management
 
 </details>     
       
-## fix time issue between windows and macos 
 
 <details>  
-<summary>click for details</summary>     
+<summary>fix time issue between windows and macos(for double boot)</summary>     
   
 in windows press WIN+x run CMD with administrator  
   
