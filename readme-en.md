@@ -1,7 +1,7 @@
 # matebook-13/14-2019/2020-OpenCore-EFI  hackintosh
  
 ```
-the EFi folder of this project can works on 2018-2020version's Matebook 13&14
+the EFi folder of this project can work on 2018-2020version's Matebook 13&14
 ```
 
 
