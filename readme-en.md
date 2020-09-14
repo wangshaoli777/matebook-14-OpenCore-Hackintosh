@@ -99,7 +99,7 @@ supported BigSur
   
 1.bluetooth（could be used like original）From IntelBluetoothFirmware @zxystd
 
-2.wifi (AirportItlwm.kext inside,heliport is not necessary now)  
+2.wifi (added itlwm from [@zxystd](https://github.com/OpenIntelWireless/itlwm) with heliport)  
 
 
 3.sleep-wakeup works well
