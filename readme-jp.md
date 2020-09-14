@@ -36,8 +36,7 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 <details>  
 <summary>クリック(⚠️これを先に読んでください)</summary>  
   
-- 20200913:  
-最新のAirportItlwmを使用していますので、これからheliportは必要なし、さらにOCを0.6.1にアップグレードしました  
+
 
  
 - 20200905:   
