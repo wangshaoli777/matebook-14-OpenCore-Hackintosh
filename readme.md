@@ -167,7 +167,7 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 <details>  
 <summary>2.wifi可用 *点击查看详细说明</summary>  
   
-1. 使用了Z大的、Itlwm，配合heliport，或者是使用propertree等的软件注入wifi信息  
+1. 使用了Z大的Itlwm，配合heliport，或者是使用propertree等的软件注入wifi信息  
 
 
 2. 驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
