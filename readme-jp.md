@@ -99,7 +99,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 1.bluetooth（完璧に動作できる）From IntelBluetoothFirmware @zxystd
 
-2.wifi  From @zxystd
+2.wifi  From [@zxystd](https://github.com/OpenIntelWireless/itlwm)  
 
 3.sleep-wakeup 問題なし
 
