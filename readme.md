@@ -1,7 +1,7 @@
 # matebook-13/14-2019/2020-OpenCore 黑苹果 hackintosh 
   
   
-  
+
 
 其他语言（other luanguage version of readme）：  
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
