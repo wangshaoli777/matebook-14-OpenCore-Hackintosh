@@ -37,7 +37,8 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 <summary>クリック(⚠️これを先に読んでください)</summary>  
   
   
-- 20200917:
+- 20200917:  
+
 最新のAirportItlwmを使用していますので、これからheliportは必要なくなります、さらにOCを0.6.1にアップグレードしました
 bigsurとcatalinaのEFIファイルを分けましたので、自分のOSバージョンに応じてダウンロードする必要があります。  
 
