@@ -34,7 +34,10 @@ If you Star my repo (click star⭐️ at upper right of this page), I will so ha
 <details>  
 <summary>click for details</summary>  
  
+- 20200916:  
+delete more useless kext and ssdt,this version will take less ram,and upgrade opencore to 0.6.1  
 
+ 
  
 - 20200905:    
 added something interesting+SMCLightSensor.kext  
