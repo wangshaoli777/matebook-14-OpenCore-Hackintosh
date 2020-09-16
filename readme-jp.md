@@ -36,7 +36,8 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 <details>  
 <summary>クリック(⚠️これを先に読んでください)</summary>  
   
-
+- 20200916:  
+delete more useless kext and ssdt,this version will take less ram,and upgrade opencore to 0.6.1  
 
  
 - 20200905:   
