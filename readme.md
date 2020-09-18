@@ -102,6 +102,9 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 <summary>点击以查看详细信息</summary>  
   
 
+- 20200918:  
+删除了两个fakepcid的驱动和一些其他东西，目前的efi非常的干净，另外修复了wifi与蓝牙冲突的问题  
+
 - 20200917:  
 使用了Z大的最新AirportItlwm的wifi驱动，跟heliport说拜拜啦，今后可以原生切换wifi了，另将oc升级至0.6.1  
 bigsur跟catalina需要对号入座，不可串着用  
