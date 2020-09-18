@@ -218,7 +218,7 @@ https://github.com/randomprofilename/ComboJack
     
 ⚠️気をつけてください：  
 OSのバージョンに応じて、使うプログラムぎ異なります     
-BigSur：[click for download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/%EF%BC%88BigSur%E6%96%B9%E6%A1%882%EF%BC%89hidpi.zip)  
+BigSur：[click to download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/%EF%BC%88BigSur%E6%96%B9%E6%A1%882%EF%BC%89hidpi.zip)  
 Catalina：https://github.com/xzhih/one-key-hidpi  
 
  
