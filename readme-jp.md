@@ -114,8 +114,14 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 3.sleep-wakeup 問題なし
 
-4.hdmi（HDMIの音声も問題なし）
+<details>  
+<summary>4.hdmi（HDMIの音声も問題なし）*クリック</summary>   
+  
+⭕️MataBook 13 2018-2020 そのまま使えます。  
+❌MataBook 14 2019-2020 config.plistのFramebuffer部分に [この内容に変更する必要があり](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49)  ただし、そのままで使えるケースもありますので、もしHDMIに問題がなければ、config.plistを編集しないのがおすすめです。  
 
+ </details>   
+ 
 5.TrackPad 問題なし  
 
 6.cfg lockを無効することで、パワーマネジメントが完璧に動作できる  
