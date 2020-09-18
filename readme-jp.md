@@ -216,9 +216,11 @@ https://github.com/randomprofilename/ComboJack
 <details>  
 <summary>HIDPIを有効にする方法：</summary>   
     
-  
-  
-https://github.com/xzhih/one-key-hidpi
+⚠️気をつけてください：  
+OSのバージョンに応じて、使うプログラムぎ異なります     
+BigSur：[click for download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/%EF%BC%88BigSur%E6%96%B9%E6%A1%882%EF%BC%89hidpi.zip)  
+Catalina：https://github.com/xzhih/one-key-hidpi  
+
  
 
 自分の例：  
@@ -226,6 +228,19 @@ https://github.com/xzhih/one-key-hidpi
 2. macbook pro   
 3. input 6    
 4. input  1600x1066 1343x895 2160x1440  
+
+
+HiDPIをオンにしてから、モニターに関するsettingで解析度を1343x895、これに設定してください、他の解析度に設定します、BUGが出てきます。
+
+*注意⚠️画像の左の部分を見てください、その1343x895が正しいです、しかし右の選択肢では、必ず右から二番目ではありませんので注意してください。  
+
+
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5q01OKCJFpwjG8DeWk34ZAlT4PiIkTwV7VOQNDBpBB7OkqG1Id2.r35y0gnRAtugvhPBj1i6J0*cx1bGL996lhQ!/b&bo=NAV8AwAAAAADB2w!&rf=viewer_4)  
+
+*注意⚠️画像の左の部分を見てください、その1343x895が正しいです、しかし右の選択肢では、必ず右から二番目ではありませんので注意してください。  
+
+
+
 
 </details>   
   
