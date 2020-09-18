@@ -312,7 +312,12 @@ ComboJack_Installer/install.sh
   
 <details>  
 <summary>开启HIDPI</summary>  
-https://github.com/xzhih/one-key-hidpi
+  
+  
+根据你的版本去下载（获得）开启hidpi的脚本哈   
+BigSur：[点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/%EF%BC%88BigSur%E6%96%B9%E6%A1%882%EF%BC%89hidpi.zip)  
+
+Catalina：https://github.com/xzhih/one-key-hidpi
  
 
 我说下我的选择：  
