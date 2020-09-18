@@ -1,5 +1,7 @@
 # matebook-13/14-2019/2020-OpenCore-EFI  ハッキントッシュ  
 
+他言語（other luanguage version of readme）：  
+[中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
 issueなどの提出には日本語でokay!  
 
@@ -13,8 +15,6 @@ issueなどの提出には日本語でokay!
 
 EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
-
-[中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
 
 姉妹プロジェクト:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
