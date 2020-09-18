@@ -195,7 +195,12 @@ bigsur跟catalina需要对号入座，不可串着用
 
 3.睡眠正常
 
-4.hdmi正常（可音频输出）
+<details>  
+<summary>4.hdmi正常（可音频输出）*点击查看详细说明</summary>   
+  
+  MataBook 13 2018-2020 什么都不用改  
+  MataBook 14 2019-2020 需要修改缓冲帧  
+ </details>   
 
 5.触摸板正常
 
