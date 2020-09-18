@@ -238,12 +238,12 @@ My selection：
 You should lock your resolution to 1343x895 at setting since you enabled HiDPI.Otherwise you will get bug from wakeup.  
 
 
-*Attention⚠️you should select resolution like left part of this photo(1343x895 under the monitor),but the right button(right part) maybe not the 3rd one.   
+*Attention⚠️you should select resolution like left part of this photo(1343x895 under the monitor),but the correct button(right part of photo) maybe not the 3rd one.   
 
 
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5q01OKCJFpwjG8DeWk34ZAlT4PiIkTwV7VOQNDBpBB7OkqG1Id2.r35y0gnRAtugvhPBj1i6J0*cx1bGL996lhQ!/b&bo=NAV8AwAAAAADB2w!&rf=viewer_4)  
 
-*Attention⚠️you should select resolution like left part of this photo(1343x895 under the monitor),but the right button(right part) maybe not the 3rd one.  
+*Attention⚠️you should select resolution like left part of this photo(1343x895 under the monitor),but the correct button(right part of photo) maybe not the 3rd one.  
 
 
 
