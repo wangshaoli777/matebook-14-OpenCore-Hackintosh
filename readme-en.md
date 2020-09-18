@@ -12,7 +12,8 @@ other luanguage version of readme：
 Sister project:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
 
 <details> 
-<summary>appology to:[@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)</summary> 
+<summary>appology to: @Edoardo001 </summary>  
+ 
 very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)on test bigsur(beta),and i am so sorry for wasted his time,because of i did a totally wrong EFI for testing bigsur,my apology.  
  
  </details>  
