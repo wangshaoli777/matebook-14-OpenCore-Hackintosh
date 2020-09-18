@@ -232,12 +232,12 @@ Catalina：https://github.com/xzhih/one-key-hidpi
 
 HiDPIをオンにしてから、モニターに関するsettingで解析度を1343x895、これに設定してください、他の解析度に設定します、BUGが出てきます。
 
-*注意⚠️画像の左の部分を見てください、その1343x895が正しいです、しかし右の選択肢では、必ず右から二番目ではありませんので注意してください。  
+*注意⚠️画像の左の部分を見てください、その1343x895が正しいです。しかし、右の選択肢に関しては、必ず画像と同じ位置ではありませんので注意してください。  
 
 
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5q01OKCJFpwjG8DeWk34ZAlT4PiIkTwV7VOQNDBpBB7OkqG1Id2.r35y0gnRAtugvhPBj1i6J0*cx1bGL996lhQ!/b&bo=NAV8AwAAAAADB2w!&rf=viewer_4)  
 
-*注意⚠️画像の左の部分を見てください、その1343x895が正しいです、しかし右の選択肢では、必ず右から二番目ではありませんので注意してください。  
+*注意⚠️画像の左の部分を見てください、その1343x895が正しいです。しかし、右の選択肢に関しては、必ず画像と同じ位置ではありませんので注意してください。 
 
 
 
