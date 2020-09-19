@@ -128,7 +128,7 @@ supported BigSur
   
 ⭕️MataBook 13 2018-2020 you dont have to do angthing  
 ❌MataBook 14 2019-2020 the Framebuffer part of config.plist ⇨ [should be changed to this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49)  
-but there are some cases which didnt changed anything in config.plist,and their device's hdmi works fine.  
+but there are some cases which they havent changed anything in config.plist,and their device's hdmi works fine.  
 so,if your device's hdmi works,strongly recommand to NOT change anything of config.plist(except MLB,SN)  
 
  </details>   
