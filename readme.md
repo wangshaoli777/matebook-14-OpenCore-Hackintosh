@@ -87,6 +87,7 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5tYVtcFrG1xkOWyBU1GDbxE6hpdrUf6Pg.vDgHhVIy6*E.kefnbAWwV1KtMrrykx8l41y744fk8.A5CD60DHlOQ!/b&bo=ogKAAwAAAAABBwM!&rf=viewer_4)  
   
   
+</details>   
 
 
 
