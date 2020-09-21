@@ -268,7 +268,7 @@ Restart and boot with this usb
 After you boot   
 
 Press alt and "+" in same time  
-(BTW,my keyborad is standard USA version,the hot key is not same between different language version keyboard,so strongly recommand to get an external USA version keyborad to use for this guide)  
+(BTW,my keyborad is standard USA version,the hot key is not same between different language version keyboard,so strongly recommand to get an external USA version keyborad for this guide)  
 
 And use ↑and↓ in your keyboard to find "cpusetup"  
 
