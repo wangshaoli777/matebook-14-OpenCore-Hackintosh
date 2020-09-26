@@ -33,7 +33,6 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 If you Star my repo (click star⭐️ at upper right of this page), I will so happy.  
 
 
-[中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)  
 
 
 
