@@ -236,7 +236,16 @@ oc版本0.6.0
 matebook2019 i7-8565u mx250 sn720
 </details>  
 
-## 安装方法&镜像下载&视频教程：  
+## 安装教程：  
+<details>  
+<summary>⚠️说明（一定先读这个）</summary>  
+1.以下教程仅针对安装Catalina，想安装bigsur的自行搜索oc的安装教程  
+  
+2.如果你在以下教程有遇到五国，或者是usb导致的卡eb，卡禁止符号  
+  方法1.用oc安装，直接在硬盘efi分区扩容后放进我oc的efi，然后用oc引导安装盘，具体教程自行百度  
+  方法2.删除u盘中的efi/clover/kexts/other/usbinjectall.kext  
+  
+</details>  
 
 <details>  
 <summary>点击查看镜像下载</summary>  
