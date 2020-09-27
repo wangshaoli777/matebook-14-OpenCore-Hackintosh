@@ -293,6 +293,16 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 
 ## 安装后：  
 
+<details>  
+<summary>⚠️关于引导</summary>  
+  
+ 
+不要用oc引导windows，直接oc的选择系统界面里通过ctrl+回车选择mac的引导磁盘  
+设置mac为默认引导磁盘，关闭config里，showpicker  
+
+引导windows用f12选windows  
+
+</details>  
 
 <details>  
 <summary>安装ComboJack实现耳机耳麦切换，改进电流声。（修复耳机接口）</summary>   
