@@ -246,7 +246,7 @@ matebook13 2019 i7-8565u mx250 sn720
   
 2.如果你在以下教程有遇到五国，或者是usb导致的卡eb，卡禁止符号  
   方法1.用oc安装，直接在硬盘efi分区扩容后放进我oc的efi，然后用oc引导安装盘，具体教程自行百度  
-  方法2.删除u盘中的efi/clover/kexts/other/usbinjectall.kext  
+  方法2.删除u盘中的efi/clover/kexts/other/usbinjectall.kext以及efi/clover/kexts/other/usbport.kext  
   
 </details>  
 
