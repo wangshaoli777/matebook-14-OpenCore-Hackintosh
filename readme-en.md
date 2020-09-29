@@ -5,7 +5,7 @@ other language version of readme：
 
  
 ```
-the EFi folder of this project can work on 2018-2020version's Matebook 13&14
+the EFi folder of this project support 2018-2020version's Matebook 13&14
 ```
 
 
