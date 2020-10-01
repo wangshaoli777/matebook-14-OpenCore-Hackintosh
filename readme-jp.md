@@ -249,21 +249,22 @@ HiDPIをオンにしてから、モニターに関するsettingで解析度を13
 <details>  
 <summary>CFG lockを無効にする方法：</summary>   
     
-    
+⚠️  
+
 まずはHUAWEIの公式サイトでBIOSを1.28にアップグレードするためのパッケージをダウンロードし、BIOSをアップグレードします。   
 
 
-1.Format a usb memory to fat32  
+1.USBメモリ（容量には最低制限なし）をfat32にフォーマットする
 
-2.create a new floder named "EFI" at root  
+2.USBメモリのルートで名前が"EFI"のフォルダを作る  
 
-3.create a new floder named "BOOT" At /EFI  
+3.EFIフォルダ内に名前が"BOOT"のフォルダを作る  
 
-4.download [cfgunlock.zip(クリック)](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/cfgunlock.zip)  
+4.[cfgunlock.zip(クリック)](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/cfgunlock.zip)をダウンロード  
 
-5.copy bootx64.efi from cfgunlock.zip to EFI/BOOT in your usb 
+5.cfgunlock.zip内のbootx64.efiをEFI/BOOTにコピー 
 
-Restart and boot with this usb  
+そして、そのusbメモリーを用い、BOOTする  
 
 After you boot   
 
