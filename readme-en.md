@@ -115,7 +115,7 @@ supported BigSur
 ## Works fine：
   
   
-1.bluetooth（could be used like original）From IntelBluetoothFirmware @zxystd
+1.bluetooth From IntelBluetoothFirmware [@zxystd](https://github.com/OpenIntelWireless/itlwm)  
 
 2.wifi (added AirportItlwm from [@zxystd](https://github.com/OpenIntelWireless/itlwm) you can use wifi without heliport now)  
 
@@ -134,13 +134,13 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 
 5.TrackPad
 
-6.Could get perfect powermanagement after disable cfg lock  
+6.perfect powermanagement(after disable cfg lock)  
 
-7.about FB part:igpu(uhd620) works well
+7.igpu(uhd620) works well
 
 8.cpu boost（cpufriend set in：1800mhz，maximum）
 
-9.usb（by using ssdt）
+9.usb（by ssdt）
 
 10.FN key(brightness and sound)  
 
@@ -162,7 +162,7 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 
 oc version:0.6.0  
 
-macos：11.0 BigSur. 
+macos：11.0 BigSur 
 
 matebook2019 i7-8565u mx250 sn720  
 
