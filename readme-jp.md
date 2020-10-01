@@ -250,7 +250,7 @@ HiDPIをオンにしてから、モニターに関するsettingで解析度を13
 <summary>CFG lockを無効にする方法：</summary>   
     
     
-upgrade your bios to 1.28,could be downloaded in HUAWEI's official page    
+まずはHUAWEIの公式サイトでBIOSを1.28にアップグレードするためのパッケージをダウンロードし、BIOSをアップグレードします。   
 
 
 1.Format a usb memory to fat32  
