@@ -289,7 +289,7 @@ Then,put "00" in
 
 Then,press ctrl and w in same time to save setting   
 
-If save successfully,it will tell you like"update written"(i forget it)  
+If save successfully,it will tell you like"update written"(i forget what it was)  
 
 And alt+q to quit  
 
