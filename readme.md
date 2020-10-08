@@ -296,9 +296,11 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 <details>  
 <summary>⚠️注意事项</summary>  
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️  
+  
 1.不要用oc引导windows，直接oc的选择系统界面里通过ctrl+回车选择mac的引导磁盘  
 设置mac为默认引导磁盘，关闭config里，showpicker  
 引导windows用f12选windows  
+
 
 2.一定要先改三码再用，具体的教程自己百度  
 
