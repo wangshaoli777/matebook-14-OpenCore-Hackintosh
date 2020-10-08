@@ -101,7 +101,7 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 姑且做了一个分类，你可以根据自己的机器下载对应efi了，oc版本姑且是0.6.1，但是日后我主要维护的是matebook 13&14 2019版的  
 
 - 20200918:  
-删除了两个fakepcid的驱动和一些其他东西，目前的efi非常的干净，另外修复了wifi与蓝牙冲突的问题  
+删除了两个fakepcid的驱动和一些其他东西，目前的efi非常的干净，另外尝试修复wifi与蓝牙冲突的问题  
 
 - 20200917:  
 使用了Z大的最新AirportItlwm的wifi驱动，跟heliport说拜拜啦，今后可以原生切换wifi了，另将oc升级至0.6.1  
