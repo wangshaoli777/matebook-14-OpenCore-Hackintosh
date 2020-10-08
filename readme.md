@@ -294,15 +294,29 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 ## 安装后：  
 
 <details>  
-<summary>⚠️关于引导</summary>  
-  
- 
-不要用oc引导windows，直接oc的选择系统界面里通过ctrl+回车选择mac的引导磁盘  
+<summary>⚠️注意事项</summary>  
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+1.不要用oc引导windows，直接oc的选择系统界面里通过ctrl+回车选择mac的引导磁盘  
 设置mac为默认引导磁盘，关闭config里，showpicker  
-
 引导windows用f12选windows  
 
+2.一定要先改三码再用，具体的教程自己百度  
+
+3.icloud中的查找我的mac不要打开  
+
+4.安全与隐私中的文件保险箱不要打开  
+
+5.再任何系统，任何OS下都要杜绝热启动，意思是重启的话一律先选关机再用开机键开机  
+无论是单个系统下的重启需求或者是想要重启切换系统，都不要选重启选项，一律先选关机再用开机键开机  
+不然有可能会导致蓝牙，触控板，Wi-Fi失灵问题。  
+
+
 </details>  
+
+
+
+
+
 
 <details>  
 <summary>安装ComboJack实现耳机耳麦切换，改进电流声。（修复耳机接口）</summary>   
