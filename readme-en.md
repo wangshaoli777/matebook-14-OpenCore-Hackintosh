@@ -42,7 +42,7 @@ If you Star my repo (click star⭐️ at upper right of this page), I will so ha
 <summary>click for details</summary>  
 
 - 20200918:  
-deleted two fakepcid kexts and some other things，now efi is very clean，and fixed wifi-bluetooth conflict issue    
+deleted two fakepcid kexts and some other things，now efi is very clean，and try to fix wifi-bluetooth conflict issue    
 
 
 - 20200917:  
