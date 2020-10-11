@@ -11,7 +11,7 @@ issueなどの提出には日本語でokay!
 
 このページ右上のStar⭐️をクリックしてくれれば嬉しいです。  
 
-このEFIはcatalinaとbigsur両方をbootできます。  
+このプロジェクトはcatalinaとbigsurに対応しています。  
 
 EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
@@ -217,7 +217,7 @@ https://github.com/randomprofilename/ComboJack
 <summary>HIDPIを有効にする方法：</summary>   
     
 ⚠️気をつけてください：  
-OSのバージョンに応じて、使うプログラムぎ異なります     
+OSのバージョンに応じて、使うプログラムが異なります     
 BigSur：[click to download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/%EF%BC%88BigSur%E6%96%B9%E6%A1%882%EF%BC%89hidpi.zip)  
 Catalina：https://github.com/xzhih/one-key-hidpi  
 
