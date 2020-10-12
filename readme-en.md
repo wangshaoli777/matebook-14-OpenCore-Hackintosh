@@ -301,6 +301,34 @@ And you will get a perfect power management
 
 </details>     
       
+<details>  
+<summary>Change dvmt to 64mb</summary>  
+    
+our dvmt is 32m in defult,and it just support hdmi to 4k30p  
+
+and you can get 4k60p hdmi work after you unlock dvmt to 64m  
+
+basically same as my cfg guide  
+
+use that bootx64.efi from cfgunlock.zip,copy it to EFI/BOOT in your usb and boot with it  
+
+after you boot press alt and = at same time in usa version keyboard  
+
+use pagedown to find cpusetup and get in it  
+
+then press crtl and pgdown ,your screen will like that picture  
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
+
+chang 0107 to 2 and 0108 to 3  
+
+then crtl and w to save the change  
+  
+  
+[the inspiration of this guide from @laozhiang](https://github.com/laozhiang)  
+  
+
+
+</details>   
 
 <details>  
 <summary>fix time issue between windows and macos(for double boot)</summary>     
