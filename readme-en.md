@@ -319,7 +319,7 @@ use pagedown to find cpusetup and get in it
 then press crtl and pgdown ,your screen will like that picture  
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
 
-chang 0107 to 2 and 0108 to 3  
+change 0107 to 2 and 0108 to 3  
 
 then crtl and w to save the change  
   
