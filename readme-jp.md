@@ -264,44 +264,68 @@ HiDPIをオンにしてから、モニターに関するsettingで解析度を13
 
 5.cfgunlock.zip内のbootx64.efiをEFI/BOOTにコピー 
 
-そして、そのusbメモリーを用い、BOOTする  
+そして、そのusbメモリーを用い、BOOT（起動）する  
 
-After you boot   
+usbメモリーを用いて起動後   
 
-Press alt and "＝" in same time  
-(BTW,my keyborad is standard USA version,the hot key is not same between different language version keyboard,so strongly recommand to get an external USA version keyborad for this guide)  
+altと＝を同時に押す  
+(異なる言語のキーボード間では、キーの配置が異なる。私のキーボードは標準USA英語のものなので、このガイドも私のキーボードに基づいて書いたもので、日本語キーボードバージョンのPCを利用している人は外付けのUSA英語のキーボードを使ってください)  
 
-And use ↑and↓ in your keyboard to find "cpusetup"  
-
-
-And press enter in keyboard to enter "cpusetup"  
+ACPI Variable の画面で↑/↓の矢印キーを用いて"cpusetup"のオプションを探す（大体3ページ目にある）  
 
 
-You will see this.  
+見つかったら、enterキーで"cpusetup"に入る  
+
+そちらの画面は以下の画像と同じはず  
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/RU.jpg?raw=true)
 
   
-0030-0E in your computer must be 01  
+0030-0E（縦0030、横0E）は01のはず  
 
-Use ←→↑↓ key to pick it and press enter  
+←→↑↓の矢印キーを使い、0030-0Eをピックして"00"を入れ替える  
 
-Then,put "00" in  
+ctrl+wでチェンジを保存  
 
-Then,press ctrl and w in same time to save setting   
+保存に問題がなければ,"update written"のようなことが提示する  
 
-If save successfully,it will tell you like"update written"(i forget what it was)  
-
-And alt+q to quit  
-
-Btw.DO NOT use opencore to boot what i uploaded  
-
-That is all of how to unlock cfg in matebook13 2019  
-
-And you will get a perfect power management  
+alt+qで退出してOSに切り替える  
 
 </details>   
 
-      
+<details>  
+<summary>修改dvmt至64mb</summary>  
+    
+  ⚠️关于修改dvmt后能做到什么？  
+  可以hdmi/dp输出4k60p的信号了  
+  
+  
+  ⚠️以下教程的dvmt偏移地址提取自matebook13/14 2019/2018款  
+2020款的需要自行提取bios并自行分析，核对偏移地址  
+如因以下教程修改导致的一切后果，本人不予承担责任，下载本repo中任何一个文件视为同意以上条款  
+- U盘准备阶段：  
+（大小无所谓）  
+
+1.先准备一个u盘，格式化为fat32  
+2.u盘里创建文件夹：EFI  
+3.打开EFI文件夹，在里面创建文件夹BOOT  
+4.复制[cfgunlock.zip(点击下载)](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/cfgunlock.zip)里面的bootx64.efi进U盘的EFI/BOOT下  
+5.关机后开机按F12使用这个U盘去引导，然后进入修改bios底层阶段  
+
+- 以下为修改bios底层阶段：  
+1. 进入后 ‘alt’ + ’=‘ 切换进 ACPI Variable  
+2. 用pageup/pagedown/上下方向键找到 CPUSetup  
+3. 进入CPUSetup后，然后用crtl加pagedown翻到下一页找到左侧横坐标0100，如下图所示，注意左侧横坐标第一项就是0100  
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
+4. 横坐标0100纵坐标07改成02，横坐标0100纵坐标08改成03（就是我圈出来的位置修改的跟上图一样就行了）  
+5. Crtl加w保存就行了  
+
+  
+  
+[本教程灵感来源@laozhiang](https://github.com/laozhiang)  
+  
+
+
+</details>         
       
 
 もし、このEFIファイルはあなたのデバイスでうまく動作できるなら、このプロジェクトでissuesを提出して下さい  
