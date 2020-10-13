@@ -330,7 +330,7 @@ crtl+pagedownで次のページに変更する
 
   
   
-[本教程灵感来源@laozhiang](https://github.com/laozhiang)  
+このガイドは[@laozhiang](https://github.com/laozhiang)の発想を基づき、完成したものである  
   
 
 
