@@ -323,9 +323,10 @@ crtl+pagedownで次のページに変更する
 この時の画面は下の画像と同じはず（縦の1番目の座標は0100）  
   
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
-4. 縦0100横07を02に，縦0100横08を03に  
 
-5. Crtl+wで  
+4. 縦0100横07を02に，縦0100横08を03に変更する（矢印キーでオプションをピック、enterを押す、数字を入力）  
+
+5. Crtl+wで保存  
 
   
   
