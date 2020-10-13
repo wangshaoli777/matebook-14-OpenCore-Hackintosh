@@ -248,7 +248,14 @@ HiDPIをオンにしてから、モニターに関するsettingで解析度を13
 
 <details>  
 <summary>CFG lockを無効にする方法：</summary>   
-    
+  
+⚠️CFG lockを無効にしたら、どんなことができる？  
+
+完璧なパワー管理  
+バッテリーライフがある程度長くなる  
+スリープでの電力消費がさらに減少する  
+  
+  
 ⚠️  
 
 まずはHUAWEIの公式サイトでBIOSを1.28にアップグレードするためのパッケージをダウンロードし、BIOSをアップグレードします。   
@@ -293,23 +300,17 @@ alt+qで退出してOSに切り替える
 </details>   
 
 <details>  
-<summary>修改dvmt至64mb</summary>  
+<summary>dvmtを64mbに拡大する</summary>  
     
-  ⚠️关于修改dvmt后能做到什么？  
-  可以hdmi/dp输出4k60p的信号了  
+  ⚠️dvmtを64mbに拡大したら、どんなことができる？  
+  hdmi/dpで4k60pまでに対応できる  
+  p.s.　デフォルトは4k30p
   
   
-  ⚠️以下教程的dvmt偏移地址提取自matebook13/14 2019/2018款  
-2020款的需要自行提取bios并自行分析，核对偏移地址  
-如因以下教程修改导致的一切后果，本人不予承担责任，下载本repo中任何一个文件视为同意以上条款  
-- U盘准备阶段：  
-（大小无所谓）  
+ 基本的にはCFGの
 
 1.先准备一个u盘，格式化为fat32  
-2.u盘里创建文件夹：EFI  
-3.打开EFI文件夹，在里面创建文件夹BOOT  
-4.复制[cfgunlock.zip(点击下载)](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/cfgunlock.zip)里面的bootx64.efi进U盘的EFI/BOOT下  
-5.关机后开机按F12使用这个U盘去引导，然后进入修改bios底层阶段  
+1.先准备一个u盘，格式化为fat32  
 
 - 以下为修改bios底层阶段：  
 1. 进入后 ‘alt’ + ’=‘ 切换进 ACPI Variable  
