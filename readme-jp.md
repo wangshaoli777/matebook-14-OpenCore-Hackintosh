@@ -319,11 +319,13 @@ ACPI Variable の画面で↑/↓の矢印キーを用いて"cpusetup"のオプ�
 
 見つかったら、enterキーで"cpusetup"に入る  
 
-crtl+pagedownで左侧横坐标0100，如下图所示，注意左侧横坐标第一项就是0100  
+crtl+pagedownで次のページに変更する  
+この時の画面は下の画像と同じはず（縦の1番目の座標は0100）  
   
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
-4. 横坐标0100纵坐标07改成02，横坐标0100纵坐标08改成03（就是我圈出来的位置修改的跟上图一样就行了）  
-5. Crtl加w保存就行了  
+4. 縦0100横07を02に，縦0100横08を03に  
+
+5. Crtl+wで  
 
   
   
