@@ -307,15 +307,20 @@ alt+qで退出してOSに切り替える
   p.s.　デフォルトは4k30p
   
   
- 基本的にはCFGの
+ 基本的には前のCFGのガイドと同じ  
 
-1.先准备一个u盘，格式化为fat32  
-1.先准备一个u盘，格式化为fat32  
+[cfgunlock.zip](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/cfgunlock.zip)内のbootx64.efiを含むusbメモリーを用いて起動後   
 
-- 以下为修改bios底层阶段：  
-1. 进入后 ‘alt’ + ’=‘ 切换进 ACPI Variable  
-2. 用pageup/pagedown/上下方向键找到 CPUSetup  
-3. 进入CPUSetup后，然后用crtl加pagedown翻到下一页找到左侧横坐标0100，如下图所示，注意左侧横坐标第一项就是0100  
+altと＝を同時に押す  
+(異なる言語のキーボード間では、キーの配置が異なる。私のキーボードは標準USA英語のものなので、このガイドも私のキーボードに基づいて書いたもので、日本語キーボードバージョンのPCを利用している人は外付けのUSA英語のキーボードを使ってください)  
+
+ACPI Variable の画面で↑/↓の矢印キーを用いて"cpusetup"のオプションを探す（大体3ページ目にある）  
+
+
+見つかったら、enterキーで"cpusetup"に入る  
+
+crtl+pagedownで左侧横坐标0100，如下图所示，注意左侧横坐标第一项就是0100  
+  
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
 4. 横坐标0100纵坐标07改成02，横坐标0100纵坐标08改成03（就是我圈出来的位置修改的跟上图一样就行了）  
 5. Crtl加w保存就行了  
