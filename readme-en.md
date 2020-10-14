@@ -164,7 +164,7 @@ oc version:0.6.0
 
 macos：11.0 BigSur 
 
-matebook2019 i7-8565u mx250 sn720  
+matebook13　2019 i7-8565u mx250 sn720  
 
 
 ## About installation
