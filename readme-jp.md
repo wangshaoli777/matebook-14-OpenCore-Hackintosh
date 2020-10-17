@@ -330,7 +330,7 @@ crtl+pagedownで次のページに変更する
 
   
   
-このdvmtガイドは[@laozhiang](https://github.com/laozhiang)の発想を基づき、完成したものである  
+このdvmtガイドは[@laozhiang](https://github.com/laozhiang)の発想に基づき、完成したものである  
   
 
 
