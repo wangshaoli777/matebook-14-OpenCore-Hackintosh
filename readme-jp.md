@@ -317,7 +317,7 @@ altと＝を同時に押す
 ACPI Variable の画面で↑/↓の矢印キーを用いて"cpusetup"のオプションを探す（大体3ページ目にある）  
 
 
-見つかったら、enterキーで"cpusetup"に入る  
+見つかったら、enterキーで"SaSetup"に入る  
 
 crtl+pagedownで次のページに変更する  
 この時の画面は下の画像と同じはず（縦の1番目の座標は0100）  
