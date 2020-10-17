@@ -314,7 +314,7 @@ use that bootx64.efi from cfgunlock.zip,copy it to EFI/BOOT in your usb and boot
 
 after you boot press alt and = at same time in usa version keyboard  
 
-use pagedown to find cpusetup and get in it  
+use pagedown to find SaSetup and get in it  
 
 then press crtl and pgdown ,your screen will like that picture  
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
