@@ -254,7 +254,7 @@ You should lock your resolution to 1343x895 at setting since you enabled HiDPI.O
   
 upgrade your bios to 1.28,could be download in HUAWEI's official page  
 
-1.Format a usb memory to fat32  
+1.Format a usb stick to fat32  
 
 2.create a new floder named "EFI" at root  
 
@@ -295,7 +295,7 @@ And alt+q to quit
 
 Btw.DO NOT use opencore to boot what i uploaded  
 
-You should use that usb memory to boot for check the change is saved  
+You should use that usb stick to boot again for check the change is saved  
 then use [propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip) to change kernel/add/quirks which is at EFI/OC/config.plist of ESP partition as this picture 
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/45NBuzDIW489QBoVep5mcbvyqMw5*Y0jP8mcu7Ee3hom9v.4vLrclVXlW1qZQR3tuWj.fDrSEOF5cBubLM5p6joREA5a6pqrLmFG0msz5yg!/b&bo=0AQsAgAAAAADJ*g!&rf=viewer_4)  
 
@@ -314,11 +314,11 @@ and you can get 4k60p hdmi work after you unlock dvmt to 64m
 
 basically same as my cfg guide  
 
-use that bootx64.efi from cfgunlock.zip,copy it to EFI/BOOT in your usb and boot with it  
+use that bootx64.efi from cfgunlock.zip,copy it to EFI/BOOT in your usb stick and boot with it  
 
 after you boot press alt and = at same time in usa version keyboard  
 
-use pagedown to find SaSetup and get in it  
+use pagedown to find SaSetup and getin to it  
 
 then press crtl and pgdown ,your screen will like that picture  
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
@@ -327,7 +327,7 @@ change 0107 to 2 and 0108 to 3
 
 then crtl and w to save the change  
 
-You should use that usb memory to boot for check the change is saved  
+You should use that usb stick to boot again for check the change is saved  
 then use [propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip) to change DeviceProperties/Add/PciRoot(0x0)/Pci(0x2,0x0) which is at EFI/OC/config.plist of ESP partition as this picture 
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/45NBuzDIW489QBoVep5mcbvyqMw5*Y0jP8mcu7Ee3hom9v.4vLrclVXlW1qZQR3tuWj.fDrSEOF5cBubLM5p6joREA5a6pqrLmFG0msz5yg!/b&bo=0AQsAgAAAAADJ*g!&rf=viewer_4)  
   
