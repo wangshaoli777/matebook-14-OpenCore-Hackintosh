@@ -414,7 +414,7 @@ https://zhuanlan.zhihu.com/p/121655468
 6. 使用'alt' + 'q' 来退出，然后即可回到引导进入系统了，CFG已经解锁  
 
 修改完成后可以再用那个u盘引导启动一次，查看是否修改成功  
-然后我建议使用[propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)修改EFI分区中的EFI/OC/config.plist的kernel/add为下图所示  
+然后我建议使用[propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)修改EFI分区中的EFI/OC/config.plist的kernel/add/quirks为下图所示  
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5mhOVTuQ0sSbBPmet1ZSU1zDz7zUBccaFytwrKxAqPz4ygQph98Mo9E5.JjYf6DFuuWhDZs8DFFN1ujnFI9OIz4!/b&bo=wASKAwAAAAADB28!&rf=viewer_4)  
 
 
@@ -522,7 +522,7 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 
 
 
-![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5vhyua0NyktT47EDwPAfhtuBceWLK5.5V40I*6lQE5rORR7qbWTf9Eovur4ifsHKECewZxvEqi.ZfhaQ4ObpAl8!/b&bo=DQWcAw0FnAMBCS4!&rf=viewer_4)  
+![image](http://photogz.photo.store.qq.com/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/45NBuzDIW489QBoVep5mcZGssElKDDLqbGPHwtRPEmefgXoQoGrMs1PRHQ7XyH1gDcN5baJtwcFmU7yrVejJhBCuYYqSzxdL324tP12dB68!/b&bo=DQWcAw0FnAMBGT4!&rf=viewer_4)  
 
 
   
