@@ -413,6 +413,11 @@ https://zhuanlan.zhihu.com/p/121655468
 5. 使用'crtl' + 'w' 来保存 保存的时候屏幕上会直接显示update written 的，这说明已经写入了  
 6. 使用'alt' + 'q' 来退出，然后即可回到引导进入系统了，CFG已经解锁  
 
+修改完成后可以再用那个u盘引导启动一次，查看是否修改成功  
+然后我建议使用[propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)修改EFI分区中的EFI/OC/config.plist的kernel/add为下图所示  
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5mhOVTuQ0sSbBPmet1ZSU1zDz7zUBccaFytwrKxAqPz4ygQph98Mo9E5.JjYf6DFuuWhDZs8DFFN1ujnFI9OIz4!/b&bo=wASKAwAAAAADB28!&rf=viewer_4)  
+
+
 </details> 
 
 
@@ -442,6 +447,12 @@ https://zhuanlan.zhihu.com/p/121655468
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
 4. 横坐标0100纵坐标07改成02，横坐标0100纵坐标08改成03（就是我圈出来的位置修改的跟上图一样就行了）  
 5. Crtl加w保存就行了  
+
+
+修改完成后可以再用那个u盘引导启动一次，查看是否修改成功  
+然后我建议使用[propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)修改EFI分区中的EFI/OC/config.plist的DeviceProperties/Add/PciRoot(0x0)/Pci(0x2,0x0)为下图所示  
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/45NBuzDIW489QBoVep5mcbvyqMw5*Y0jP8mcu7Ee3hom9v.4vLrclVXlW1qZQR3tuWj.fDrSEOF5cBubLM5p6joREA5a6pqrLmFG0msz5yg!/b&bo=0AQsAgAAAAADJ*g!&rf=viewer_4)  
+
 
   
   
