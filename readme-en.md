@@ -295,6 +295,10 @@ And alt+q to quit
 
 Btw.DO NOT use opencore to boot what i uploaded  
 
+You should use that usb memory to boot for check the change is saved  
+then use [propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip) to change kernel/add/quirks which is at EFI/OC/config.plist of ESP partition as this picture 
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/45NBuzDIW489QBoVep5mcbvyqMw5*Y0jP8mcu7Ee3hom9v.4vLrclVXlW1qZQR3tuWj.fDrSEOF5cBubLM5p6joREA5a6pqrLmFG0msz5yg!/b&bo=0AQsAgAAAAADJ*g!&rf=viewer_4)  
+
 That is all of how to unlock cfg in matebook13 2019  
 
 And you will get a perfect power management  
@@ -322,7 +326,10 @@ then press crtl and pgdown ,your screen will like that picture
 change 0107 to 2 and 0108 to 3  
 
 then crtl and w to save the change  
-  
+
+You should use that usb memory to boot for check the change is saved  
+then use [propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip) to change DeviceProperties/Add/PciRoot(0x0)/Pci(0x2,0x0) which is at EFI/OC/config.plist of ESP partition as this picture 
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/45NBuzDIW489QBoVep5mcbvyqMw5*Y0jP8mcu7Ee3hom9v.4vLrclVXlW1qZQR3tuWj.fDrSEOF5cBubLM5p6joREA5a6pqrLmFG0msz5yg!/b&bo=0AQsAgAAAAADJ*g!&rf=viewer_4)  
   
 [the inspiration of this guide from @laozhiang](https://github.com/laozhiang)  
   
