@@ -8,7 +8,8 @@ assignees: ''
 ---
 
 *BEFORE YOU REPORT A BUG,ENSURE YOU DID READ ALL ISSUE OF MY REPO.  
-*请确定你在提交issue去报告一个bug前，你有认真读过我写的所有注意事项，并且读过这个项目里所有issue（因为可能已经有人提交过一样的了了）
+*请确定你在提交issue去报告一个bug前，你有认真读过我写的所有注意事项，并且读过这个项目里所有issue（因为可能已经有人提交过一样的了）
+
 
 Matebook xx 20xx  
 
