@@ -316,10 +316,16 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 
 </details>  
 
+<details>  
+<summary>开启安装所有来源的应用（为了运行一些必要的脚本以及一些“你懂得”软件）</summary>   
 
+在【终端】中输入一下内容并输密码（密码不明文显示）  
 
+```
+sudo spctl --master-disable
+```
 
-
+</details>  
 
 <details>  
 <summary>安装ComboJack实现耳机耳麦切换，改进电流声。（修复耳机接口）</summary>   
