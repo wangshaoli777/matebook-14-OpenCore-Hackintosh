@@ -149,9 +149,9 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
   
 ## 自分のデバイス情報     
 
-oc version:0.6.0  
+oc version:0.6.3  
 
-macos：11.0 BigSur    
+macos：11.0 BigSur developer beta 10  
 
 matebook13 2019 i7-8565u mx250 sn720  
 
