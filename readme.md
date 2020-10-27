@@ -304,6 +304,10 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 直接oc的选择系统界面里通过ctrl+回车选择mac的引导磁盘  
 设置mac为默认引导磁盘，关闭config里，showpicker  
 引导windows用f12选windows  
+我在[这个issue](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/87)里写明了为什么  
+oc的图形化os选择页面无用的理由也同上  
+因为你不用oc去引导windows并且直接省略选择页面，所以图形化的oc界面也就没用  
+
 
 
 2.一定要先改三码再用，具体的教程自己百度  
