@@ -5,7 +5,7 @@ other language version of readme：
 
  
 ```
-This project support 2018-2020version's Matebook 13&14
+This project supports 2018-2020version's Matebook 13&14 (intel ver)
 ```
 
 
