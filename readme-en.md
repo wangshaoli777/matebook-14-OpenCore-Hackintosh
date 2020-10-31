@@ -42,7 +42,7 @@ If you Star my repo (click star⭐️ at upper right of this page), I will so ha
 <summary>click for details</summary>  
  
 - 20201031:  
-Upgraded OpenCore of MB13/14 2018-2019 to 0.6.2  
+Upgraded OpenCore of MB13/14 2018-2019(BigSur ver) to 0.6.2  
  
 
 - 20200918:  
