@@ -21,7 +21,7 @@ very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hack
 Now:you can use this efi boot both catalina and bigsur now.it is steadily and worked well.  
   
 <details>  
-<summary>⭐️click to check how macos going on matebook 13</summary>  
+<summary>⭐️click this to check how macos going on matebook 13</summary>  
   
 ![image](https://i0.hdslb.com/bfs/article/0d73e23780c4a4a5b80b1e956dc8957bb95f3372.jpg@1320w_880h.webp)  
 ![image](https://i0.hdslb.com/bfs/article/3c89fd7615510c1b2e9efa1c6024348b4b635abc.jpg@1320w_1760h.webp)  
