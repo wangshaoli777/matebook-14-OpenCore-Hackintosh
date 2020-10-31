@@ -40,6 +40,10 @@ If you Star my repo (click star⭐️ at upper right of this page), I will so ha
 
 <details>  
 <summary>click for details</summary>  
+ 
+- 20201031:  
+Upgraded OpenCore of MB13/14 2018-2019 to 0.6.2  
+ 
 
 - 20200918:  
 deleted two fakepcid kexts and some other things，now efi is very clean，and try to fix wifi-bluetooth conflict issue    
