@@ -8,8 +8,6 @@ other language version of readme：
 This project supports 2018-2020version's Matebook 13&14 (intel ver)
 ```
 
-Report & Feedback：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
-
 
 Sister project:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
 
@@ -29,6 +27,9 @@ Now:you can use this efi boot both catalina and bigsur（older than DB9） now.i
 ![image](https://i0.hdslb.com/bfs/article/3c89fd7615510c1b2e9efa1c6024348b4b635abc.jpg@1320w_1760h.webp)  
 
 </details>   
+
+Report & Feedback：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
+
   
 EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
