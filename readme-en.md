@@ -18,7 +18,7 @@ very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hack
  
  </details>  
 
-Now:you can use this efi boot both catalina and bigsur now.it is steadily and worked well.  
+Now:you can use this efi boot both catalina and bigsur（older than DB9） now.it is steadily and worked well.  
   
 <details>  
 <summary>⭐️click this to check how macos works on matebook 13</summary>  
@@ -114,7 +114,7 @@ how to use:copy it to ESR
 
 </details>  
 
-supported BigSur
+supported BigSur（older than DB9）  
 
 ## Works fine：
   
