@@ -8,6 +8,8 @@ other language version of readme：
 This project supports 2018-2020version's Matebook 13&14 (intel ver)
 ```
 
+Report & Feedback：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
+
 
 Sister project:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
 
