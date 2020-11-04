@@ -219,7 +219,7 @@ bigsur跟catalina需要对号入座，不可串着用
 
 11.耳机接口正常（需要使用下面的[【安装ComboJack实现耳机耳麦切换，改进电流声】](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/readme.md#%E5%AE%89%E8%A3%85combojack%E5%AE%9E%E7%8E%B0%E8%80%B3%E6%9C%BA%E8%80%B3%E9%BA%A6%E5%88%87%E6%8D%A2%E6%94%B9%E8%BF%9B%E7%94%B5%E6%B5%81%E5%A3%B0%E4%BF%AE%E5%A4%8D%E8%80%B3%E6%9C%BA%E6%8E%A5%E5%8F%A3)）
 
-12.声卡正常  
+12.声卡正常 layout:21  
   
 ## 无法正常工作的部件：  
 
