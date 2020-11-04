@@ -13,6 +13,9 @@ issueなどの提出には日本語でokay!
 
 このプロジェクトはcatalinaとbigsurに対応しています。  
 
+Report & Feedback：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
+
+
 EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
 
