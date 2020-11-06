@@ -36,6 +36,11 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 <details>  
 <summary>クリック(⚠️これを先に読んでください)</summary>  
   
+  
+- 20201106:  
+MB13&14 2018-2019(bigsur ver)に含まれているOpenCoreを0.6.3にアップフレンドしました。  
+
+  
 - 20200918:  
 二つのfakepcidのkextと一部の無意味のものを削除し、さらにwifiとbluetoothの衝突issueの解決を試しましたが、100％の解決とは言えないかもしれません。    
 
