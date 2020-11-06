@@ -367,11 +367,11 @@ for helping more people who using matebook to build their hackintosh.
 
 Please donate at paypal  
 
-paypal.me/ske1996  
+[click to donate](paypal.me/ske1996)  
 
-[!image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/paypal.png?raw=true)  
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/paypal.png?raw=true)  
 
-paypal.me/ske1996  
+[click to donate](paypal.me/ske1996)  
 
 
 ## Thanks：
