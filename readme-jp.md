@@ -351,6 +351,20 @@ crtl+pagedownで次のページに変更する
 件名は：matebook 13か14か、2019か2020か、CPUは何か。例：matebook 14 2019 I7 8565u  
 自分のデバイスでハッキントッシュをしたい他のユーザに対し、いい参考になりますので、ご協力を御願いします。
 
+
+
+## If you want to support my work：
+
+Please donate in paypal  
+
+[click to donate](paypal.me/ske1996)  
+
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/paypal.png?raw=true)  
+
+[click to donate](paypal.me/ske1996)  
+
+
+
 ## Thanks：
 
 - @intel make cpu for us
