@@ -365,7 +365,7 @@ for helping more people who using matebook to build their hackintosh.
 
 ## If you want to support my work：
 
-Please donate at paypal  
+Please donate in paypal  
 
 [click to donate](paypal.me/ske1996)  
 
