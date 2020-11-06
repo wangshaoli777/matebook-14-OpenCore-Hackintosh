@@ -363,6 +363,17 @@ If this EFI could run in your laptop well,
 please create a issues and send info of your device like year,cpu,matebook 13 or 14.  
 for helping more people who using matebook to build their hackintosh.
 
+## If you want to support my work：
+
+Please donate at paypal  
+
+paypal.me/ske1996  
+
+[!image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/paypal.png?raw=true)  
+
+paypal.me/ske1996  
+
+
 ## Thanks：
 
 - @intel make cpu for us
