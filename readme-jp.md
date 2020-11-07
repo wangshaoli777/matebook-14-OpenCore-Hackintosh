@@ -372,9 +372,9 @@ Please donate in paypal
 
 ## Thanks：
 
-- @intel 素晴らしいCPUを生産してくれてありがとう（AMD,YES!）
+- [@intel](https://www.intel.com/content/www/us/en/homepage.html) 素晴らしいCPUを生産してくれてありがとう（AMD,YES!）
 
-- @apple この素晴らしいMACOSにご褒美を！
+- [@apple](https://www.apple.com/) この素晴らしいMACOSにご褒美を！
  
 - [@zxystd](https://github.com/OpenIntelWireless/itlwm) WIFI＆Bluetoothのドライブソフトの開発者、感謝！  
 
