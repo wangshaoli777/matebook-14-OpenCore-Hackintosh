@@ -558,9 +558,9 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 
 ## 感谢：
 
-- @intel 感谢10年一管牙膏（AMD,YES!）
+- [@intel](https://www.intel.com/content/www/us/en/homepage.html) 感谢10年一管牙膏（AMD,YES!）
 
-- @apple 感谢创造出macos
+- [@apple](https://www.apple.com/) 感谢创造出macos
 
 - [@zxystd](https://github.com/OpenIntelWireless/itlwm) 感谢创造出wifi以及蓝牙的驱动
 
