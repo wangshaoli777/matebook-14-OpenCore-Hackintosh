@@ -372,14 +372,14 @@ Please donate in paypal
 
 ## Thanks：
 
-- @intel make cpu for us
+- @intel 素晴らしいCPUを生産してくれてありがとう（AMD,YES!）
 
-- @apple create macos for us
+- @apple この素晴らしいMACOSにご褒美を！
  
-- [@zxystd](https://github.com/OpenIntelWireless/itlwm) create kext of wifi and bluetooth  
+- [@zxystd](https://github.com/OpenIntelWireless/itlwm) WIFI＆Bluetoothのドライブソフトの開発者、感謝！  
 
-- [@MoZyo](https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh) teached me alot
+- [@MoZyo](https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh) 色々OpenCoreのことを教えてくれて、感謝！
 
-- [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)  thanks him done a remarkable job in clover version hackintosh in matebook 13
+- [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)  MateBook 13のCloverバージョンのhackintoshで素晴らしいものを完成した、感謝！  
 
-- [@Zero-zer0](https://github.com/Zero-zer0) learned how to fix brightness key from him
+- [@Zero-zer0](https://github.com/Zero-zer0) 彼に輝度と音量のホットキーの修復方法を参考した、感謝！
