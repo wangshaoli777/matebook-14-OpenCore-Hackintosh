@@ -379,9 +379,9 @@ Please donate in paypal
 
 ## Thanks：
 
-- @intel make cpu for us
+- [@intel](https://www.intel.com/content/www/us/en/homepage.html) make cpu for us
 
-- @apple create macos for us
+- [@apple](https://www.apple.com/) create macos for us
  
 - [@zxystd](https://github.com/OpenIntelWireless/itlwm) create kext of wifi and bluetooth  
 
