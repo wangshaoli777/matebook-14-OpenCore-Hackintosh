@@ -184,6 +184,8 @@ bigsur跟catalina需要对号入座，不可串着用
 2. 苹果的妙控2可用  
 3. 有个可爱的小哥哥@Baiyu0124发现了一款可用的没什么牌子的鼠标[淘宝链接](https://m.tb.cn/h.VtTxb0H?sm=bfed64)   
 4. 微软设计师鼠标可用[淘宝链接](https://detail.tmall.com/item.htm?id=575557854943&spm=a1z09.2.0.0.119c2e8dUqx3iI&_u=bkg3nm2911&sku_properties=5919063:6536025)  
+5. Airpods可以用，但是你得配对一次，我们又不是白苹果，不能开盖就用  
+
 </details>   
 
   
@@ -194,6 +196,8 @@ bigsur跟catalina需要对号入座，不可串着用
 
 
 2. 驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
+
+3. Airdrop和无线的随航不可用，随航需要插线用，handoff可用但不太稳定，可以用apple watch解锁mac，但是不稳定  
 
 </details>   
 
