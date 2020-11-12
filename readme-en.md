@@ -207,9 +207,9 @@ Serch this text in your chrome:
 <details>  
 <summary> How to create dual boot：</summary> 
 
-click to download the guide
+[click to download the guide](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/A%20guide%20for%20dualBoot%20of%20Matebook13%20from%20%40Francisco%20Novoa.pdf)  
 
-Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13/8635)   
+Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13/8557) and this dual-boot guide is written by him   
 
 
 </details>  
