@@ -210,7 +210,7 @@ Serch this text in your chrome:
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️  
   
 1.DO NOT BOOT YOUR WINDOWS OR OTHER OS WITH OpneCore.  
-you may lose your Genuine license,except you know how to write correct UUID and MLB and SN.  
+you may lose your Genuine license,except you know how to inject correct UUID/MLB/SN in config.plist.  
 it is not 100% happen,but it is still risky.  
 you should just set Macos as defaul boot at OpenCore with pressing ctrl + enter to choose Mac partition.  
 and edit config to disable "showpicker" which is at EFI/OC.  
@@ -220,7 +220,7 @@ I explaned the reason at [this issue](https://github.com/ske1996/matebook-13-201
 
 2.You should edit the config.plist to customize your own MLB/SN/UUID before you start to use your laptop as daily pc.  
 
-3.Do not enable "serch my mac" at icloud in setting.  
+3.Do not enable "serch my mac" in setting.  
 
 </details>  
 
