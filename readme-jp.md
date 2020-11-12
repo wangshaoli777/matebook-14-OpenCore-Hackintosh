@@ -222,6 +222,7 @@ I explaned the reason at [this issue](https://github.com/ske1996/matebook-13-201
 </details>  
 
 
+
 <details>  
 <summary>ComboJackを用いてaudio jackを修復する方法</summary>   
 
