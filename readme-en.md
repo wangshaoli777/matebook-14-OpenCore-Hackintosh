@@ -210,11 +210,11 @@ Serch this text in your chrome:
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️  
   
 1.DO NOT BOOT YOUR WINDOWS OR OTHER OS WITH OpneCore.  
-you may lose your Genuine license,except you know how to inject correct UUID/MLB/SN in config.plist.  
+you may lose your Genuine license,except you know how to inject correct UUID/MLB/SN(which is written at your bios or some other parts of motherboard,and it is unique)in config.plist.  
 it is not 100% happen,but it is still risky.  
 you should just set Macos as defaul boot at OpenCore with pressing ctrl + enter to choose Mac partition.  
 and edit config to disable "showpicker" which is at EFI/OC.  
-then press F12 immediately after you press power button to boot windows with original uefi bootloader.  
+then press F12 immediately after you press power button,and choose the option named like "windows xxxx" to boot windows with original uefi bootloader.  
 I explaned the reason at [this issue](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/87).  
 
 
