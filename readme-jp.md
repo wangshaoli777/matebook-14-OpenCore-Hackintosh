@@ -207,7 +207,7 @@ https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clo
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️  
   
 1.DO NOT BOOT YOUR WINDOWS OR OTHER OS WITH OpneCore.  
-you may lose your Genuine license,except you know how to inject correct UUID/MLB/SN which is written at your bios in config.plist.  
+you may lose your Genuine license,except you know how to inject correct UUID/MLB/SN(which is written at your bios or some other parts of motherboard,and it is unique)in config.plist.  
 it is not 100% happen,but it is still risky.  
 you should just set Macos as defaul boot at OpenCore with pressing ctrl + enter to choose Mac partition.  
 and edit config to disable "showpicker" which is at EFI/OC.  
