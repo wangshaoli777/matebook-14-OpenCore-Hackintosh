@@ -231,6 +231,7 @@ you should just set Macos as defaul boot at OpenCore with pressing ctrl + enter 
 and edit config to disable "showpicker" which is at EFI/OC.  
 then press F12 immediately after you press power button,and choose the option named like "windows xxxx" to boot windows with original uefi bootloader.  
 I explaned the reason at [this issue](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/87).  
+Or follow that guide "how to create dual boot" upper this page.  
 
 
 2.You should edit the config.plist to customize MLB/SN/UUID which is unique before you start to use your laptop as daily pc.  
