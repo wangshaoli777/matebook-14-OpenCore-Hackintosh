@@ -206,6 +206,27 @@ Serch this text in your chrome:
 ## After installation
 
 <details>  
+<summary>⚠️Warning</summary>  
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️  
+  
+1.DO NOT BOOT YOUR WINDOWS OR OTHER OS WITH OpneCore.  
+you may lose your Genuine license,except you know how to write correct UUID and MLB and SN.  
+it is not 100% happen,but it is still risky.  
+you should just set Macos as defaul boot at OpenCore with pressing ctrl + enter to choose Mac partition.  
+and edit config to disable "showpicker" which is at EFI/OC.  
+then press F12 immediately after you press power button to boot windows with original uefi bootloader.  
+I explaned the reason at [this issue](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/87).  
+
+
+2.You should edit the config.plist to customize your own MLB/SN/UUID before you start to use your laptop as daily pc.  
+
+3.Do not enable "serch my mac" at icloud in setting.  
+
+</details>  
+
+
+
+<details>  
 <summary>Install ComboJack to fix audio jack  </summary>  
   
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/audiojack.png?raw=true)  
