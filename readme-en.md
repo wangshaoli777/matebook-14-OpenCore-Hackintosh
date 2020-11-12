@@ -209,9 +209,11 @@ Serch this text in your chrome:
 
 A remarkable guide in:  
 
-https://www.tonymacx86.com/threads/macos-win-dual-boot-at-same-disk-with-opencore.295892/
+will public later  
 
-Thanks [@Maf3r0](https://www.tonymacx86.com/members/maf3r0.432751/)  
+//https://www.tonymacx86.com/threads/macos-win-dual-boot-at-same-disk-with-opencore.295892/
+
+//Thanks [@Maf3r0](https://www.tonymacx86.com/members/maf3r0.432751/)  
 
 
 </details>  
