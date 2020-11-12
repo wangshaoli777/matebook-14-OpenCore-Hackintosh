@@ -205,7 +205,7 @@ Serch this text in your chrome:
 
 
 <details>  
-<summary> How to create daul boot：</summary> 
+<summary> How to create dual boot：</summary> 
 
 A remarkable guide in:  
 
