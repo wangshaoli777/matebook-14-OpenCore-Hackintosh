@@ -1,6 +1,6 @@
 # matebook-13/14-2019/2020-OpenCore-EFI  hackintosh
 
-other language version of readme：  
+readme in other language:  
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
  
