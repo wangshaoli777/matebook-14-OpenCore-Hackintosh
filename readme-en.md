@@ -207,13 +207,9 @@ Serch this text in your chrome:
 <details>  
 <summary> How to create dual boot：</summary> 
 
-A remarkable guide in:  
+click to download the guide
 
-will public later  
-
-//https://www.tonymacx86.com/threads/macos-win-dual-boot-at-same-disk-with-opencore.295892/
-
-//Thanks [@Maf3r0](https://www.tonymacx86.com/members/maf3r0.432751/)  
+Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13/8635)   
 
 
 </details>  
