@@ -1,6 +1,6 @@
 # matebook-13/14-2019/2020-OpenCore-EFI  ハッキントッシュ  
 
-他言語（other language version of readme）：  
+他言語（readme in other language）：  
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
 issueなどの提出には日本語でokay!  
