@@ -202,7 +202,22 @@ Serch this text in your chrome:
     
 </details>        
   
-  
+
+
+<details>  
+<summary> How to create daul boot：</summary> 
+
+A remarkable guide in:  
+
+https://www.tonymacx86.com/threads/macos-win-dual-boot-at-same-disk-with-opencore.295892/
+
+Thanks [@Maf3r0](https://www.tonymacx86.com/threads/macos-win-dual-boot-at-same-disk-with-opencore.295892/)  
+
+
+</details>  
+
+
+
 ## After installation
 
 <details>  
