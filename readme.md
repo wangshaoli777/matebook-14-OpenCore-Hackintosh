@@ -3,7 +3,7 @@
   
 
 
-其他语言（other language version of readme）：  
+其他语言（readme in other language）：  
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
   
   
