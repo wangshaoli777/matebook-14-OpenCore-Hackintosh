@@ -245,9 +245,9 @@ bigsur跟catalina需要对号入座，不可串着用
 ## 个人设备版本信息等   
 
 
-oc version:0.6.3  
+oc version:0.6.4  
 
-macos：11.0 BigSur developer beta 10  
+macos: BigSur 11.0.1 Public Release  
 
 matebook13 2019 i7-8565u mx250 sn720  
 
