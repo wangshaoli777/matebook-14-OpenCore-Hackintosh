@@ -371,7 +371,7 @@ after you boot press alt and = at same time in usa version keyboard
 use pagedown to find SaSetup and getin to it  
 
 then press crtl and pgdown ,your screen will like that picture  
-![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/%E6%9D%82%E9%A1%B9/dvmt64.bmp)  
 
 change 0107 to 2 and 0108 to 3  
 
