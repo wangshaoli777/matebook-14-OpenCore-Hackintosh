@@ -36,7 +36,9 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 <details>  
 <summary>クリック(⚠️これを先に読んでください)</summary>  
   
-  
+- 20201113:  
+全てのBigSurバージョンのEFIに含まれているOpenCoreを0.6.4にアップグレードしました、正式版のBigSur 11.0.1まで対応します。  
+
 - 20201106:  
 MB13&14 2018-2019(bigsur ver)に含まれているOpenCoreを0.6.3にアップフレンドしました。  
 
