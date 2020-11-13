@@ -18,7 +18,7 @@ very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hack
  
  </details>  
 
-Now:you can use this efi boot both catalina and bigsur（older than DB9） now.it is steadily and worked well.  
+Now:you can use this efi boot both catalina and bigsur now.it is steadily and worked well.  
   
 <details>  
 <summary>⭐️click this to check how macos works on matebook 13</summary>  
@@ -43,6 +43,9 @@ If you Star my repo (click star⭐️ at upper right of this page), I will so ha
 
 <details>  
 <summary>click for details</summary>  
+
+- 20201113:  
+Upgraded all Bigsur version's EFI to OpenCore 0.6.4，Supported Bigsur 11.01 Public Release  
 
 - 20201106:  
 Upgraded OpenCore which is for MB13/14 2018-2019(BigSur ver) to 0.6.3  
@@ -120,7 +123,7 @@ how to use:copy it to ESR
 
 </details>  
 
-supported BigSur（older than DB9）  
+supported BigSur  
 
 ## Works fine：
   
@@ -170,9 +173,9 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 ## Info of my device     
 
 
-oc version:0.6.3  
+oc version:0.6.4  
 
-macos：11.0 BigSur developer beta 10  
+macos: BigSur 11.0.1 Public Release  
 
 matebook13 2019 i7-8565u mx250 sn720  
 
