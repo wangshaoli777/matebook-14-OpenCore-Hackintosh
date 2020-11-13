@@ -361,7 +361,7 @@ ACPI Variable の画面で↑/↓の矢印キーを用いて"Sasetup"のオプ�
 crtl+pagedownで次のページに変更する  
 この時の画面は下の画像と同じはず（縦の1番目の座標は0100）  
   
-![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5rx2t9cSeXQiYLuqJ05.4FSNLMnbEuWry.WaVUK8DLZK1Ex*4Q8psZMPKE3FXEd3kK9GM.4uvgaVsGsHP0v8onU!/b&bo=gALbAQAAAAABB3g!&rf=viewer_4)  
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/%E6%9D%82%E9%A1%B9/dvmt64.bmp)  
 
 4. 縦0100横07を02に，縦0100横08を03に変更する（矢印キーでオプションをピック、enterを押す、数字を入力）  
 
@@ -369,7 +369,7 @@ crtl+pagedownで次のページに変更する
 
 このあとはもう一度そのUSBメモリで起動し、修正した部分がちゃんとできたどうかをチェックする。  
 そして[propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)を利用し、ESP partitionでEFI/OC/config.plistのDeviceProperties/Add/PciRoot(0x0)/Pci(0x2,0x0)を以下のようにチェンジすることをおすすめ：  
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/%E6%9D%82%E9%A1%B9/dvmt64.bmp)  
+![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/45NBuzDIW489QBoVep5mcbvyqMw5*Y0jP8mcu7Ee3hom9v.4vLrclVXlW1qZQR3tuWj.fDrSEOF5cBubLM5p6joREA5a6pqrLmFG0msz5yg!/b&bo=0AQsAgAAAAADJ*g!&rf=viewer_4)  
   
   
 このdvmtガイドは[@laozhiang](https://github.com/laozhiang)の発想に基づき、完成したものである  
