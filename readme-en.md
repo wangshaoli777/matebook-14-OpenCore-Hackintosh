@@ -114,16 +114,9 @@ this clover efi could be used to boot your hackintosh,too
 But I strongly recommand to use opencore(oc) efi to boot your device.  
 
 
-- 20200709:  
-1.changed MLB,ROM,Serial number   
-2.add a insure file which can save your device from extremely mistake likes cant boot to any OS（WRCOVERY.BIN）  
-how to use:copy it to ESR
-
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)   
-
 </details>  
 
-supported BigSur  
+Supported BigSur  
 
 ## Works fine：
   
