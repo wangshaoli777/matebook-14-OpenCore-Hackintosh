@@ -369,7 +369,7 @@ crtl+pagedownで次のページに変更する
 
 このあとはもう一度そのUSBメモリで起動し、修正した部分がちゃんとできたどうかをチェックする。  
 そして[propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)を利用し、ESP partitionでEFI/OC/config.plistのDeviceProperties/Add/PciRoot(0x0)/Pci(0x2,0x0)を以下のようにチェンジすることをおすすめ：  
-![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/45NBuzDIW489QBoVep5mcbvyqMw5*Y0jP8mcu7Ee3hom9v.4vLrclVXlW1qZQR3tuWj.fDrSEOF5cBubLM5p6joREA5a6pqrLmFG0msz5yg!/b&bo=0AQsAgAAAAADJ*g!&rf=viewer_4)  
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/%E6%9D%82%E9%A1%B9/dvmt64.bmp)  
   
   
 このdvmtガイドは[@laozhiang](https://github.com/laozhiang)の発想に基づき、完成したものである  
