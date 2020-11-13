@@ -298,7 +298,10 @@ You should lock your resolution to 1343x895 at setting since you enabled HiDPI.O
 
 <details>  
 <summary>How to disable CFG lock：</summary>  
-  
+
+✨For perfect power management and smooth boost  
+if you got unnormal cpu boost issue or overheating issue,i recommand to do this  
+
 upgrade your bios to 1.28,could be download in HUAWEI's official page  
 
 1.Format a usb stick to fat32  
