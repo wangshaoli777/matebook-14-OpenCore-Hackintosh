@@ -52,7 +52,7 @@ If you Star my repo (click star⭐️ at upper right of this page), I will so ha
 <summary>click for details</summary>  
 
 - 20201113:  
-Upgraded all Bigsur version's EFI to OpenCore 0.6.4，Supported Bigsur 11.01 Public Release  
+Upgraded all Bigsur version's EFI to OpenCore 0.6.4，Supported Bigsur 11.0.1 Public Release  
 
 - 20201106:  
 Upgraded OpenCore which is for MB13/14 2018-2019(BigSur ver) to 0.6.3  
