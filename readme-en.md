@@ -196,20 +196,6 @@ Atfer paid remote instillation service,i provide a 7-day guarantee of macos in y
 
 </details>  
 
-<details>  
-<summary>If you dont have any macos device,and want to download macos dmg</summary>  
-
-Download image from:  
-https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html  
- 
-Strongly recommand to use chrome translate,if you dont understand Chinese.
-
-Serch this text in your chrome:  
-
-10.15.5 19F101 双EFI分区版
-    
-</details>        
-  
 
 
 <details>  
