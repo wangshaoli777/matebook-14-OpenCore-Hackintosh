@@ -3,7 +3,13 @@
 readme in other language:  
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
- 
+
+✨If you think this work is too complicated and want a paid remote installation service(USD49/device)  
+send me a massage at https://t.me/KitsuLiu  
+Atfer paid remote instillation service,i provide a 7-day guarantee of macos in your device.  
+
+
+
 ```
 This project supports 2018-2020version's Matebook 13&14 (intel ver)
 ```
