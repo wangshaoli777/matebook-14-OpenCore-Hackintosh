@@ -541,7 +541,23 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 </details>   
 
 
+<details>  
+<summary>关于我认为的一些可以给你更好体验的软件</summary>  
+  
+  
+  
+1. Mos：保证鼠标的顺畅滑动，以及滚轮方向的调整 官网：[https://mos.caldis.me/](https://mos.caldis.me/)  
+2. Rectangle:还给你windows的拖动分屏逻辑 官网：[https://rectangleapp.com/](https://rectangleapp.com/)  
+3. Stats：状态栏监控插件 主页：[https://github.com/exelban/stats](https://github.com/exelban/stats)  
+4. Keka：强大好用的压缩软件 官网：[https://www.keka.io/en/](https://www.keka.io/en/)  
+5. IINA：万能播放器 官网：[https://iina.io/](https://iina.io/)  
+6. Motrix：万能下载器 官网：[https://motrix.app/](https://motrix.app/)  
+7. Hackintool：黑苹果的瑞士军刀 主页：[https://github.com/headkaze/Hackintool](https://github.com/headkaze/Hackintool)  
+8. Propertree：我最推荐的config编辑软件 主页：[https://github.com/corpnewt/ProperTree](https://github.com/corpnewt/ProperTree)  
+9. Wormhole：神一样的手机投屏到电脑并在电脑端操控的软件，治好了我的颈椎病，上班狗的福音 官网：[https://er.run/](https://er.run/)  
 
+
+</details>  
 
 ## 如果想打赏小的，请选择一个你喜欢的方式打赏五块钱，谢谢！
   
