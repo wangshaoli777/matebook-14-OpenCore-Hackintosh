@@ -180,28 +180,30 @@ matebook13 2019 i7-8565u mx250 sn720
 https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.html  
 </details>   
  
+<details>  
+<summary> How to create dual boot：</summary> 
+
+[click to download the guide](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/A%20guide%20for%20dualBoot%20of%20Matebook13%20from%20%40Francisco%20Novoa.pdf)  
+
+Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13/8557) and this dual-boot guide is written by him   
+
+
+</details>  
+ 
+
 
 <details>  
-<summary>DMG ダウンロード</summary>   
-  
-（上のガイドでは、インストールimgをダウンロードすることにマックOSのデバイス(Hackintosh可)が必要です）    
-
-もし手元にはマックOSのデイバスを持っていない場合：  
+<summary>For someone wants to run BigSur on his/her device</summary> 
 
 
-  
-下のリンクからOSをインストールするに使うimgをダウンロード可能:  
-https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html  
- 
-上記の外部ページは中国語で記載されていますので、chromeの翻訳機能をお勧めします.
+1. OTA works for upgrading to BigSur from Catalina  
+2. However you get BigSur install on your device,I recommand you to unlock CFG at frist for avoiding some problem you maybe get.  
+3. Before you upgrade your osx to BigSur from Catalina,you should remove your EFI in you ESP partition and switch to BigSur version EFI which is publiced in my [release](https://github.com/ske1996/matebook-13-2019-oc-efi/releases).  
 
-上記のページでimgをダウンロードするリンクを速く見つかるために以下の文字をそのページでサーチして下さい:  
 
-10.15.5 19F101 双EFI分区版
-    
-      
-  
-</details>   
+
+
+</details>  
 
 
 ## インストール後
