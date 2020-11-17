@@ -6,7 +6,7 @@ readme in other language:
 
 **✨If you think this work is too complicated and want a paid remote installation service(USD49/device)  
 send me a massage at https://t.me/KitsuLiu  
-Atfer paid remote instillation service,i provide a 7-day guarantee of macos in your device.  **
+Atfer paid remote instillation service,i provide a 7-day guarantee of macos in your device.**  
 
 
 
@@ -40,7 +40,7 @@ Report & Feedback：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/
   
 EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
-**If you Star my repo (click star⭐️ at upper right of this page), I will so happy. ** 
+**If you Star my repo (click star⭐️ at upper right of this page), I will so happy.**  
 
 
 A telegram group in ：https://t.me/hackintosh_matebook13  
