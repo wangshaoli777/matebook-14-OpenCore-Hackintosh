@@ -165,9 +165,11 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 ## Doesnt work：  
 
 
-1.Camera（UVC Camera VendorID_1480 ProductID_975 is available） 
+1. Camera（UVC Camera VendorID_1480 ProductID_975 is available） 
+*If you need a workable webcam,buy Logicool c270,I'm using it,pretty good.  
 
-2.mx250/150/350（hopeless）
+
+2. mx250/150/350（hopeless）
 
   
 ## Info of my device     
