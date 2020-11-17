@@ -220,14 +220,14 @@ you should just set Macos as defaul boot at OpenCore with pressing ctrl + enter 
 and edit config to disable "showpicker" which is at EFI/OC.  
 then press F12 immediately after you press power button,and choose the option named like "windows xxxx" to boot windows with original uefi bootloader.  
 Or follow that guide "how to create dual boot" upper this page.  
-In my opinion,i dont think GUI of choosing os is necessary,i set it just boot macos as default with ctrl + enter to choose mac partition and disabled showpicker at config.  
-F12 in just when you need to switch os.  
-I think there is no one will switch os like over than 10 times per day.  
-You dont have to use the boot menu everytime,is it great that it automaticlly enter to the os which you always use,and just in you need to switch os to see the boot menu？ 
+
 
 2.You should edit the config.plist to customize MLB/SN/UUID which is unique before you start to use your laptop as daily pc.  
 
 3.Do not enable "serch my mac" in setting.  
+
+4.Do not enable "file vault" in setting.  
+
 
 </details>  
 
