@@ -313,6 +313,15 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 微信上我问题收费一问50元  
 </details>
 
+<details>  
+<summary>关于从Catalina通过OTA的方式升级到Bigsur</summary>  
+ ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ 
+先说结论：【可行】  
+记得先把EFI文件从Catalina的换成我release里的Bigsur的以后改一下你自己定制的三码就行了  
+
+
+</details>  
+
 ## 安装后：  
 
 <details>  
