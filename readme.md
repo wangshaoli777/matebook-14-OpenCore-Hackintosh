@@ -206,7 +206,7 @@ bigsur跟catalina需要对号入座，不可串着用
 
 2. 驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
 
-3. Airdrop和无线的随航不可用，随航需要插线用，handoff可用但不太稳定，可以用apple watch解锁mac，但是不稳定  
+3. Airdrop和无线的随航不可用，随航需要插线用，handoff可用但有时不太稳定，可以用apple watch解锁mac，但是有时不稳定  
 
 </details>   
 
