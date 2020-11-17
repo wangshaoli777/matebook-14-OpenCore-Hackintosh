@@ -262,7 +262,7 @@ matebook13 2019 i7-8565u mx250 sn720
 ## 安装教程：  
 <details>  
 <summary>⚠️说明（一定先读这个）</summary>  
-1.以下教程仅针对安装Catalina，想安装bigsur的自行搜索oc的安装教程  
+1.以下教程仅针对安装Catalina，想安装bigsur的自行搜索oc的安装教程（但是安装前要先解锁一下cfg，防止出现一些问题）  
   
 2.如果你在以下教程有遇到五国，或者是usb导致的卡eb，卡禁止符号  
   方法1.用oc安装，直接在硬盘efi分区扩容后放进我oc的efi，然后用oc引导安装盘，具体教程自行百度  
@@ -321,6 +321,7 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 
 记得先把EFI文件从Catalina的换成我release里的Bigsur的以后改一下你自己定制的三码就行了  
 
+记得ota前解锁一下cfg  
 
 
 </details>  
