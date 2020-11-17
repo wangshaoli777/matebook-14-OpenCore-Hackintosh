@@ -193,17 +193,18 @@ Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13
 
 
 <details>  
-<summary>For someone wants to run BigSur on his/her device</summary> 
+<summary>For someone who wants to run BigSur on his/her device</summary> 
 
 
 1. OTA works for upgrading to BigSur from Catalina  
-2. However you get BigSur install on your device,I recommand you to unlock CFG at frist for avoiding some problem you maybe will get.  
+2. However you want to install BigSur on your device,I recommand you to unlock CFG at frist for avoiding some problem you maybe will get.  
 3. Before you upgrade your osx to BigSur from Catalina,you should remove your EFI in you ESP partition and switch to BigSur version EFI which is publiced in my [release](https://github.com/ske1996/matebook-13-2019-oc-efi/releases).  
 
 
 
 
 </details>  
+
 
 
 ## インストール後
