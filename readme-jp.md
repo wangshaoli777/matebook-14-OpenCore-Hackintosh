@@ -150,7 +150,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 ## 正常に動作できないもの：  
 
 
-1. 一部の付属カメラ（UVC Camera VendorID_1480 ProductID_975 は稼働できる） 
+1. 一部の付属カメラ（UVC Camera VendorID_1480 ProductID_975 は稼働できる）  
 *If you need a workable webcam,buy Logicool c270,I'm using it,pretty good.  
 
 2. mx250/150/350（どうしても無理です)  
