@@ -208,6 +208,17 @@ Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13
 
 </details>  
 
+<details>  
+<summary>For someone wants to run BigSur on his/her device</summary> 
+
+
+1. OTA works for upgrading to BigSur from Catalina  
+2. However you get BigSur install on your device,I recommand you to unlock CFG at frist for avoiding some problem you maybe get.  
+3. Before you upgrade your osx to BigSur from Catalina,you should remove your EFI in you ESP partition and switch to BigSur version EFI in my release.  
+
+
+
+</details>  
 
 
 ## After installation
