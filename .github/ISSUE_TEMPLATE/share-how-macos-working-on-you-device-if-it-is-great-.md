@@ -7,6 +7,11 @@ assignees: ''
 
 ---
 
+THIS ONE IS NOT BUG REPORT.
+不要用这个来提问/汇报bug。
+（使用时请删除包含本括号内的以上三行）
+
+
 Matebook xx 20xx  
 CPU:
 RAM:
