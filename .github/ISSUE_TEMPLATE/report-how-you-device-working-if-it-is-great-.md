@@ -11,6 +11,8 @@ Matebook xx 20xx
 CPU:
 RAM:
 SSD:
+Macos Version：
+EFI Version:
 
 Works fine:
 
