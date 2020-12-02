@@ -375,7 +375,7 @@ crtl+pagedownで次のページに変更する
 このあとはもう一度そのUSBメモリで起動し、修正した部分がちゃんとできたどうかをチェックする。  
 そして[propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)を利用し、ESP partitionでEFI/OC/config.plistのDeviceProperties/Add/PciRoot(0x0)/Pci(0x2,0x0)を以下のようにチェンジすることをおすすめ：  
 
-⚠️以下のconfig設定はmatebook 13 2018-2019にだけ対応している  
+⚠️以下のconfig設定はmatebook 13 2018-2019だけに対応している  
 
 ![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/45NBuzDIW489QBoVep5mcbvyqMw5*Y0jP8mcu7Ee3hom9v.4vLrclVXlW1qZQR3tuWj.fDrSEOF5cBubLM5p6joREA5a6pqrLmFG0msz5yg!/b&bo=0AQsAgAAAAADJ*g!&rf=viewer_4)  
   
