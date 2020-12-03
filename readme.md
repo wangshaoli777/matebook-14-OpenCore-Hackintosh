@@ -580,7 +580,7 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 6. Motrix：万能下载器 官网：[https://motrix.app/](https://motrix.app/)  
 7. Hackintool：黑苹果的瑞士军刀 主页：[https://github.com/headkaze/Hackintool](https://github.com/headkaze/Hackintool)  
 8. Propertree：我最推荐的config编辑软件 主页：[https://github.com/corpnewt/ProperTree](https://github.com/corpnewt/ProperTree)  
-9. Wormhole：神一样的手机投屏到电脑并在电脑端操控的软件，治好了我的颈椎病，上班狗的福音 官网：[https://er.run/](https://er.run/)  
+9. Wormhole：mac上的huawei share,治好了我的颈椎病，上班狗的福音 官网：[https://er.run/](https://er.run/)  
 10. 超级右键：恢复windows的右键新建txt，新建word/excel等操作 官网:[https://www.better365.cn/](https://www.better365.cn/)  
 
 
