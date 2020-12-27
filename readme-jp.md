@@ -126,7 +126,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 <summary>4.hdmi（HDMIの音声も問題なし）*クリック</summary>   
   
 ⭕️MataBook 13 2018-2020 そのまま使えます。  
-❌MataBook 14 2019-2020 config.plistのFramebuffer部分を [この内容に変更する必要があり](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49)  
+❌MataBook 14 2019-2020 config.plistのFramebuffer部分を この内容に変更する必要があり：[Plan A](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49) |  [Plan B](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/121)   
 ただし、MataBook 14ではそのままに使えるケースもありますので、もしHDMIに問題がなければ、config.plistを編集しないのがおすすめです。  
 
  </details>   
