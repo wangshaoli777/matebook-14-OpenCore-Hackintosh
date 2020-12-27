@@ -216,7 +216,7 @@ bigsur跟catalina需要对号入座，不可串着用
 <summary>4.hdmi正常（可音频输出）*点击查看详细说明</summary>   
   
 ⭕️MataBook 13 2018-2020 什么都不用改  
-❌MataBook 14 2019-2020 需要修改缓冲帧 [点击查看需要修改的内容](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49)  
+❌MataBook 14 2019-2020 需要修改缓冲帧 点击右侧查看需要修改的内容：[Plan A](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49) |  [Plan B](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/121)   
 但是不是100%都需要改，我也见过一些没有更改缓冲帧部分就能很好驱动的案例，按需吧，不一定  
 
  </details>   
