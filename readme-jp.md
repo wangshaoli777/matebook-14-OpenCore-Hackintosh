@@ -192,7 +192,7 @@ Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13
 
 1. CatalinaからBigSurへのアップグレードにはOTA方式で実行可能.  
 2. BigSurをどうインストールするにもかかわらず、その前にCFG Lockをアンロックすることがおすすめ.  
-3. CatalinaからBigSurへのアップグレードしたい人に対して、アップグレードのプロセスを始める前に、ESPのpartitionをmountして、その中のEFIフォルダを私の[release](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)でBigSurバージョンに対応するものを変える必要がある.  
+3. CatalinaからBigSurへのアップグレードしたい人に対して、アップグレードのプロセスを始める前に、ESPのpartitionをmountして、その中のEFIフォルダを私の[release](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)でのBigSurバージョンに対応するものを変える必要がある.  
 
 
 
