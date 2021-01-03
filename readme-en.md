@@ -224,7 +224,7 @@ Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️  
   
 1.DO NOT BOOT YOUR WINDOWS OR OTHER OS WITH OpneCore.  
-you may lose your Genuine license,except you know how to inject your own correct UUID/MLB/SN(which is written at your bios or some other parts of motherboard,and it is unique)in config.plist.  
+you may lose your Genuine license,except you know how to inject your own correct UUID/MLB/SN in config.plist.  
 it is not 100% happen,but it is still risky.  
 you should just set Macos as defaul boot at OpenCore with pressing ctrl + enter to choose Mac partition.  
 and edit config to disable "showpicker" which is at EFI/OC.  
