@@ -103,14 +103,6 @@ wifiのkextはload不能,他の部分は 2019 version,と同じでうまう動�
 このclover EFIファイルはマックOSをbootすることにも使えるのですが、  
 opencore(oc) efiを使ってマックOSをbootすることをお勧めします.  
 
-
-- 20200709:  
-1.新しい　MLB,ROM,Serial numberをアップデートしました   
-2.緊急修復に使うWRCOVERY.BINを添付しました、このファィルはrecoveryから抽出したものです  
-使い方:SSDのESRにコピーして下さい
-
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)   
-
 </details>  
 すでにmacos 11 Bigsurにサポートしました  
 
@@ -181,9 +173,11 @@ https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.
 </details>   
  
 <details>  
-<summary> How to create dual boot：</summary> 
+<summary> Dual bootの作り方：</summary> 
 
-[click to download the guide](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/A%20guide%20for%20dualBoot%20of%20Matebook13%20from%20%40Francisco%20Novoa.pdf)  
+[クリックしてガイドブックをダウンロード](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/A%20guide%20for%20dualBoot%20of%20Matebook13%20from%20%40Francisco%20Novoa.pdf)  
+
+*このガイドブックは英語で作成するものであるため、読むには一定の英語能力が必要です。  
 
 Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13/8557) and this dual-boot guide is written by him   
 
@@ -193,12 +187,12 @@ Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13
 
 
 <details>  
-<summary>For someone who wants to run BigSur on his/her device</summary> 
+<summary>MacOS 11.0 BigSurを利用したい人へ:</summary> 
 
 
-1. OTA works for upgrading to BigSur from Catalina  
-2. However you want to install BigSur on your device,I recommand you to unlock CFG at frist for avoiding some problem you maybe will get.  
-3. Before you upgrade your osx to BigSur from Catalina,you should remove your EFI in you ESP partition and switch to BigSur version EFI which is publiced in my [release](https://github.com/ske1996/matebook-13-2019-oc-efi/releases).  
+1. CatalinaからBigSurへのアップグレードにはOTA方式で実行可能.  
+2. BigSurをどうインストールするにもかかわらず、その前にCFG Lockをアンロックすることがおすすめ.  
+3. CatalinaからBigSurへのアップグレードしたい人に対して、アップグレードのプロセスを始める前に、ESPのpartitionをmountして、その中のEFIフォルダを私の[release](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)でBigSurバージョンに対応するものを変える必要がある.  
 
 
 
@@ -214,20 +208,19 @@ Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13
 <summary>⚠️Warning</summary>  
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️  
   
-1.DO NOT BOOT YOUR WINDOWS OR OTHER OS WITH OpneCore.  
-you may lose your Genuine license,except you know how to inject your own correct UUID/MLB/SN(which is written at your bios or some other parts of motherboard,and it is unique)in config.plist.  
-it is not 100% happen,but it is still risky.  
-you should just set Macos as defaul boot at OpenCore with pressing ctrl + enter to choose Mac partition.  
-and edit config to disable "showpicker" which is at EFI/OC.  
-then press F12 immediately after you press power button,and choose the option named like "windows xxxx" to boot windows with original uefi bootloader.  
-Or follow that guide "how to create dual boot" upper this page.  
+1. OpencoreでMacOS以外のOS(Windows,linuxを含む)をbootしないこと.  
+純正ライセンスをその操作により失うリスクがある,UUIDなどを正しくconfig.plistに注入するやり方をわかるなら論外.  
+上記のリスクが必ず発生するわけではないですが、そうしないのがおすすめです.  
+opencoreのOS選択画面でctrl + enterを同時に押すことでMacOSのpartitionを選ぶことより、MacOSをデフォルトbootに設定する.  
+その後、MacOSに入ってから、ESPのpartitionをmountして、EFI/OC/config.plistをpropertreeで開き、その中の"showpicker"オプションをOFF(False)に設定する.  
+これで、一旦マシンを起動すると、opencoreのOS選択画面を自動的にスキップし、直接的にMACOSに入る.  
+Double bootの人に対して、もしMacOS以外のOS(Windows,linuxを含む)に切り替えたい時には、起動ボタンを押した後にすぐにF12を連打することで、オリジナルのuefi boot managerに入ることができ、そこでMacOS以外のOS(Windows,linuxを含む)を選べばいい。
 
+2. daily pcとして使用し始める前に、ESPのpartitionをmountして、EFI/OC/config.plistをpropertreeで開き、MLB/SN/UUIDを独自のものに変えるのを忘れないこと.  
 
-2.You should edit the config.plist to customize MLB/SN/UUID which is unique before you start to use your laptop as daily pc.  
+3. MACOSのシステム環境設定のapple idのところで"serch my mac"をオンにしないこと.  
 
-3.Do not enable "serch my mac" in setting.  
-
-4.Do not enable "file vault" in setting.  
+4. MACOSのシステム環境設定の"セキュリティーとプライバシー"のところで"file vault"をオンにしないこと.  
 
 
 </details>  
