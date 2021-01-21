@@ -168,6 +168,10 @@ matebook13 2019 i7-8565u mx250 sn720
 
 
 ## インストールの手順について：  
+
+**下記の項目の文字をクリックすることで、詳しい内容を見えますよ。**  
+
+
 <details>  
 <summary>インストールガイド</summary>   
     
@@ -207,8 +211,11 @@ Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13
 
 
 
-## インストール後
+## インストール後  
 
+
+
+**下記の項目の文字をクリックすることで、詳しい内容を見えますよ。**  
   
 <details>  
 <summary>⚠️Warning</summary>  
