@@ -4,7 +4,7 @@
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
 
-**HUAWEI社のMateBookシリーズのPCでMacOSをほぼ完璧に稼働できる手順及び必要な配置ファイルが含まれています。**  
+**HUAWEI社のMateBookシリーズのPCでMacOSをほぼ完璧に稼働させる手順及び必要な配置ファイルが含まれています。**  
 
 
 
