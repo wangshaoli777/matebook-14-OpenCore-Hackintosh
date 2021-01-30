@@ -46,6 +46,9 @@ A telegram group in ：https://t.me/hackintosh_matebook13
 
 <details>  
 <summary>click for details</summary>  
+ 
+- 20210130:  
+Upgraded all Bigsur version's EFI to OpenCore 0.6.5，Upgraded some kexts to latest version，and added boot chime. 
 
 - 20201113:  
 Upgraded all Bigsur version's EFI to OpenCore 0.6.4，Supported Bigsur 11.0.1 Public Release  
