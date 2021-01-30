@@ -293,7 +293,8 @@ EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releas
 <details>  
 <summary>点击查看安装视频教程</summary>
 
-https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
+https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0  
+
 EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
 ⭐️如果你不会安装，需要安装服务，联系微信ske1996
