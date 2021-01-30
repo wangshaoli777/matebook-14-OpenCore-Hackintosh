@@ -117,14 +117,14 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 ## 正常に動作できるもの：
 
-1.bluetooth（完璧に動作できる）From IntelBluetoothFirmware @zxystd
+1.ブルートゥース  
 
-2.wifi  From [@zxystd](https://github.com/OpenIntelWireless/itlwm)  
+2.wifi  
 
-3.sleep-wakeup 問題なし
+3.sleep-wakeup  
 
 <details>  
-<summary>4.hdmi（HDMIの音声も問題なし）*クリック</summary>   
+<summary>4.HDMI *クリック</summary>   
   
 ⭕️MataBook 13 2018-2020 そのまま使えます。  
 ❌MataBook 14 2019-2020 config.plistのFramebuffer部分を この内容に変更する必要があり：[Plan A](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49) |  [Plan B](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/121)   
@@ -132,19 +132,19 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
  </details>   
  
-5.TrackPad 問題なし  
+5.トラックパッド  
 
-6.cfg lockを無効することで、パワーマネジメントが完璧に動作できる  
+6.CFG Lockを無効することで、パワーマネジメントが完璧に動作できる  
 
-7.uhd620 問題なし  
+7.GPU(UHD 620)  
 
-8.cpu boost（cpufriend.kextに1800mhz，maximumを設定しました）  
+8.CPU Boost  
 
-9.usb（ssdtを用いて修復）
+9.USB Mapping　　
 
 10.ホットキー(brightness and sound)  
 
-11.audio jack(下に書いてある「ComboJackを用いてaudio jackを修復する方法」従う必要があります)
+11.audio jack  
 
 
   
