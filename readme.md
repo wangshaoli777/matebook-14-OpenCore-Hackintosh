@@ -273,6 +273,9 @@ matebook13 2019 i7-8565u mx250 sn720
   方法2.删除u盘中的efi/clover/kexts/other/usbinjectall.kext以及efi/clover/kexts/other/usbport.kext  
 
 3. 关于三星pm981硬盘的版本 [点击查看教程](https://github.com/wendao2008/Matebook-D14-2020-hackintosh-Pm981/blob/main/README.md)  
+
+EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
+
 </details>  
 
 <details>  
@@ -291,7 +294,8 @@ matebook13 2019 i7-8565u mx250 sn720
 <summary>点击查看安装视频教程</summary>
 
 https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
-  
+EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
+
 ⭐️如果你不会安装，需要安装服务，联系微信ske1996
 可提供收费安装服务，并且保修1个月  
 
@@ -324,7 +328,7 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
   
 先说结论：【可行】  
 
-记得先把EFI文件从Catalina的换成我release里的Bigsur的以后改一下你自己定制的三码就行了  
+记得先把EFI文件从Catalina的换成我[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)里的Bigsur的以后改一下你自己定制的三码就行了  
 
 记得ota前解锁一下cfg  
 
