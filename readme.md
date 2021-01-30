@@ -183,9 +183,12 @@ bigsur跟catalina需要对号入座，不可串着用
 
 ## 正常可用的部件：
   
+**以下的【蓝牙】【WIFI】【HDMI】的文字可点击后查看详情**  
+
+ 
  
 <details>  
-<summary>1.蓝牙（无需热启动）*点击查看详细说明</summary>   
+<summary>1.蓝牙（无需热启动）</summary>   
   
 驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
 1. 华为的蓝牙鼠标不可用！！！  
@@ -198,7 +201,7 @@ bigsur跟catalina需要对号入座，不可串着用
 
   
 <details>  
-<summary>2.wifi可用 *点击查看详细说明</summary>  
+<summary>2.WIFI</summary>  
   
 1. 使用了Z大的最新AirportItlwm的wifi驱动，跟heliport说拜拜啦  
 
@@ -212,7 +215,7 @@ bigsur跟catalina需要对号入座，不可串着用
 3.睡眠正常
 
 <details>  
-<summary>4.hdmi正常（可音频输出）*点击查看详细说明</summary>   
+<summary>4.HDMI </summary>   
   
 ⭕️MataBook 13 2018-2020 什么都不用改  
 ❌MataBook 14 2019-2020 需要修改缓冲帧 点击右侧查看需要修改的内容：[Plan A](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49) |  [Plan B](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/121)   
@@ -224,17 +227,15 @@ bigsur跟catalina需要对号入座，不可串着用
 
 6.[解锁cfg lock](https://github.com/ske1996/matebook-13-2019-oc-efi#%E8%A7%A3%E9%94%81cfg)后可完美原生电源管理
 
-7.已注入缓冲帧 核显正常
+7.核显
 
-8.cpu变频正常（补充：此efi内涵cpufriend，设置为：1800mhz，最高性能）
+8.CPU变频
 
-9.usb已定制（通过ssdt定制）
+9.USB定制
 
 10.键盘快捷键正常  
 
-11.耳机接口正常（需要使用下面的[【安装ComboJack实现耳机耳麦切换，改进电流声】](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/readme.md#%E5%AE%89%E8%A3%85combojack%E5%AE%9E%E7%8E%B0%E8%80%B3%E6%9C%BA%E8%80%B3%E9%BA%A6%E5%88%87%E6%8D%A2%E6%94%B9%E8%BF%9B%E7%94%B5%E6%B5%81%E5%A3%B0%E4%BF%AE%E5%A4%8D%E8%80%B3%E6%9C%BA%E6%8E%A5%E5%8F%A3)）
-
-12.声卡正常 layout:21  
+11.耳机接口以及声卡扬声器正常 layout:21  
   
 ## 无法正常工作的部件：  
 
