@@ -101,6 +101,10 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 <details>  
 <summary>点击以查看详细信息</summary>  
   
+  
+  
+- 20200130:  
+更新了所有efi的BigSur版本的oc至0.6.5，以及更新了一些驱动，并且打开了boot chime   
 
 - 20201113:  
 更新了所有efi的BigSur版本的oc至0.6.4，支持11.0.1正式版    
