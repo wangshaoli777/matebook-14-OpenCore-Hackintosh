@@ -129,15 +129,15 @@ Supported BigSur
 ## Works fine：
   
   
-1.Bluetooth  
+1. Bluetooth  
 
-2.WIFI  
+2. WIFI  
 
 
-3.Sleep-Wakeup
+3. Sleep-Wakeup
 
 <details>  
-<summary>4.HDMI *click</summary>   
+<summary>4. HDMI *click this</summary>   
   
 ⭕️MataBook 13 2018-2020 you dont have to do anything  
 ❌MataBook 14 2019-2020 the Framebuffer part of config.plist ⇨ should be changed to this：[Plan A](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49) |  [Plan B](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/121)   
@@ -146,19 +146,19 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 
  </details>   
 
-5.TrackPad
+5. TrackPad
 
-6.Perfect powermanagement(after disable CFG Lock)  
+6. Perfect powermanagement(after disable CFG Lock)  
 
-7.IGPU(UHD620)  
+7. IGPU(UHD620)  
 
-8.CPU Boost  
+8. CPU Boost  
 
-9.USB Mapping
+9. USB Mapping
 
-10.FN hot key(brightness and sound)  
+10. FN hot key(brightness and sound)  
 
-11.Audio jack and Speaker(layout id:21) 
+11. Audio jack and Speaker(layout id:21) 
 
 
   
