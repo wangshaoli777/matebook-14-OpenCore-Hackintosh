@@ -29,7 +29,7 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 関連プロジェクト:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
 
 <details>  
-<summary>⭐️クリックしてハッキントッシュの稼働状況を確認</summary>  
+<summary>⭐️ここをクリックしてハッキントッシュの稼働状況を確認</summary>  
   
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202020-11-14%2019.30.41.png?raw=true)    
 ![image](https://i0.hdslb.com/bfs/article/0d73e23780c4a4a5b80b1e956dc8957bb95f3372.jpg@1320w_880h.webp)  
@@ -41,7 +41,7 @@ EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/rel
 
 ## アップデート履歴:  
 <details>  
-<summary>クリック(⚠️これを先に読んでください)</summary>  
+<summary>ここをクリック(⚠️これを先に読んでください)</summary>  
   
 - 20210130:  
 全てのBigSurバージョンのEFIに含まれているOpenCoreを0.6.5にアップグレードしました，一部のkextもアップグレードしました，さらにboot chimeをオンにしました。 
@@ -124,7 +124,7 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 3.sleep-wakeup  
 
 <details>  
-<summary>4.HDMI *クリック</summary>   
+<summary>4.HDMI *ここをクリック</summary>   
   
 ⭕️MataBook 13 2018-2020 そのまま使えます。  
 ❌MataBook 14 2019-2020 config.plistのFramebuffer部分を この内容に変更する必要があり：[Plan A](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49) |  [Plan B](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/121)   
