@@ -77,19 +77,6 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 </details>   
 
 
-<details>  
-<summary>⭐️扫码进微信群(点击以查看二维码)</summary>  
-   
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/%E3%82%AF%E3%82%99%E3%83%AB%E3%83%BC%E3%83%95%E3%82%9AQR%E3%82%B3%E3%83%BC%E3%83%88%E3%82%99.jpeg?raw=true)  
-  
-看不到图片就自己挂个vpn  
-  
-  
-</details>   
-
-
-
-
 
 
 ## 更新日志（⚠️一定先看这个）  
@@ -262,6 +249,9 @@ matebook13 2019 i7-8565u mx250 sn720
 
 
 ## 安装教程：  
+
+**以下的文字可点击后查看详情**  
+
 <details>  
 <summary>⚠️说明（一定先读这个）</summary>  
 
@@ -335,6 +325,9 @@ EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releas
 
 
 </details>  
+
+**以下的文字可点击后查看详情**  
+
 
 ## 安装后：  
 
