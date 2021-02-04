@@ -339,8 +339,9 @@ EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releas
   
 1. 不要用oc引导windows，因为你弄不好你的正版软件许可证就全没了  
 直接oc的选择系统界面里通过ctrl+回车选择mac的引导磁盘  
-设置mac为默认引导磁盘，关闭config里，showpicker  
-引导windows用f12选windows  
+设置mac为默认引导磁盘，关闭config里的showpicker  
+引导windows的话在windows下用easyuefi在原生的uefi bootloader中创建一个windows boot manager的入口，这个操作在上面贴出来的视频教程里有  
+然后开机后按f12选windows即可  
 我在[这个issue](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/87)里写明了为什么  
 oc的图形化os选择页面无用的理由也同上  
 因为你不用oc去引导windows并且直接省略选择页面，所以图形化的oc界面也就没用  
