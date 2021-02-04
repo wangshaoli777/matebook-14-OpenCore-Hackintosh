@@ -146,7 +146,15 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 
  </details>   
 
-5. TrackPad
+<details>  
+<summary>5. TrackPad *click this</summary>  
+ seems like there are some difference in hardware on our MateBook between the different sales area.  
+ My tests whatever 2019ver or 2020ver of MateBook are all on China sales version.  
+ so if you got trackpad issue,follow this issue https://github.com/ske1996/matebook-13-2019-oc-efi/issues/129  
+ to see if it can fix your trackpad,if it cant,use the [bug report] option to write info of your device and send your dsdt with it.  
+ 
+  
+</details> 
 
 6. Perfect powermanagement(after disable CFG Lock)  
 
