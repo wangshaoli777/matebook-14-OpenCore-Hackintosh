@@ -7,7 +7,7 @@ readme in other language:
 **Run Apple's Macos at HUAWEI MateBook series laptop stably and almost perfectly**  
 
 ```
-This project supports 2018-2020version's Matebook 13&14 (intel ver)
+This project supports 2018-2020version's Matebook 13&14 (intel ver only)
 ```
 
 
