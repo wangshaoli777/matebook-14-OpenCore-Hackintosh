@@ -353,9 +353,9 @@ alt+qで退出してOSに切り替える
 </details>   
 
 <details>  
-<summary>dvmtを64mbに拡大する</summary>  
+<summary>dvmtを64mbに解禁する</summary>  
     
-  ⚠️dvmtを64mbに拡大したら、どんなことができる？  
+  ⚠️dvmtを64mbに解禁したら、どんなことができる？  
   hdmi/dpで4k60pまでに対応できる  
   p.s.　デフォルトは4k30p
   
