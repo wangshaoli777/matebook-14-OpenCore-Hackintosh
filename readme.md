@@ -34,7 +34,7 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 
 **⚠️无法加载出教程的图片，或者是无法下载我这里的东西可以通过挂vpn解决**  
 
-
+[点进这里查看演示视频](https://www.bilibili.com/video/bv18z4y1U7rz)  
 
 <details>  
 <summary>⭐️点击查看使用效果</summary>  
@@ -48,6 +48,7 @@ EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/
 
 ![image](https://i0.hdslb.com/bfs/article/0d73e23780c4a4a5b80b1e956dc8957bb95f3372.jpg@1320w_880h.webp)  
 ![image](https://i0.hdslb.com/bfs/article/3c89fd7615510c1b2e9efa1c6024348b4b635abc.jpg@1320w_1760h.webp)  
+[点进这里查看演示视频](https://www.bilibili.com/video/bv18z4y1U7rz)  
 
 </details>   
 
