@@ -17,8 +17,8 @@
 【此EFI可通用于2018-2020款的matebook13/14的intel版本。】
 ```  
 
-**⭐️如果你不会安装，需要安装服务，联系微信ske1996 ，提供收费安装服务（250/次），帮你弄好一切可以弄好的驱动，并且保修1个月，非诚勿扰**  
-想自己安的话，一切会遇到的问题我都写清楚了。微信上找我问问题是要收费的哟。  
+**⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
+
 
 
 姐妹项目:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
