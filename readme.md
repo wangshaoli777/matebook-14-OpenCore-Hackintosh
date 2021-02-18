@@ -185,10 +185,11 @@ bigsur跟catalina需要对号入座，不可串着用
   
 驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
 1. 华为的蓝牙鼠标不可用！！！  
-2. 苹果的妙控2可用  
-3. 有个可爱的小哥哥@Baiyu0124发现了一款可用的没什么牌子的鼠标[淘宝链接](https://m.tb.cn/h.VtTxb0H?sm=bfed64)   
-4. 微软设计师鼠标可用[淘宝链接](https://detail.tmall.com/item.htm?id=575557854943&spm=a1z09.2.0.0.119c2e8dUqx3iI&_u=bkg3nm2911&sku_properties=5919063:6536025)  
-5. Airpods可以用，但是你得配对一次，我们又不是白苹果，不能开盖就用  
+2. 苹果的妙控2可用   
+3. 亲眼所见，微软设计师鼠标可用[淘宝链接](https://detail.tmall.com/item.htm?id=575557854943&spm=a1z09.2.0.0.119c2e8dUqx3iI&_u=bkg3nm2911&sku_properties=5919063:6536025)  
+4. Airpods可以用，但是你得配对一次，我们又不是白苹果，不能开盖就用  
+5. 以下几个蓝牙鼠标根据群友测试说可用，但是我没亲眼所见，要是买了发现不能用别怪我  
+----雷柏m200g/刺鳞树蝰/罗技m336/微软sculpt/英菲克  
 
 </details>   
 
