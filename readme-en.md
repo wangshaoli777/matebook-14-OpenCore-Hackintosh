@@ -20,7 +20,7 @@ very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hack
  
  </details>  
 
-Now:you can use this efi boot both catalina and bigsur now.it is steadily and worked well.  
+**Now:you can use those EFI file to boot both catalina and bigsur now.it works stably.**  
   
 <details>  
 <summary>⭐️click this to check how macos works on matebook 13</summary>  
@@ -117,14 +117,14 @@ the reason might be the 2020 version use 2gen ac9560,maybe can be fixed in futur
 
 
 - 20200710:  
-add a clover efi be used to install macos,  
+add a clover efi for installing macos,  
 this clover efi could be used to boot your hackintosh,too  
 But I strongly recommand to use opencore(oc) efi to boot your device.  
 
 
 </details>  
 
-Supported BigSur  
+**Supported BigSur already**  
 
 ## Works fine：
   
@@ -159,7 +159,7 @@ If it cant,Open a new issue with using the 【bug report】 option to write info
   
 </details> 
 
-6. Perfect powermanagement(after disable CFG Lock)  
+6. Perfect power management(after disable CFG Lock)  
 
 7. IGPU(UHD620)  
 
@@ -319,7 +319,7 @@ You should lock your resolution to 1343x895 at setting since you enabled HiDPI.O
 ✨For perfect power management and smooth boost  
 if you got unnormal cpu boost issue or overheating issue,i recommand to do this  
 
-upgrade your bios to 1.28,could be download in HUAWEI's official page  
+upgrade your bios to 1.28,could be downloaded in HUAWEI's official page  
 
 1.Format a usb stick to fat32  
 
@@ -420,13 +420,9 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 </details>       
   
 
-If this EFI could run in your laptop well,  
-please create a issues and send info of your device like year,cpu,matebook 13 or 14.  
-for helping more people who using matebook to build their hackintosh.
-
 ## If you want to support my work：
 
-Please donate in paypal  
+Please donate with paypal  
 
 [click to donate](https://paypal.me/ske1996)  
 
