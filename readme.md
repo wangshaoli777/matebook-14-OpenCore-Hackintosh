@@ -271,7 +271,8 @@ matebook13 2019 i7-8565u mx250 sn720
 
 3. 关于三星pm981硬盘的版本 [点击查看教程](https://github.com/wendao2008/Matebook-D14-2020-hackintosh-Pm981/blob/main/README.md)  
 
-EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
+4. EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
+5. **⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
 
 </details>  
 
@@ -294,10 +295,7 @@ https://www.bilibili.com/video/BV1jJ41127YT/?spm_id_from=333.788.videocard.0
 
 EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
-⭐️如果你不会安装，需要安装服务，联系微信ske1996
-可提供收费安装服务，并且保修1个月  
-
-微信上我问题收费一问50元  
+**⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
 
 </details>  
   
@@ -315,9 +313,8 @@ EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releas
 
 4.视频的【16:44】开始是使用easyuefi创建efi引导，这一步前面都跟他视频一样，他怎么点你就怎么点，只不过，选择引导文件为：EFI/BOOT/BOOTx64.efi
   
-⭐️如果你不会安装，需要安装服务，联系微信ske1996  
-可提供收费安装服务，帮你弄好一切可以弄好的驱动，并且保修1个月，收费250，非诚勿扰    
-微信上我问题收费一问50元  
+**⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
+
 </details>
 
 <details>  
