@@ -17,7 +17,7 @@
 【此EFI可通用于2018-2020款的matebook13/14的intel版本。】
 ```  
 
-**⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
+**⭐️如果你不会安装，需要安装服务，可以解决PM981问题** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
 
 
 
