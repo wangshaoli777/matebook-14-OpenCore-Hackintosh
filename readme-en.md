@@ -439,14 +439,14 @@ Please donate with paypal
 
 ## Thanks：
 
-- [@intel](https://www.intel.com/content/www/us/en/homepage.html) make cpu for us
+- [@intel](https://www.intel.com/content/www/us/en/homepage.html) produce cpu for us
 
-- [@apple](https://www.apple.com/) create macos for us
+- [@apple](https://www.apple.com/) created macos  
  
-- [@zxystd](https://github.com/OpenIntelWireless/itlwm) create kext of wifi and bluetooth  
+- [@zxystd](https://github.com/OpenIntelWireless/itlwm) created kexts of wifi and bluetooth  
 
 - [@MoZyo](https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh) teached me alot
 
-- [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)  thanks him done a remarkable job in clover version hackintosh in matebook 13
+- [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)  thanks him did a remarkable job in clover version hackintosh of matebook 13
 
 - [@Zero-zer0](https://github.com/Zero-zer0) learned how to fix brightness key from him
