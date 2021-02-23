@@ -185,7 +185,7 @@ matebook13 2019 i7-8565u mx250 sn720
     
     
 下の外部ページを参考して下さい：  
-（このガイドは最高のものですが、一定の英語能力が必要です）　　
+（このガイドを読むのには、一定の英語能力が必要です）　　
 
 https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.html  
 </details>   
@@ -195,7 +195,7 @@ https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.
 
 [クリックしてガイドブックをダウンロード](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/A%20guide%20for%20dualBoot%20of%20Matebook13%20from%20%40Francisco%20Novoa.pdf)  
 
-*このガイドブックは英語で作成するものであるため、読むには一定の英語能力が必要です。  
+*このガイドブックは英語で作成されたため、読むには一定の英語能力が必要です。  
 
 Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13/8557) and this dual-boot guide is written by him   
 
