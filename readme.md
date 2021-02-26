@@ -263,6 +263,7 @@ matebook13 2019 i7-8565u mx250 sn720
 <summary>⚠️说明（一定先读这个）</summary>  
 
 ⚠️事前准备：f2进bios，调成中文，然后关闭一切带有“安全”的东西，保存，退出  
+镜像下载链接：https://blog.daliansky.net/  
 
 1. 想安装bigsur的安装前要先解锁一下cfg，防止出现一些问题  
 
@@ -273,18 +274,8 @@ matebook13 2019 i7-8565u mx250 sn720
 
 </details>  
 
-<details>  
-<summary>点击查看镜像下载</summary>  
-先于此blog下载：10.15.5 19F101 双EFI分区版
 
-这个文章很长，使劲往下翻，或使用网页搜索功能
-
-下载链接
-：https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html
-  
-</details>  
-
-      
+     
 <details>  
 <summary>点击查看安装视频教程</summary>
 ⚠️事前准备：f2进bios，调成中文，然后关闭一切带有“安全”的东西，保存，退出  
