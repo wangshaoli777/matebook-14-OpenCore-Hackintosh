@@ -300,8 +300,6 @@ EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releas
   
 
 <details>  
-
-<details>  
 <summary>关于从Catalina通过OTA的方式升级到Bigsur</summary>  
  ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️   
   
@@ -313,6 +311,7 @@ EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releas
 
 
 </details>  
+
 
 
 
