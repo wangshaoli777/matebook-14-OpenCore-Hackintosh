@@ -266,18 +266,9 @@ matebook13 2019 i7-8565u mx250 sn720
 2. 关于三星pm981硬盘的版本 [点击查看教程](https://github.com/wendao2008/Matebook-D14-2020-hackintosh-Pm981/blob/main/README.md)  
 
 3. EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
-4. **⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
-
-5.关于从Catalina通过OTA的方式升级到Bigsur
-
-先说结论：【可行】  
-
-记得先把EFI文件从Catalina的换成我[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)里的Bigsur的以后改一下你自己定制的三码就行了  
-
-记得ota前解锁一下cfg  
 
 
-
+**⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
 
 
 
