@@ -37,34 +37,6 @@ readme in other language：
 
 
 
-<details>  
-<summary>⭐️点击查看如何在黑苹果下玩所有3A大作（matebook13/14的黑苹果🉑️）</summary>  
-    
-  
-  
-  
- ⚠️在注册的时候填写邀请码：DBZNT3EC  
-！！可以白嫖3小时！！
-  
-       
-      
-我自己用的一个云电脑服务  
-挺好用的能玩游戏（包括3A） 
-也就是说在matebook13/14的黑苹果上也可以无硬件限制的玩任何游戏了  
-直接4K全画质的开  
-没啥延迟，就跟在本地玩一样  
-我自己用的，推荐使用这个，这样在mac玩游戏也解决了  
-  
-⚠️在注册的时候填写邀请码：DBZNT3EC  
-！！可以白嫖3小时！！
-  
-  
-  
-[点击进入它的官网](https://www.haixingcloud.com/#/Home)  
-  
-
-</details>   
-
 姐妹项目:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
   
 
