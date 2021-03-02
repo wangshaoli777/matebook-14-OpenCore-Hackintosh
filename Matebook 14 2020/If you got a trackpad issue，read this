@@ -1,3 +1,0 @@
-download VoodooI2C-2.4.2.zip in this folder,unzip and copy that kext to efi/oc/kexts,and remove the old one.  
-
-下载 VoodooI2C-2.4.2.zip ，解压并复制到efi/oc/kexts，替换原有的同名kext
