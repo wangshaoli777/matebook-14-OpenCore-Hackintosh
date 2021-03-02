@@ -1,9 +1,6 @@
 # matebook-13/14-2019/2020-OpenCore 黑苹果 hackintosh 
   
-  
-
-
-其他语言（readme in other language）：  
+readme in other language：  
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
   
   
@@ -19,17 +16,6 @@
 
 **⭐️如果你不会安装，需要安装服务，可以解决PM981问题** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
 
-
-
-姐妹项目:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
-  
-
-如果你遇到了什么问题（与安装无关的），有可能在这里找到答案：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
-
-
-**请在这个网页的最右上角帮我点颗小星星⭐️哟**  
-
-**⚠️无法加载出教程的图片，或者是无法下载我这里的东西可以通过挂vpn解决**  
 
 [点进这里查看演示视频](https://www.bilibili.com/video/bv18z4y1U7rz)  
 
@@ -79,7 +65,10 @@
 
 </details>   
 
+姐妹项目:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
+  
 
+如果你遇到了什么问题（与安装无关的），有可能在这里找到答案：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
 
 **请在这个网页的最右上角帮我点颗小星星⭐️哟**  
 
