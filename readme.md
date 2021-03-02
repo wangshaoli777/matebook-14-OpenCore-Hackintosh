@@ -177,7 +177,7 @@ bigsur跟catalina需要对号入座，不可串着用
 
 5.触摸板正常
 
-6.[解锁cfg lock](https://github.com/ske1996/matebook-13-2019-oc-efi#%E8%A7%A3%E9%94%81cfg)后可完美原生电源管理
+6.完美原生电源管理
 
 7.核显
 
