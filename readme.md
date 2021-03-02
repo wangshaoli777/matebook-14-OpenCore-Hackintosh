@@ -23,7 +23,6 @@
 
 姐妹项目:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
   
-EFI下载地址：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
 如果你遇到了什么问题（与安装无关的），有可能在这里找到答案：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
 
@@ -255,12 +254,9 @@ matebook13 2019 i7-8565u mx250 sn720
 
 
 
-## 安装教程：  
+## 有关安装：  
 
-**以下的文字可点击后查看详情**  
 
-<details>  
-<summary>⚠️说明（一定先读这个）</summary>  
 
 ⚠️事前准备：f2进bios，调成中文，然后关闭一切带有“安全”的东西，保存，退出  
 镜像下载链接：https://blog.daliansky.net/  
@@ -272,28 +268,8 @@ matebook13 2019 i7-8565u mx250 sn720
 3. EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 4. **⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
 
-</details>  
+5.关于从Catalina通过OTA的方式升级到Bigsur
 
-
-     
-<details>  
-<summary>点击查看安装视频教程</summary>
-⚠️事前准备：f2进bios，调成中文，然后关闭一切带有“安全”的东西，保存，退出  
-  
-https://www.bilibili.com/video/BV15p4y1x7gY?from=search&seid=14693146194484732496  
-
-EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
-
-**⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
-
-</details>  
-  
-  
-
-<details>  
-<summary>关于从Catalina通过OTA的方式升级到Bigsur</summary>  
- ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️   
-  
 先说结论：【可行】  
 
 记得先把EFI文件从Catalina的换成我[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)里的Bigsur的以后改一下你自己定制的三码就行了  
@@ -301,7 +277,7 @@ EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releas
 记得ota前解锁一下cfg  
 
 
-</details>  
+
 
 
 
