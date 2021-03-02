@@ -169,7 +169,6 @@ bigsur跟catalina需要对号入座，不可串着用
 2.添加了保险文件（WRCOVERY.BIN）  
 用法：放入esr分区，与EFI文件夹并列即可
 
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/recovery.png?raw=true)
 </details>
 
 
@@ -264,8 +263,6 @@ matebook13 2019 i7-8565u mx250 sn720
 1. 想安装bigsur的安装前要先解锁一下cfg，防止出现一些问题  
 
 2. 关于三星pm981硬盘的版本 [点击查看教程](https://github.com/wendao2008/Matebook-D14-2020-hackintosh-Pm981/blob/main/README.md)  
-
-3. EFI下载：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
 
 **⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
