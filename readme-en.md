@@ -247,7 +247,7 @@ Thanks [@Francisco Novoa(from Chile🇨🇱)](https://t.me/hackintosh_matebook13
   
 1.DO NOT BOOT YOUR WINDOWS OR OTHER OS WITH OpneCore.  
 you may lose your Genuine license,except you know how to inject your own correct UUID/MLB/SN in config.plist.  
-it is not 100% happen,but it is still risky.  
+it is not 100% happened issue,but it is still risky.  
 you should just set Macos as defaul boot at OpenCore with pressing ctrl + enter to choose Mac partition.  
 and edit config to disable "showpicker" which is at EFI/OC.  
 then press F12 immediately after you press power button,and choose the option named like "windows xxxx" to boot windows with original uefi bootloader.  
@@ -381,9 +381,9 @@ And you will get a perfect power management
 <details>  
 <summary>Change dvmt to 64mb</summary>  
     
-our dvmt is 32m in defult,and it just support hdmi to 4k30p  
+our dvmt is 32mb in defult,and it just support hdmi output to 4k30p  
 
-and you can get 4k60p hdmi work after you unlock dvmt to 64m  
+and you can get 4k60p hdmi output work after you unlock dvmt to 64mb  
 
 basically same as my cfg guide  
 
