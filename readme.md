@@ -124,10 +124,7 @@ bigsur跟catalina需要对号入座，不可串着用
 添加了配置好的clover的efi文件用于安装，虽然也可以用这个clover文件复制到esp分区用于引导   
 但是强烈建议使用oc的efi引导你的hackintosh  
 
-- 20200709:  
-1.更改了三码  
-2.添加了保险文件（WRCOVERY.BIN）  
-用法：放入esr分区，与EFI文件夹并列即可
+
 
 </details>
 
@@ -139,7 +136,7 @@ bigsur跟catalina需要对号入座，不可串着用
  
  
 <details>  
-<summary>1.蓝牙（无需热启动）</summary>   
+<summary>1.蓝牙</summary>   
   
 驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
 1. 华为的蓝牙鼠标不可用！！！  
