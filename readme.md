@@ -215,11 +215,12 @@ matebook13 2019 i7-8565u mx250 sn720
 
 
 ⚠️事前准备：f2进bios，调成中文，然后关闭一切带有“安全”的东西，保存，退出  
+
+
 镜像下载链接：https://blog.daliansky.net/  
 
-1. 想安装bigsur的安装前要先解锁一下cfg，防止出现一些问题  
-
-2. 关于三星pm981硬盘的版本 [点击查看教程](https://github.com/wendao2008/Matebook-D14-2020-hackintosh-Pm981/blob/main/README.md)  
+OC官方教程:https://dortania.github.io/OpenCore-Install-Guide/  
+  
 
 
 **⭐️如果你不会安装，需要安装服务，** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
