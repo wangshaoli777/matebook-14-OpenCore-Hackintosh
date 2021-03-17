@@ -49,7 +49,7 @@ EFI配置ファイル download：[releases](https://github.com/ske1996/matebook-
 <summary>ここをクリック(⚠️これを先に読んでください)</summary>  
 
 - 20210317:  
-I wont upgrade anything until it will be necessary to do(likes apple changed their secure boot policy,so you have to use latest opencore to boot etc.),it still works well on even lastest version of macos 11.2.3(when i wrote this). so,see you in next nacessary-upgrade version.  
+I wont upgrade anything until it will be necessary to do(likes apple changed their secure boot policy,so you have to use latest opencore to boot etc.),it still works well on even lastest version of macos 11.2.3(when i wrote this). so,see you in next necessary-upgrade version.  
 
 
 - 20210130:  
