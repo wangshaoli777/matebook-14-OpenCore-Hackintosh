@@ -47,7 +47,11 @@ EFI配置ファイル download：[releases](https://github.com/ske1996/matebook-
 ## アップデート履歴:  
 <details>  
 <summary>ここをクリック(⚠️これを先に読んでください)</summary>  
-  
+
+- 20210317:  
+I wont upgrade anything until it is nacessary(likes apple changed their secure boot policy,so you have to use latest opencore to boot etc.),it still works well on even lastest version of macos 11.2.3(when i wrote this). so,see you in next nacessary-upgrade version.  
+
+
 - 20210130:  
 全てのBigSurバージョンのEFIに含まれているOpenCoreを0.6.5にアップグレードしました，一部のkextもアップグレードしました，さらにboot chimeをオンにしました。 
 
