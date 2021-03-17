@@ -310,7 +310,7 @@ You should lock your resolution to 1343x895 at setting since you enabled HiDPI.O
 *Attention⚠️you should select resolution like left part of this photo(1343x895 under the monitor),but the correct button(right part of photo) maybe not same as this photo.   
 
 
-![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5q01OKCJFpwjG8DeWk34ZAlT4PiIkTwV7VOQNDBpBB7OkqG1Id2.r35y0gnRAtugvhPBj1i6J0*cx1bGL996lhQ!/b&bo=NAV8AwAAAAADB2w!&rf=viewer_4)  
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/HIDPI.png?raw=true)  
 
 *Attention⚠️you should select resolution like left part of this photo(1343x895 under the monitor),but the correct button(right part of photo) maybe not same as this photo.  
 
@@ -370,7 +370,7 @@ Btw.DO NOT use opencore to boot what i uploaded
 
 You should use that usb stick to boot again for check the change is saved  
 then use [propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip) to change kernel/add/quirks which is at EFI/OC/config.plist of ESP partition as this picture 
-![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/ruAMsa53pVQWN7FLK88i5mhOVTuQ0sSbBPmet1ZSU1zDz7zUBccaFytwrKxAqPz4ygQph98Mo9E5.JjYf6DFuuWhDZs8DFFN1ujnFI9OIz4!/b&bo=wASKAwAAAAADB28!&rf=viewer_4)  
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/cfgunlosk.png?raw=true)  
 
 That is all of how to unlock cfg in matebook13 2019  
 
@@ -403,7 +403,7 @@ then crtl and w to save the change
 You should use that usb stick to boot again for check the change is saved  
 then use [propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip) to change DeviceProperties/Add/PciRoot(0x0)/Pci(0x2,0x0) which is at EFI/OC/config.plist of ESP partition as this picture 　
 ⚠️This setting of config.plist is just for matebook 13 2018-2019(maybe it works for 2020ver,too)  
-![image](http://m.qpic.cn/psc?/V51Uqo3Z3KmDDj0bhEZH0ySaLy25K537/45NBuzDIW489QBoVep5mcbvyqMw5*Y0jP8mcu7Ee3hom9v.4vLrclVXlW1qZQR3tuWj.fDrSEOF5cBubLM5p6joREA5a6pqrLmFG0msz5yg!/b&bo=0AQsAgAAAAADJ*g!&rf=viewer_4)  
+![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/dvmt64config.png?raw=true)  
   
 [the inspiration of this guide from @laozhiang](https://github.com/laozhiang)  
   
