@@ -56,7 +56,7 @@ A telegram group in ：https://t.me/hackintosh_matebook13
 <summary>click for details</summary>  
  
 - 20210317:  
-I wont upgrade anything until it is nacessary(likes apple changed their secure boot policy so you have to use latest opencore to boot etc.),it still works well on even lastest version of macos 11.2.3(when i wrote this). so,see you in next nacessary-upgrade version.  
+I wont upgrade anything until it is nacessary(likes apple changed their secure boot policy,so you have to use latest opencore to boot etc.),it still works well on even lastest version of macos 11.2.3(when i wrote this). so,see you in next nacessary-upgrade version.  
  
 - 20210130:  
 Upgraded all Bigsur version's EFI to OpenCore 0.6.5，Upgraded some kexts to latest version，and added boot chime. 
