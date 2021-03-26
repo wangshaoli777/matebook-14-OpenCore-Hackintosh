@@ -382,9 +382,9 @@ basically same as my cfg guide
 
 use that bootx64.efi from cfgunlock.zip,copy it to EFI/BOOT in your usb stick and boot with it  
 
-after you boot press alt and = at same time in usa version keyboard  
+after you boot with that usb stick,press alt and = at same time in usa version keyboard  
 
-use pagedown to find SaSetup and getin to it  
+use "pagedown" to find SaSetup and get into it  
 
 then press crtl and pgdown ,your screen will like that picture  
 ![image](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/%E6%9D%82%E9%A1%B9/dvmt64.bmp)  
