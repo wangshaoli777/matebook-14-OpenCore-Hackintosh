@@ -284,8 +284,8 @@ Catalina：https://github.com/xzhih/one-key-hidpi
 自分の例：  
 1. enable HiDPi (with patch/inject EDID)ーーーーーーー 一番目のステップで"2"を選んで下さい
 2. macbook pro   
-3. input 6    
-4. input  1600x1066 1343x895 2160x1440  
+3. 6番目のオプションを選ぶ    
+5. ”1600x1066 1343x895 2160x1440”をこのままに入力  
 
 
 HiDPIをオンにしてから、システム環境設定/ディスプレイで解析度を1343x895に設定し、永遠にこの解析度に固定してくだい、他の解析度に設定しますと、BUGが出てきます。
