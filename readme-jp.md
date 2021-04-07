@@ -4,7 +4,7 @@
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
 
-**HUAWEI社のMateBookシリーズのPCでMacOSをほぼ完璧に稼働させる手順及び必要な配置ファイルが含まれています。**  
+**HUAWEI社のMateBookシリーズのPCでMacOSをほぼ完璧に稼働させる手順及び必要なBOOTファイルが含まれています。**  
 
 
 
@@ -22,7 +22,7 @@ issueなどの提出には日本語でokay!
 Report & Feedback：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
 
 
-EFI配置ファイル download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
+EFIファイル download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
 
 
