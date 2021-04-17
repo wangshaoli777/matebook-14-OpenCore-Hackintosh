@@ -158,7 +158,7 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 5. TrackPad  
  
 
-6. Perfect power management(after disable CFG Lock)  
+6. Perfect power management(after CFG Lock disabled)  
 
 7. IGPU(UHD620)  
 
