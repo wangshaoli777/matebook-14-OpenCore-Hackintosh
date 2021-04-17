@@ -155,7 +155,7 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 
  </details>   
  
-5. TrackPad *click this
+5. TrackPad  
  
 
 6. Perfect power management(after disable CFG Lock)  
