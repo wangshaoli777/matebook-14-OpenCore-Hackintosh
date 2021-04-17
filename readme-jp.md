@@ -263,7 +263,7 @@ From Heporis:  　　
 https://github.com/randomprofilename/ComboJack
 
 
-1.私の倉庫から[ComboJack-master.zip(クリック)](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ComboJack-master.zip)をダウンロード  
+1.このrepoから[ComboJack-master.zip(クリック)](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ComboJack-master.zip)をダウンロード  
 2.ターミナルでComboJack_Installer/install.shを実行します  
 3.再起動します
   
