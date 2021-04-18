@@ -21,8 +21,6 @@ readme in other language：
 **⭐️如果你不会安装，需要安装服务，可以解决PM981问题** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.45e51debf0yJ4n&ft=t&id=638314994173)  
 
 
-[点进这里查看演示视频](https://www.bilibili.com/video/bv18z4y1U7rz)  
-
 <details>  
 <summary>⭐️点击查看使用效果</summary>  
   
