@@ -223,6 +223,7 @@ matebook13 2019 i7-8565u mx250 sn720
 
 ⚠️事前准备：f2进bios，调成中文，然后关闭一切带有“安全”的东西，保存，退出  
 
+OpenCore Boot EFI files[![Download from https://github.com/ske1996/matebook-13-2019-oc-efi/releases](https://img.shields.io/github/v/release/matebook-13-2019-oc-efi?label=Download)](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)
 
 镜像下载链接：https://blog.daliansky.net/  
 
