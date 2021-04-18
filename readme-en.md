@@ -17,15 +17,7 @@ readme in other language:
 
 Sister project:[Matebook-D14-2020-OpenCore 黑苹果 hackintosh  ](https://github.com/ske1996/Matebook-D14-2020-hackintosh)  
 
-<details> 
-<summary>appology to: @Edoardo001 </summary>  
- 
-very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)on test bigsur(beta),and i am so sorry for wasted his time,because of i did a totally wrong EFI for testing bigsur,my apology.  
- 
- </details>  
 
-**Now:you can use those EFI files to boot both catalina and bigsur now.it works stably.**  
-  
 <details>  
 <summary>⭐️click this to check how macos works on matebook 13</summary>  
  
@@ -41,10 +33,10 @@ very much thanks to [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hack
 
 </details>   
 
-Report & Feedback：[issues](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
+Report & Feedback：[![issue](https://img.shields.io/github/issues/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
 
   
-EFI download：[releases](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
+EFI download：[![Download](https://img.shields.io/badge/OpenCore%20EFI%20files%20download-4.2k-blue)](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
 **If you Star my repo (click star⭐️ at upper right of this page), I will so happy.**  
 
