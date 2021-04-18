@@ -1,5 +1,10 @@
 # matebook-13/14-2019/2020-OpenCore-EFI  ハッキントッシュ  
 
+  
+[![issue](https://img.shields.io/github/issues/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  [![forks](https://img.shields.io/github/forks/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/network/members) [![star](https://img.shields.io/github/stars/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/stargazers) 
+
+
+
 他言語（readme in other language）：  
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
