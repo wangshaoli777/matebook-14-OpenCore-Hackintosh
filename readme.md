@@ -1,6 +1,6 @@
 # matebook-13/14-2019/2020-OpenCore 黑苹果 hackintosh 
   
-[![issue](https://img.shields.io/github/issues/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  [![forks](https://img.shields.io/github/forks/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/network/members) [![star](https://img.shields.io/github/stars/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/stargazers) 
+[![issue](https://img.shields.io/github/issues/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  [![forks](https://img.shields.io/github/forks/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/network/members) [![star](https://img.shields.io/github/stars/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/stargazers) [![Download](https://img.shields.io/badge/OpenCore%20EFI下载-4.2k-blue)](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)  
 
 
   
