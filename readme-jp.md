@@ -9,7 +9,7 @@
 [中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
 
 
-**HUAWEI社のMateBookシリーズのPCでMacOSをほぼ完璧に稼働させる手順及び必要なBOOTファイルが含まれています。**  
+**HUAWEI社のMateBookシリーズのlaptopでApple社のMacOSをほぼ完璧に稼働させる手順及び必要なBOOTファイルが含まれています。**  
 
 
 
