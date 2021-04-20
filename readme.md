@@ -143,7 +143,7 @@ bigsur跟catalina需要对号入座，不可串着用
 <details>  
 <summary>1.蓝牙</summary>   
   
-驱动作者[@zxystd](https://github.com/OpenIntelWireless/itlwm)  
+驱动作者[@zxystd](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)  
 1. 华为的蓝牙鼠标不可用！！！  
 2. 苹果的妙控2可用   
 3. 亲眼所见，微软设计师鼠标可用[淘宝链接](https://detail.tmall.com/item.htm?id=575557854943&spm=a1z09.2.0.0.119c2e8dUqx3iI&_u=bkg3nm2911&sku_properties=5919063:6536025)  
