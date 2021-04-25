@@ -46,7 +46,7 @@ EFI download：[![Download](https://img.shields.io/badge/OpenCore%20EFI%20files%
 <summary>ここをクリック(⚠️これを先に読んでください)</summary>  
 
 - 20210426:  
-OpenCore's version is still in 0.6.5,but I've rebulit all of EFI files,nolonger differentiate Catalina and BigSur of EFI files from right now,upgraded Airportitlwm to 1.3 stable,and added a property "force-online 01000000" to framebuffer    
+OpenCore's version is still in 0.6.5,but I've rebulit all of EFI files,no longer differentiate EFI files for Catalina and BigSur from right now,upgraded Airportitlwm to 1.3 stable,and added a property "force-online 01000000" to framebuffer    
 
 - 20210317:  
 I wont upgrade anything until it will be necessary to do(likes apple changed their secure boot policy,so you have to use latest opencore to boot etc.),it still works well on even lastest version of macos(11.2.3 when i wrote this). so,see you in next necessary-upgrade version.  
