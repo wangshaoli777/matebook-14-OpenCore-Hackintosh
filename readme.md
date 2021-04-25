@@ -319,7 +319,8 @@ ComboJack_Installer/install.sh
 
 BigSur：[点击下载](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/%EF%BC%88BigSur%E6%96%B9%E6%A1%882%EF%BC%89hidpi.zip)  
 Catalina：https://github.com/xzhih/one-key-hidpi
- 
+对于Catalina用户：你需要对EFI/OC/config.plist进行更改，具体是使用propertree打开后找到：NVRAM/add/7C436110..../csr-active-config的值改为E7030000，然后reset nvram后才可以进行接下去的步骤  
+
 
 我说下我的选择：  
 第一步选择 开启HiDPi（注入EDID）  
