@@ -182,14 +182,6 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 2. mx250/150/350（hopeless）
 
   
-## Info of my device     
-
-
-oc version:0.6.4  
-
-macos: BigSur 11.0.1 Public Release  
-
-matebook13 2019 i7-8565u mx250 sn720  
 
 
 ## About installation
