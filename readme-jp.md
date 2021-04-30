@@ -168,15 +168,6 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 3. 指紋認証  
 
 
-  
-## 自分のデバイス情報     
-
-oc version:0.6.4  
-
-macos: BigSur 11.0.1 Public Release  
-
-matebook13 2019 i7-8565u mx250 sn720  
-
 
 
 ## インストールの手順について：  
