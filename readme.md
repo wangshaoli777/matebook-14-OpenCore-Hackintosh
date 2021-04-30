@@ -210,17 +210,7 @@ bigsur跟catalina需要对号入座，不可串着用
 3. 指纹不能用（这个也是废话）  
 
 
-  
-## 个人设备版本信息等   
-
-
-oc version:0.6.4  
-
-macos: BigSur 11.0.1 Public Release  
-
-matebook13 2019 i7-8565u mx250 sn720  
-
-
+ 
 
 ## 有关安装：  
 
