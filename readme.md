@@ -512,10 +512,7 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 
     
     
-  
-  
-如果可用请在issues中提交你的机器信息（年份，cpu，matebook13还是14）  
-用于构建更好的efi
+ 
 
 ## 感谢：
 
