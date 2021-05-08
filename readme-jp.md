@@ -47,7 +47,7 @@ EFI download：[![Download](https://img.shields.io/badge/OpenCore%20EFI%20files%
 
 
 - 20210508:  
-changed some volumn in boot-args and framebuffer，try to optimize drm and sidecar.   
+changed some value in boot-args and framebuffer，try to optimize drm and sidecar.    
 
 - 20210426:  
 OpenCore's version is still in 0.6.5,but I've rebulit all of EFI files,no longer differentiate EFI files for Catalina or BigSur from right now,upgraded Airportitlwm to 1.3 stable,and added a property "force-online 01000000" to framebuffer    
