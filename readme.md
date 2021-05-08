@@ -53,6 +53,8 @@ readme in other language：
 <summary>点击以查看详细信息</summary>  
   
 
+- 20210508:  
+oc版本为0.6.5，微调缓冲帧以及csr-bootargs，尝试优化drm以及sidecar问题。  
 
 - 20210426:  
 oc版本依旧0.6.5，重新整合了一下各个efi，从现在开始不再去区分Catalina和BigSur，更新Airportitlwm至1.3 stable，另外缓冲帧加上了force-online参数   
