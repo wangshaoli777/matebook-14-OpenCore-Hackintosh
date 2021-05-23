@@ -194,7 +194,7 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 
 <details>  
 <summary>⚠️Preprocessing：inject SSN,UUID,ROM,MLB (click for details)</summary>  
-There were lots of people who install MacOS without injecting his "SSN,UUID,ROM,MLB" at frist,and that caused Apple service of his apple id be blocked.  
+There were lots of people who install MacOS without injecting his "SSN,UUID,ROM,MLB" at frist,and that caused Apple service of his apple id blocked.  
 So,I made some changes that if you dont inject your "SSN,UUID,ROM,MLB" at frist,you can boot your hackintosh or installing-processing.  
 Google how to do it by yourself.    
 But I provide a config editor:  
