@@ -193,6 +193,22 @@ so,if your device's hdmi works,strongly recommand to NOT change anything of conf
 ## About installation
 
 <details>  
+<summary>⚠️Preprocessing：inject SSN,UUID,ROM,MLB (click for details)</summary>  
+There were lots of people who install MacOS without injecting his "SSN,UUID,ROM,MLB" at frist,and that caused Apple service of his apple id be blocked.  
+So,I made some changes that if you dont inject your "SSN,UUID,ROM,MLB" at frist,you can boot your hackintosh or installing-processing.  
+Google how to do it by yourself.    
+But I provide a config editor:  
+  
+[ProperTree-windows.zip](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree-windows.zip)  
+[Propertree-macos](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)   
+
+
+  
+  
+</details> 
+
+
+<details>  
 <summary> How to install：</summary> 
 
 A perfect guide in:  
@@ -202,7 +218,6 @@ https://dortania.github.io/vanilla-laptop-guide/preparations/installer-overview.
 
 
 </details>  
-
 
 
 <details>  
