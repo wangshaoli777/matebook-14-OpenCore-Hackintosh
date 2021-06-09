@@ -162,7 +162,7 @@ My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/i
 </details> 
 
 
-**Supported BigSur already**  
+**Supported BigSur and Monterey already**  
 
 ## Works fine：
   
