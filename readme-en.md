@@ -406,10 +406,8 @@ change 0107 to 2 and 0108 to 3
 then crtl and w to save the change  
 
 You should use that usb stick to boot again for check the change is saved  
-then use [propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip) to change DeviceProperties/Add/PciRoot(0x0)/Pci(0x2,0x0) which is at EFI/OC/config.plist of ESP partition as this picture 　
-⚠️This setting of config.plist is just for matebook 13 2018-2019(maybe it works for 2020ver,too)  
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/dvmt64config.png?raw=true)  
-  
+At last,dont forget to remove these three properties which are named “framebuffer-fbmem” “framebuffer-stolenmem” “framebuffer-unifiedmem” in framebuffer part of config.plist with [propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip).  
+
 [the inspiration of this guide from @laozhiang](https://github.com/laozhiang)  
   
 
