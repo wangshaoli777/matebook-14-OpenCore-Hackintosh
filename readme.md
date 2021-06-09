@@ -47,21 +47,6 @@ readme in other language：
 
 如果你遇到了什么问题,有可能在这里找到答案：[![issue](https://img.shields.io/github/issues/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)    
 
-<details>  
-<summary>关于引导MacOS 12 Monterey</summary>  
-先说结论：可，无论是OTA升级，或者是全新安装。  
-微调一下config就行，不需要更新东西。
-编辑config，给boot-args加上-lilubetaall，然后在kernel/add里禁用wifi驱动以及两个蓝牙驱动，做完后记得reset nvram。  
-就可以去按照apple所要求的流程去OTA了。  
-
-蓝牙Wi-Fi暂时没法用，其他都还好。  
-
-具体参考：[我更新的经验以及效果](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
-
-
-   
-</details> 
-
 
 **请在这个网页的最右上角帮我点颗小星星⭐️哟**  
 
@@ -155,7 +140,27 @@ bigsur跟catalina需要对号入座，不可串着用
 
 
 
-</details>
+</details>  
+
+</details>   
+
+<details>  
+<summary>关于引导MacOS 12 Monterey</summary>  
+先说结论：可，无论是OTA升级，或者是全新安装。  
+  
+微调一下config就行，不需要更新东西。  
+
+编辑config，给boot-args加上-lilubetaall，然后在kernel/add里禁用wifi驱动以及两个蓝牙驱动，做完后记得reset nvram。  
+
+就可以去按照apple所要求的流程去OTA了。  
+
+蓝牙Wi-Fi暂时没法用，其他都还好。  
+
+具体参考：[我更新的经验以及效果](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
+
+
+   
+</details>   
 
 
 ## 正常可用的部件：
