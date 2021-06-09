@@ -50,7 +50,8 @@ EFI download：[![Download](https://img.shields.io/badge/OpenCore%20EFI%20files%
 <details>  
 <summary>About booting MacOS 12 Monterey</summary>  
 
-【Yes,we can boot it.】 
+【Yes,we can boot it.】  
+
 Whatever you want to upgrade your hackintosh from BigSur,or new-installing.
 
 Just edit config.plist,to add "-lilubetaall" at boot-args and disable "airportitlwm" and that two bluetooth kexts at kernel/add,  
