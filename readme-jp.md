@@ -45,7 +45,26 @@
 Report & Feedback：[![issue](https://img.shields.io/github/issues/ske1996/matebook-13-2019-oc-efi?style=plastic)](https://github.com/ske1996/matebook-13-2019-oc-efi/issues)  
 
   
-EFI download：[![Download](https://img.shields.io/badge/OpenCore%20EFI%20files%20download-4.2k-blue)](https://github.com/ske1996/matebook-13-2019-oc-efi/releases)         
+EFI download：[![Download](https://img.shields.io/badge/OpenCore%20EFI%20files%20download-4.2k-blue)](https://github.com/ske1996/matebook-13-2019-oc-efi/releases) 
+
+<details>  
+<summary>About booting MacOS 12 Monterey</summary>  
+
+【Yes,we can boot it.】
+Whatever you want to upgrade your hackintosh from BigSur,or new-installing.
+
+Just edit config.plist,to add -lilubetaall at boot-args and disable "airportitlwm" and that two bluetooth kexts at kernel/add,  
+and reset nvram.  
+then OTA(install) it with apple's guide.  
+
+Bluetooth and wifi dont work,other things just fine.
+
+My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
+
+
+   
+</details> 
+
 
 ## アップデート履歴:  
 <details>  
