@@ -406,12 +406,8 @@ crtl+pagedownで次のページに変更する
 5. Crtl+wで保存  
 
 このあとはもう一度そのUSBメモリで起動し、修正した部分がちゃんとできたどうかをチェックする。  
-そして[propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)を利用し、ESP partitionでEFI/OC/config.plistのDeviceProperties/Add/PciRoot(0x0)/Pci(0x2,0x0)を以下のようにチェンジすることをおすすめ：  
 
-⚠️以下のconfig設定はmatebook 13 2018-2019だけに対応している  
-
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/dvmt64config.png?raw=true)  
-  
+At last,dont forget to remove these three properties which are named “framebuffer-fbmem” “framebuffer-stolenmem” “framebuffer-unifiedmem” in framebuffer part of config.plist with [propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip).  
   
 このdvmtガイドは[@laozhiang](https://github.com/laozhiang)の発想に基づき、完成したものである  
   
