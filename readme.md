@@ -426,11 +426,7 @@ https://zhuanlan.zhihu.com/p/121655468
 
 
 修改完成后可以再用那个u盘引导启动一次，查看是否修改成功  
-然后我建议使用[propertree](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/ProperTree.zip)修改EFI分区中的EFI/OC/config.plist的DeviceProperties/Add/PciRoot(0x0)/Pci(0x2,0x0)为下图所示  
-
-⚠️以下的config的设置仅仅针对matebook 13 2018-2019  
-
-![image](https://github.com/ske1996/matebook-13-2019-oc-efi/blob/master/%E6%9D%82%E9%A1%B9/dvmt64config.png?raw=true)  
+最后记得用propertree去修改一下config，移除里面缓冲帧的“framebuffer-fbmem”，“framebuffer-stolenmem”，“framebuffer-unifiedmem”这三个条目。  
 
 
   
