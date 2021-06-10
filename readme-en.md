@@ -153,7 +153,7 @@ Just edit config.plist,to add "-lilubetaall" at boot-args and disable "airportit
 and reset nvram.  
 then OTA(install) it with apple's guide.  
 
-Bluetooth and wifi dont work,other things just fine.
+Bluetooth doesnt work,other things just fine.
 
 My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
 
