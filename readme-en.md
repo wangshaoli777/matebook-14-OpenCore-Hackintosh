@@ -165,17 +165,27 @@ My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/i
 **Supported BigSur and Monterey already**  
 
 ## Works fine：
-  
-  
-1. Bluetooth  
 
+**click "Bluetooth" and "HDMI" for more information**    
+
+<details>  
+<summary>1.Bluetooth</summary>   
+  
+Thanks[@zxystd](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)  
+1. HUAWEI bluetooth mouse doesnt work.   
+2. Airpods works,but need pairing.    
+
+A list of workable bluetooth mouse:https://github.com/ske1996/matebook-13-2019-oc-efi/issues/156  
+
+
+</details>   
 2. WIFI  
 
 
 3. Sleep-Wakeup
 
 <details>  
-<summary>4. HDMI *click this</summary>   
+<summary>4. HDMI</summary>   
   
 ⭕️MataBook 13 2018-2020 you dont have to do anything  
 ❌MataBook 14 2019-2020 the Framebuffer part of config.plist ⇨ should be changed to this：[Plan A](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49) |  [Plan B](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/121)   
