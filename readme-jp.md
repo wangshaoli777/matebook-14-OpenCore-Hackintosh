@@ -156,14 +156,27 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 ## 正常に動作できるもの：
 
-1.ブルートゥース  
-
-2.wifi  
-
-3.sleep-wakeup  
+**click "Bluetooth" and "HDMI" for more information**    
 
 <details>  
-<summary>4.HDMI *ここをクリック</summary>   
+<summary>1.ブルートゥース</summary>   
+  
+Thanks[@zxystd](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)  
+1. HUAWEI bluetooth mouse doesnt work.   
+2. Airpods works,but need pairing.    
+
+A list of workable bluetooth mouse:https://github.com/ske1996/matebook-13-2019-oc-efi/issues/156  
+
+
+</details>   
+
+
+2. wifi  
+
+3. sleep-wakeup  
+
+<details>  
+<summary>4.HDMI</summary>   
   
 ⭕️MataBook 13 2018-2020 そのまま使えます。  
 ❌MataBook 14 2019-2020 config.plistのFramebuffer部分を この内容に変更する必要があり：[Plan A](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49) |  [Plan B](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/121)   
@@ -171,19 +184,19 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
  </details>   
  
-5.トラックパッド  
+5. トラックパッド  
 
-6.パワーマネジメント  
+6. パワーマネジメント  
 
-7.GPU(UHD 620)  
+7. GPU(UHD 620)  
 
-8.CPU Boost  
+8. CPU Boost  
 
-9.USB Mapping　　
+9. USB Mapping　　
 
-10.ホットキー(brightness and sound)  
+10. ホットキー(brightness and sound)  
 
-11.audio jack  
+11. audio jack  
 
 
   
