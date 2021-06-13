@@ -193,7 +193,9 @@ bigsur跟catalina需要对号入座，不可串着用
 3. Airdrop和无线的随航不可用，随航需要插线用，handoff可用但有时不太稳定，可以用apple watch解锁mac，但是有时不稳定  
 4. Wi-Fi觉得不好使的去上面我写出来的作者的repo里更新驱动
 5. Wi-Fi连接要尽可能的去连5ghz的
-6. 从Windows切换过来MacOS发现wifi没法用就关机，10s后再开机
+6. 从Windows切换过来MacOS发现wifi没法用就关机，10s后再开机  
+7. 切换热点后发现没法用的话，设置/网络/Wi-Fi/关闭wifi，然后等10s后再打开，选下面的“网络名称”找到目标热点-链接，然后-设置/网络/wifi/高级/tcpip/续租dhcp。 
+
 
 </details>   
 
