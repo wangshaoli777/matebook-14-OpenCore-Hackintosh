@@ -140,6 +140,7 @@ add a clover efi for installing macos,
 this clover efi could be used to boot your hackintosh,too  
 But I strongly recommand to use opencore(oc) efi to boot your device.  
 
+</details>  
 
 <details>  
 <summary>About booting MacOS 12 Monterey</summary>  
@@ -159,12 +160,12 @@ My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/i
 
 
    
-</details> 
+</details>  
+
 
 
 **Supported BigSur and Monterey already**  
 
-**Supported BigSur and Monterey already**  
 
 ## Works fine：
 
