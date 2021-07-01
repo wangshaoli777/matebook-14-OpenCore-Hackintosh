@@ -145,22 +145,27 @@ bigsur跟catalina需要对号入座，不可串着用
 </details>   
 
 <details>  
-<summary>关于引导MacOS 12 Monterey</summary>  
-先说结论：可，无论是OTA升级，或者是全新安装。  
-  
-微调一下config就行，不需要更新东西。  
+<summary>About booting MacOS 12 Monterey</summary>  
 
-编辑config，给boot-args加上-lilubetaall，然后在kernel/add里禁用wifi驱动以及两个蓝牙驱动，做完后记得reset nvram。  
+【Yes,we can boot it.】  
 
-就可以去按照apple所要求的流程去OTA了。  
+Whatever you want to upgrade your hackintosh from BigSur,or new-installing.
 
-蓝牙Wi-Fi暂时没法用，其他都还好。  
+need to do:  
+upgrade your lilu and replace your airportitlwm and intelbluetoothfirmware to lastest ones,
+disable intelbuletoothinjector and add bluetoolfix to oc/kexts/ and config.plist.
+then,OTA or new-installing your OS with apple's guide.
 
-具体参考：[我更新的经验以及效果](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
+Every thing works like in BigSur,but need to replace some kext.
+
+My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
 
 
    
-</details>   
+</details> 
+
+
+**Supported BigSur and Monterey already**  
 
 
 ## 正常可用的部件：
