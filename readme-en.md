@@ -141,7 +141,6 @@ this clover efi could be used to boot your hackintosh,too
 But I strongly recommand to use opencore(oc) efi to boot your device.  
 
 
-</details>  
 <details>  
 <summary>About booting MacOS 12 Monterey</summary>  
 
@@ -149,11 +148,12 @@ But I strongly recommand to use opencore(oc) efi to boot your device.
 
 Whatever you want to upgrade your hackintosh from BigSur,or new-installing.
 
-Just edit config.plist,to add "-lilubetaall" at boot-args and disable "airportitlwm" and that two bluetooth kexts at kernel/add,  
-and reset nvram.  
-then OTA(install) it with apple's guide.  
+need to do:  
+upgrade your lilu and replace your airportitlwm and intelbluetoothfirmware to lastest ones,
+disable intelbuletoothinjector and add bluetoolfix to oc/kexts/ and config.plist.
+then,OTA or new-installing your OS with apple's guide.
 
-Bluetooth doesnt work,other things just fine.
+Every thing works like in BigSur,but need to replace some kext.
 
 My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
 
@@ -161,6 +161,8 @@ My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/i
    
 </details> 
 
+
+**Supported BigSur and Monterey already**  
 
 **Supported BigSur and Monterey already**  
 
