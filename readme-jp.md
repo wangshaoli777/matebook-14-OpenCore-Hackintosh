@@ -47,28 +47,6 @@ Report & Feedback：[![issue](https://img.shields.io/github/issues/ske1996/mateb
   
 EFI download：[![Download](https://img.shields.io/badge/OpenCore%20EFI%20files%20download-4.2k-blue)](https://github.com/ske1996/matebook-13-2019-oc-efi/releases) 
 
-<details>  
-<summary>About booting MacOS 12 Monterey</summary>  
-
-【Yes,we can boot it.】  
-
-Whatever you want to upgrade your hackintosh from BigSur,or new-installing.
-
-need to do:  
-upgrade your lilu and replace your airportitlwm and intelbluetoothfirmware to lastest ones,
-disable intelbuletoothinjector and add bluetoolfix to oc/kexts/ and config.plist.
-then,OTA or new-installing your OS with apple's guide.
-
-Every thing works like in BigSur,but need to replace some kext.
-
-My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
-
-
-   
-</details> 
-
-
-**Supported BigSur and Monterey already**  
 
 
 ## アップデート履歴:  
@@ -156,7 +134,28 @@ wifiのkextはload不能,他の部分は 2019 version,と同じでうまう動�
 opencore(oc) efiを使ってマックOSをbootすることをお勧めします.  
 
 </details>  
-すでにmacos 11 Bigsurにサポートしました  
+<details>  
+<summary>About booting MacOS 12 Monterey</summary>  
+
+【Yes,we can boot it.】  
+
+Whatever you want to upgrade your hackintosh from BigSur,or new-installing.
+
+need to do:  
+upgrade your lilu and replace your airportitlwm and intelbluetoothfirmware to lastest ones,
+disable intelbuletoothinjector and add bluetoolfix to oc/kexts/ and config.plist.
+then,OTA or new-installing your OS with apple's guide.
+
+Every thing works like in BigSur,but need to replace some kext.
+
+My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
+
+
+   
+</details> 
+
+
+**Supported BigSur and Monterey already**  
 
 ## 正常に動作できるもの：
 
