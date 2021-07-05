@@ -19,6 +19,8 @@ readme in other language：
 ```  
 
 **⭐️如果你不会安装，需要安装服务，可以解决PM981问题** [点击进入我的淘宝店铺](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.50111debVBs2EB&ft=t&id=647902517258)  
+**另：来淘宝找我问问题是要收钱的，找我前先想好你愿不愿意花钱。**
+
 
 
 <details>  
