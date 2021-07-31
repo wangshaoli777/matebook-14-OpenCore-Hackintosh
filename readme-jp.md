@@ -159,7 +159,7 @@ My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/i
 
 ## 正常に動作できるもの：
 
-**click "Bluetooth" and "HDMI" for more information**    
+**click "Bluetooth" for more information**    
 
 <details>  
 <summary>1.ブルートゥース</summary>   
@@ -178,15 +178,8 @@ A list of workable bluetooth mouse:https://github.com/ske1996/matebook-13-2019-o
 
 3. sleep-wakeup  
 
-<details>  
-<summary>4.HDMI</summary>   
-  
-⭕️MataBook 13 2018-2020 そのまま使えます。  
-❌MataBook 14 2019-2020 config.plistのFramebuffer部分を この内容に変更する必要があり：[Plan A](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49) |  [Plan B](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/121)   
-ただし、MataBook 14ではそのままに使えるケースもありますので、もしHDMIに問題がなければ、config.plistを編集しないのがおすすめです。  
+4.HDMI  
 
- </details>   
- 
 5. トラックパッド  
 
 6. パワーマネジメント  
