@@ -169,7 +169,7 @@ My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/i
 
 ## Works fine：
 
-**click "Bluetooth" and "HDMI" for more information**    
+**click "Bluetooth" and "WIFI" for more information**    
 
 <details>  
 <summary>1.Bluetooth</summary>   
@@ -183,8 +183,13 @@ A list of workable bluetooth mouse:https://github.com/ske1996/matebook-13-2019-o
 
 </details>   
 
-2. WIFI  
+<details>  
+<summary>2. WIFI</summary>  
+Thanks[@zxystd](https://github.com/OpenIntelWireless/itlwm),he is developer of wifi kext.   
 
+If you fot any problem on wifi,upgrade your kext named like airportitlwm or itlwm is what i recommand to do.
+
+</details>   
 
 3. Sleep-Wakeup
 
