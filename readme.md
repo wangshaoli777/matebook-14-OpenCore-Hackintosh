@@ -170,12 +170,12 @@ My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/i
 
 ## 正常可用的部件：
   
-**以下的【蓝牙】【WIFI】【HDMI】的文字可点击后查看详情**  
+**以下的【蓝牙】【WIFI】的文字可点击后查看详情**  
 
  
  
 <details>  
-<summary>1.蓝牙</summary>   
+<summary>1. 蓝牙</summary>   
   
 驱动作者[@zxystd](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)  
 1. 华为的蓝牙鼠标不可用！！！  
@@ -188,7 +188,7 @@ My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/i
 
   
 <details>  
-<summary>2.WIFI</summary>  
+<summary>2. WIFI</summary>  
   
 1. 使用了Z大的最新AirportItlwm的wifi驱动，跟heliport说拜拜啦  
 
@@ -204,30 +204,22 @@ My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/i
 
 </details>   
 
-3.睡眠正常
+3. 睡眠正常
 
-<details>  
-<summary>4.HDMI </summary>   
-  
-⭕️MataBook 13 2018-2020 什么都不用改  
-❌MataBook 14 2019-2020 需要修改缓冲帧 点击右侧查看需要修改的内容：[Plan A](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/49) |  [Plan B](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/121)   
-但是不是100%都需要改，我也见过一些没有更改缓冲帧部分就能很好驱动的案例，按需吧，不一定  
+4. HDMI 
+5. 触摸板正常
 
- </details>   
+6. 完美原生电源管理
 
-5.触摸板正常
+7. 核显
 
-6.完美原生电源管理
+8. CPU变频
 
-7.核显
+9. USB定制
 
-8.CPU变频
+10. 键盘快捷键正常  
 
-9.USB定制
-
-10.键盘快捷键正常  
-
-11.耳机接口以及声卡扬声器正常 layout:21  
+11. 耳机接口以及声卡扬声器正常 layout:21  
   
 ## 无法正常工作的部件：  
 
