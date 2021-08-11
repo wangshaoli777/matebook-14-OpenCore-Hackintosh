@@ -185,7 +185,7 @@ Thanks[@zxystd](https://github.com/OpenIntelWireless/itlwm)
   
 he is developer of wifi kext.   
 
-If you fot any problem on wifi,upgrade your kext named like airportitlwm or itlwm is what i recommand to do.
+If you got any problem on wifi,upgrade your kext named like airportitlwm or itlwm is what i recommand to do.
 
 </details>   
 
