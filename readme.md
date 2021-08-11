@@ -149,21 +149,11 @@ bigsur跟catalina需要对号入座，不可串着用
 </details>   
 
 <details>  
-<summary>About booting MacOS 12 Monterey</summary>  
+<summary>About MacOS 12 Monterey</summary>  
 
-【Yes,we can boot it.】  
-
-Whatever you want to upgrade your hackintosh from BigSur,or new-installing.
-
-need to do:  
-upgrade your lilu and replace your airportitlwm and intelbluetoothfirmware to lastest ones,
-disable intelbuletoothinjector and add bluetoolfix to oc/kexts/ and config.plist.
-then,OTA or new-installing your OS with apple's guide.
-
-Every thing works like in BigSur,but need to replace some kext.
-
-My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
-
+【Supported already】  
+**But just for Matebook 13 2018-2019 ver.**
+  
 
    
 </details> 
