@@ -56,7 +56,7 @@ readme in other language：
   
 
 - 20210811:【Just for MateBook 13 2018-2019 ver.】  
-upgrade all kexts to lastest version and add some extra properties for support macOS 12 Monterey in natively,and removed some old properties which are not necessary anymore.  
+upgrade all kexts to lastest version and add some extra properties for supporting macOS 12 Monterey natively,and removed some old properties which are not necessary anymore.  
   
   
 - 20210508:  
