@@ -55,6 +55,10 @@ readme in other language：
 <summary>点击以查看详细信息</summary>  
   
 
+- 20210811:【Just for MB13 2018-2019 ver.】  
+upgrade all kexts to lastest version and add some extra properties for support macOS 12 Monterey in natively,and deleted some old properties which are not necessary anymore.  
+  
+  
 - 20210508:  
 oc版本为0.6.5，微调缓冲帧以及boot-args，尝试优化drm以及sidecar问题。  
 
