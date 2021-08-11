@@ -53,8 +53,9 @@ EFI download：[![Download](https://img.shields.io/badge/OpenCore%20EFI%20files%
 <details>  
 <summary>ここをクリック(⚠️これを先に読んでください)</summary>  
 
+
 - 20210811:【Just for MateBook 13 2018-2019 ver.】  
-upgrade all kexts to lastest version and add some extra properties for support macOS 12 Monterey in natively,and removed some old properties which are not necessary anymore.  
+upgrade all kexts to lastest version and add some extra properties for supporting macOS 12 Monterey natively,and removed some old properties which are not necessary anymore.  
   
 - 20210508:  
 changed some value in boot-args and framebuffer，try to optimize drm and sidecar.    
