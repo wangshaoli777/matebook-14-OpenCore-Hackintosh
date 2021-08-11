@@ -53,7 +53,9 @@ EFI download：[![Download](https://img.shields.io/badge/OpenCore%20EFI%20files%
 <details>  
 <summary>ここをクリック(⚠️これを先に読んでください)</summary>  
 
-
+- 20210811:【Just for MateBook 13 2018-2019 ver.】  
+upgrade all kexts to lastest version and add some extra properties for support macOS 12 Monterey in natively,and removed some old properties which are not necessary anymore.  
+  
 - 20210508:  
 changed some value in boot-args and framebuffer，try to optimize drm and sidecar.    
 
@@ -135,24 +137,16 @@ opencore(oc) efiを使ってマックOSをbootすることをお勧めします.
 
 </details>  
 <details>  
-<summary>About booting MacOS 12 Monterey</summary>  
+<summary>About MacOS 12 Monterey</summary>  
 
-【Yes,we can boot it.】  
-
-Whatever you want to upgrade your hackintosh from BigSur,or new-installing.
-
-need to do:  
-upgrade your lilu and replace your airportitlwm and intelbluetoothfirmware to lastest ones,
-disable intelbuletoothinjector and add bluetoolfix to oc/kexts/ and config.plist.
-then,OTA or new-installing your OS with apple's guide.
-
-Every thing works like in BigSur,but need to replace some kext.
-
-My experience: [click this](https://github.com/ske1996/matebook-13-2019-oc-efi/issues/155)  
-
+【Supported already】  
+**But just for Matebook 13 2018-2019 ver.**
+  
 
    
 </details> 
+
+
 
 
 **Supported BigSur and Monterey already**  
