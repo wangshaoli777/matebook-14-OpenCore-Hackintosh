@@ -318,7 +318,7 @@ ComboJack_Installer/install.sh
  
 ⚠️Attention：  
 according to your OS version,the program which you will use is different.        
-BigSur：[click to download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/%EF%BC%88BigSur%E6%96%B9%E6%A1%882%EF%BC%89hidpi.zip)  
+Monterey & BigSur：[click to download](https://github.com/ske1996/matebook-13-2019-oc-efi/raw/master/Bigsur/%EF%BC%88BigSur%E6%96%B9%E6%A1%882%EF%BC%89hidpi.zip)  
 Catalina：https://github.com/xzhih/one-key-hidpi   
 To Catalina users：For enabling Hidpi,you need to edit EFI/OC/config.plist with propertree(could be downloaded in my repo),find：NVRAM/add/7C436110..../csr-active-config,and change its value to E7030000,then reset nvram,i did it for you in past version which differentiated EFI files to Catalina or BigSur,but I think integrate them will make my repo simpler,so for Catalina users:you need to do it by yourself from now.jajajaja  
 
