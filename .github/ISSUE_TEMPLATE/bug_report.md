@@ -23,7 +23,7 @@ CPU:
 RAM:  
 SSD model:
 MacOS version:   
-EFI version:
+Release version:
 
 **Describe the bug（问题简述）**
 A clear and concise description of what the bug is.
