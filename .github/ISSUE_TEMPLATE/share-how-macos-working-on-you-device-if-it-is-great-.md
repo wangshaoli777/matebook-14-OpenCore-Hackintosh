@@ -17,7 +17,7 @@ CPU:
 RAM:
 SSD:
 Macos Version：
-EFI Version:
+EFI release Version:
 
 Works fine:
 
