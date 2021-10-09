@@ -5,7 +5,7 @@
 
 
 readme in other language:  
-[中文🇨🇳](readme.md) | [日本語🇯🇵](readme-jp.md) | [English🇬🇧](readme-en.md)   
+[中文🇨🇳](readme.md) | [English🇬🇧](readme-en.md)   
 
 
 **Run Apple's macOS on HUAWEI MateBook series laptop stably and almost perfectly**  
