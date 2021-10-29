@@ -183,6 +183,10 @@ bigsur跟catalina需要对号入座，不可串着用
 <summary>1. 蓝牙</summary>   
   
 驱动作者[@zxystd](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)  
+合作开发者[@Bat](https://github.com/williambj1)  
+没有这二位，我们的蓝牙不会这么好用。特别是在Monterey后对于bluetoolfix的修改开发，非常惊艳。  
+我们应对这二位心存感激。  
+
 1. 华为的蓝牙鼠标不可用！！！  
 2. Airpods可以用，但是你得配对一次，我们又不是白苹果，不能开盖就用  
 
