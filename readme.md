@@ -62,6 +62,10 @@ readme in other language：
 <summary>点击以查看详细信息</summary>  
   
 
+- 20211029:
+弃坑。本repo将不再更新。acpi以及config中的参数已足够稳定，没什么可调的了，引导器以及内核扩展的升级任何人都可以自己做。  
+
+
 - 20210811:【Just for MateBook 13 2018-2019 ver.】  
 upgrade all kexts to lastest version and add some extra properties for supporting macOS 12 Monterey natively,and removed some old properties which are not necessary anymore.  
   
