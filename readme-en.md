@@ -60,8 +60,8 @@ A telegram group in ：https://t.me/hackintosh_matebook13
 <summary>click for details</summary>  
   
 
-- 20210811:【Just for MateBook 13 2018-2019 ver.】  
-upgrade all kexts to lastest version and add some extra properties for supporting macOS 12 Monterey natively,and removed some old properties which are not necessary anymore.  
+- 20210811:【Only for MateBook 13 2018-2019 ver.】  
+upgraded all kexts to lastest version and added some extra properties for supporting macOS 12 Monterey natively,and removed some old properties which are not necessary anymore.  
   
 - 20210508:  
 changed some value in boot-args and framebuffer，try to optimize drm and sidecar.    
@@ -90,16 +90,16 @@ deleted two fakepcid kexts and some other things，now efi is very clean，and t
 
 
 - 20200917:  
-upgrade oc to 0.6.1,and removed itlwm.kext,added AirportItlwm.kext,heliport is not necessary now  
+upgraded oc to 0.6.1,and removed itlwm.kext,added AirportItlwm.kext,heliport is not necessary now  
 you need to download correct version for efi,it according to your os version.   
  
 - 20200916:  
-delete more useless kext and ssdt,this version will take less ram,and upgrade opencore to 0.6.1  
+deleted more useless kext and ssdt,this version will take less ram,and upgraded opencore to 0.6.1  
 
  
  
 - 20200905:    
-added something interesting+SMCLightSensor.kext  
+added something interesting + SMCLightSensor.kext  
 
 
   
@@ -112,7 +112,7 @@ Rebuild some ssdt make it more compact.
 and you can use this efi boot both catalina and bigsur now.it is steadily and worked well.  
 
 - 20200806:  
-Upgrade OpenCore to official 0.6.0  
+Upgraded OpenCore to official 0.6.0  
 
 
 - 20200802:  
@@ -123,24 +123,24 @@ updated itlwmx.kext for 2020ver laptop,[click for download](https://github.com/s
 added public beta of itlwm.kext and heliport  
 
 - 20200725:  
-Support Macos 10.15.6  
+Supported Macos 10.15.6  
 
 - 20200724:  
-upgrade opencore to 0.5.9  
+upgraded opencore to 0.5.9  
 
 
 - 20200715:  
 audio jack fixed,thanks randomprofilename  
 
 - 20200712:  
-this efi could be used in matebook 13/14 2019  
+these EFI files could be used in matebook 13/14 2019  
 and under 2020 version likes:  
 except wifi couldnt be load,everything is as same as 2019 version,works fine.  
 the reason might be the 2020 version use 2gen ac9560,maybe can be fixed in future.
 
 
 - 20200710:  
-add a clover efi for installing macos,  
+added a clover version EFI for installing macos,  
 this clover efi could be used to boot your hackintosh,too  
 But I strongly recommand to use opencore(oc) efi to boot your device.  
 
@@ -150,7 +150,7 @@ But I strongly recommand to use opencore(oc) efi to boot your device.
 <summary>About MacOS 12 Monterey</summary>  
 
 【Supported already】  
-**But just for Matebook 13 2018-2019 ver.**
+**But Only for Matebook 13 2018-2019 ver.**
   
 
    
@@ -171,7 +171,7 @@ But I strongly recommand to use opencore(oc) efi to boot your device.
 <summary>1.Bluetooth</summary>   
   
 Thanks[@zxystd](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)  
-1. HUAWEI bluetooth mouse doesnt work.   
+1. HUAWEI bluetooth mouse doesnt work before macOS 12.   
 2. Airpods works,but need pairing.    
 
 A list of workable bluetooth mouse:https://github.com/ske1996/matebook-13-2019-oc-efi/issues/156  
@@ -473,6 +473,6 @@ Please donate with paypal
 
 - [@MoZyo](https://github.com/MoZyo/RedmiBook-13-10th-Gen-Intel-Hackintosh) teached me alot
 
-- [@Edoardo001](https://github.com/Edoardo001/Matebook-13-Hackintosh)  thanks him did a remarkable job in clover version hackintosh of matebook 13
+- [@acidanthera](https://github.com/acidanthera/OpenCorePkg)  A remarkable job make macOS could work in a non-Apple-build PC  
 
 - [@Zero-zer0](https://github.com/Zero-zer0) learned how to fix brightness key from him
