@@ -377,8 +377,8 @@ Catalina：https://github.com/xzhih/one-key-hidpi
 <summary>解锁CFG</summary>  
 
 ⚠️关于解锁cfg后能做到什么？  
-完美的电源管理  
-CPU完美变频  
+原生的电源管理  
+CPU原生变频  
 完美睡眠（我个人经验：睡眠6H只掉了1%的电）  
 ⚠️以下教程的cfg lock偏移地址提取自matebook13/14 2019/2018款  
 2020款的需要自行提取bios并自行分析，核对偏移地址  
